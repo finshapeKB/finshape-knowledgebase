@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="step_by_step_guidance">
+    <title>Step-by-step guidance </title>
+    <shortdesc>to make domestic payment you should follow several simple steps </shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to your Private client's Workspace</cmd>
+                <info>See Login section: ––––-</info>
+            </step>
+            <step>
+                <cmd>Select <menucascade>
+                        <uicontrol>Your Products</uicontrol>
+                        <uicontrol>Personal account</uicontrol>
+                    </menucascade> to open a Domestic account managing page</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>New Payment</uicontrol> to open Domestic payment task
+                    page</cmd>
+            </step>
+            <step>
+                <cmd>Enter <uicontrol>Recipient's name</uicontrol> to input payment's receiver
+                    name</cmd>
+            </step>
+            <step>
+                <cmd>Enter <uicontrol>Account number</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Bank code</uicontrol> from the drop down menu</cmd>
+            </step>
+            <step>
+                <cmd>Enter <uicontrol>Amount</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Currency</uicontrol> in which you'd like to pay</cmd>
+                <info>Your future account balance will be shown</info>
+            </step>
+            <step>
+                <cmd>Enter <uicontrol>Variable symbol</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Enter <uicontrol>Constant symbol</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Enter <uicontrol>Note to sender</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Email confirmation</uicontrol> to send a transfer
+                    notification</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Transfer date</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Continue</uicontrol> to proceed the payment</cmd>
+                <info><wintitle>Sign</wintitle> page will be opened to inform you about the
+                    transaction details. You will receive a <wintitle>New request to
+                        confirm</wintitle> SMS</info>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Confirm payment</uicontrol> on your mobile phone</cmd>
+                <info><wintitle>OK payment request</wintitle> page is opened to inform you that your
+                    payment request is being processing </info>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Done</uicontrol></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

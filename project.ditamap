@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Finshape Knowledge Base</title>
+    <topicref href="topics/how_to_use_knowledge_base.dita"/>
     <topicref href="topics/digital_banking_main_solution.dita">
         <topicref href="topics/db_modules.dita">
             <topicref href="topics/infrastructure_module.dita">
@@ -18,9 +19,50 @@
                 <topicref href="topics/dbos_output_connectors.dita"/>
             </topicref>
             <topicref href="topics/dbos_modul.dita">
-                <topicref href="topics/feature_component_1.dita"/>
-                <topicref href="topics/feature_component_2.dita"/>
-                <topicref href="topics/feature_component_3.dita"/>
+                <topicref href="topics/digital_identity.dita">
+                    <topicref href="topics/introduction_to_this_user_guide.dita">
+                        <topicref href="topics/understanding_user_guide_concept.dita"/>
+                        <topicref href="topics/how_to_use_user_guide.dita"/>
+                        <topicref href="topics/content_life_cycle.dita"/>
+                        <topicref href="topics/party.dita"/>
+                        <topicref href="topics/resources.dita"/>
+                    </topicref>
+                    <topicref href="topics/introduction_to_the_component.dita">
+                        <topicref href="topics/what_is_digital_identity_component.dita"/>
+                        <topicref href="topics/task_you_accomlish_using_this_component.dita"/>
+                        <topicref href="topics/roles_and_its_tasks.dita"/>
+                    </topicref>
+                    <topicref href="topics/istallation.dita"/>
+                    <topicref href="topics/getting_started.dita">
+                        <topicref href="topics/frequently_used_shortcut_keys.dita"/>
+                        <topicref href="topics/your_first_steps.dita"/>
+                        <topicref href="topics/getting_help.dita"/>
+                        <topicref href="topics/resources_to_help_you_getting_started.dita"/>
+                    </topicref>
+                    <topicref href="topics/configuration.dita"/>
+                    <topicref href="topics/maintenance.dita"/>
+                    <topicref href="topics/working_with_this_component.dita"/>
+                    <topicref href="topics/troubleshooting.dita"/>
+                </topicref>
+                <topicref href="topics/sider.dita"/>
+                <topicref href="topics/entitlements.dita"/>
+                <topicref href="topics/instant_data.dita"/>
+                <topicref href="topics/payments_instructions_tpm.dita"/>
+                <topicref href="topics/exchange_rates_xcr.dita"/>
+                <topicref href="topics/notifications_gnc.dita"/>
+                <topicref href="topics/distributions_gdc.dita"/>
+                <topicref href="topics/service_proxy_spx.dita"/>
+                <topicref href="topics/four_eyes_fey.dita"/>
+                <topicref href="topics/experience_builder_xpb.dita"/>
+                <topicref href="topics/live_data_streaming_lds.dita"/>
+                <topicref href="topics/integration_hub_gde.dita"/>
+                <topicref href="topics/ai_financial_assistant.dita"/>
+                <topicref href="topics/personalization_platform.dita"/>
+                <topicref href="topics/onboarding.dita"/>
+                <topicref href="topics/graphql_server.dita"/>
+                <topicref href="topics/content_management_system_cms.dita"/>
+                <topicref href="topics/interaction_designer.dita"/>
+                <topicref href="topics/bpm_engine.dita"/>
             </topicref>
             <topicref href="topics/applications_module.dita">
                 <topicref href="topics/app_component_1.dita"/>
@@ -175,6 +217,9 @@
         </topicref>
     </topicref>
     <topicref href="topics/roles.dita">
+        <topicref href="topics/finshape_roles.dita">
+            <topicref href="topics/salesperson.dita"/>
+        </topicref>
         <topicref href="topics/bank_s_employee_roles.dita">
             <topicref href="topics/ber_list.dita"/>
             <topicref href="topics/ber_1.dita"/>
@@ -204,9 +249,6 @@
                 <topicref href="topics/project_team_onboarding_tasks.dita"/>
                 <topicref href="topics/partner_onboarding_tasks.dita"/>
             </topicref>
-            <topicref href="topics/finshape_roles.dita">
-                <topicref href="topics/salesperson.dita"/>
-            </topicref>
             <topicref href="topics/marketing_process_tasks.dita"/>
             <topicref href="topics/sales_process_tasks.dita"/>
             <topicref href="topics/project_implementation_process_tasks.dita">
@@ -225,7 +267,9 @@
             <topicref href="topics/business_tasks.dita">
                 <topicref href="topics/untitled19.dita">
                     <topicref href="topics/functional_tasks_list.dita"/>
-                    <topicref href="topics/business_tasks_1.dita"/>
+                    <topicref href="topics/business_tasks_1.dita">
+                        <topicref href="topics/step_by_step_guidance.dita"/>
+                    </topicref>
                     <topicref href="topics/making_donations.dita"/>
                     <topicref href="topics/making_mobile_payments.dita"/>
                     <topicref href="topics/setting_standing_orders.dita"/>
@@ -431,4 +475,5 @@
             </topicref>
         </topicref>
     </topicref>
+    <topicref href="topics/glossary.dita"/>
 </map>
