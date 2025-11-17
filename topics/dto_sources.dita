@@ -14,7 +14,7 @@
             data and functions that are the parts of this specific DTO. One DTO may be connected to
             more than one function or task at the same time. Many DTO may be connected to one task
             as far as task may comprise several functions (steps).</p>
-        <p>We assume DTO types with the same way as Functions and Tasks to simplify their
+        <p>We assume that DTO types with the same way as Functions and Tasks to simplify their
             interconnection and relationship understanding:</p>
         <ul id="ul_mjv_m25_zgc">
             <li>
