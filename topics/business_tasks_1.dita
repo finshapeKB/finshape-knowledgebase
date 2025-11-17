@@ -12,6 +12,9 @@
             <p><b>Task domain</b>: <xref href="functional_tasks.dita"/></p>
             <p><b>Task type </b>: <xref href="business_tasks.dita"/></p>
             <p><b>Task sub type </b>: <xref href="untitled19.dita"/></p>
+        </section>
+        <section id="section_ryf_pqm_3hc">
+            <title>Making New Payment task relationships </title>
             <p><b>Is a part of Roles </b>(relationship type): <xref href="bank_s_privat_client.dita"
                 /></p>
             <p><b>Is handled within workspace</b> : <xref href="privat_clients_ui_workspace.dita"
@@ -19,9 +22,11 @@
             <p><b>Is handled within workspace page</b>: <xref
                     href="privat_clients_accounts_ui_page.dita"/></p>
             <p><b>Task handling UI pages</b> : <xref href="new_payment_page.dita"/></p>
-        </section>
-        <section id="section_ryf_pqm_3hc">
-            <title>Making New Payment task relationships </title>
+            <p><b>Consists of steps</b>: <xref href="bof_1.dita"/></p>
+            <p><b>Is affecting what</b> (relation type): Task may affect some other tasks, steps, or
+                processes after it is performed. For example, if you delete a user, then it may
+                require an update elsewhere. This type of affection has to clarified in the
+                table</p>
             <p>
                 <table frame="-dita-use-conref-target" id="table_g5g_cb1_hhc">
                     <title>New payment task's steps list</title>
@@ -214,19 +219,12 @@
                 </table>
             </p>
         </section>
+        <section id="section_v25_gcn_3hc">
+            <title>Step-by-step task guidance </title>
+            <p/>
+        </section>
         <p>
-            <div>
-                <p/>
-                <p/>
-                <p/>
-                <p><b>Refers to </b>(relationship type): Each task refers to a specific workspace or
-                    several workspaces. And accordingly, can be performed within a specific widget
-                    type. This type of relationship has to be clarified in the table</p>
-                <p><b>Is affecting what</b> (relation type): Task may affect some other tasks,
-                    steps, or processes after it is performed. For example, if you delete a user,
-                    then it may require an update elsewhere. This type of affection has to clarified
-                    in the table</p>
-            </div>
+            <div/>
         </p>
     </body>
 </topic>
