@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ui_controls_for_desktop_orders_ui_page_for_private_clients">
+    <title>Desktop UI controls for Order UI page for Private Clients</title>
+    <shortdesc>UI control for Order UI page is a visual representative of a task's step that is
+        located within Order UI page. Drop down menu, buttons, fields etc. are UI controls. UI
+        controls are usually connected to software application source code steps (functions) and
+        data, or lead to special product or task UI page.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

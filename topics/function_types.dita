@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="function_types">
+    <title>Step types</title>
+    <shortdesc/>
+    <body>
+        <p>Steps (functions) may be undertaken in any types of tasks. We divide all possible steps
+            to following types:</p>
+        <p>
+            <dl id="dl_x4x_vdb_1hc">
+                <dlentry>
+                    <dt>Admin Operation Functions</dt>
+                    <dd/>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_hnd_xdb_1hc">
+            <dlentry>
+                <dt>Security Operation Functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_ggw_xdb_1hc">
+            <dlentry>
+                <dt>Business Operation Functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_cth_ydb_1hc">
+            <dlentry>
+                <dt>Communication Operation Functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_d4w_ydb_1hc">
+            <dlentry>
+                <dt>Report and Analysis Operation Functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_tbh_zdb_1hc">
+            <dlentry>
+                <dt>Management Operation Functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_yjy_zdb_1hc">
+            <dlentry>
+                <dt>DBOS Maintenance Operation Functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+    </body>
+</topic>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\1\Desktop\all study projects\banking tasks\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="dto_sources" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="topic:1;3:25" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="title:1;4:12">DTO </title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="shortdesc:1;5:16">This section may be useful for front-end developers, business and technical
+        analytics, pre-sales, sales and even marketing to some point. Data Transfer Object (DTO)
+        usually use to simplify calling data and function that are needed to handle specific task
+        and run needed functions.</shortdesc>
+    <body class="- topic/body " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="body:1;9:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:1;10:12">We consider for DTO some container for all data and functions that are needed to handle
+            specific function as a step of a bigger business task. Business task in this context
+            means any task that may be done by using Digital Banking solution. DTO comprise data and
+            functions from any data sources and provide all needed information to operate with those
+            data and functions that are the parts of this specific DTO. One DTO may be connected to
+            more than one function or task at the same time. Many DTO may be connected to one task
+            as far as task may comprise several functions (steps).</p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:2;17:12">We assume DTO types with the same way as Functions and Tasks to simplify their
+            interconnection and relationship understanding:</p>
+        <ul id="ul_mjv_m25_zgc" class="- topic/ul " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="ul:1;19:33">
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:1;20:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:3;21:20">DTO for admin DBOS functions</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:2;23:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:4;24:20">DTO for security functions</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:3;26:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:5;27:20">DTO for business functions</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:4;29:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:6;30:20">DTO for communication functions</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:5;32:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:7;33:20">DTO for report and analysis functions</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:6;35:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:8;36:20">DTO for management functions</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="li:7;38:17">
+                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_sources.dita" xtrc="p:9;39:20">DTO for DBOS maintenance functions</p>
+            </li>
+        </ul>
+    </body>
+</topic>

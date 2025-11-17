@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privar_clients_steps_ui_controles">
+    <title>Desktop UI controls for Private Clients</title>
+    <shortdesc>UI control is a visual representative of  a task's step. Drop down menu, buttons,
+        fields etc. are UI controls. UI controls are usually connected to software application
+        source code steps (functions) and data.</shortdesc>
+</topic>

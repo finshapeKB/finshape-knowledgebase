@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="desktop_workspace_s_ui_pages">
+    <title>Desktop workspace UI pages</title>
+    <shortdesc>Workspace UI pages are specific pages that are to be accessed directly from a
+        Workspace menu bar</shortdesc>
+    <body>
+        <p>Workspace for Private Client is a desktop or a mobile UI starting page that is designed
+            for Private Client role. The workspace is opened as Private Clients login to the
+            internet banking application. Private Clients manage their banking operations within
+            workspace.</p>
+    </body>
+</topic>

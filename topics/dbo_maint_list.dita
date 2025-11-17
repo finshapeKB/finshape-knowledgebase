@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="dbo_maint_list">
+    <title>DTO list for DBOS maintenance functions</title>
+    <refbody><section>
+        <p></p>
+        <table frame="-dita-use-conref-target" id="table_zhw_r35_zgc">
+            <title>DTO for DBOS maintenance functions</title>
+            <tgroup cols="5" align="-dita-use-conref-target">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <thead>
+                    <row>
+                        <entry>DTO PID</entry>
+                        <entry>DTO title</entry>
+                        <entry>Consist of data</entry>
+                        <entry>Is a part of function</entry>
+                        <entry>DTO access level</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry><xref href="dbo_maint_1.dita"/></entry>
+                        <entry><xref href="tps_1_data_1.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry><xref href="cbs_1_data_2.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="dbo_maint_2.dita"/></entry>
+                        <entry><xref href="component_1_data_2.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry><xref href="tps_1_data_2.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="dbo_maint_3.dita"/></entry>
+                        <entry><xref href="cbs_1_data_3.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </section></refbody>
+</reference>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ui_controls_for_new_payment_task_page_list">
+    <title>UI controls for New Payment task page list</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="-dita-use-conref-target" id="table_wfc_zjl_3hc">
+            <title>UI controls for New Payment task's page</title>
+            <tgroup cols="5" align="-dita-use-conref-target">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <thead>
+                    <row>
+                        <entry>PID</entry>
+                        <entry>UI control title</entry>
+                        <entry>is a part of UI task's page</entry>
+                        <entry>Refers to Step</entry>
+                        <entry>Refers to Step's DTO</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry><xref href="page_title.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                        <entry><xref href="page_title_0.dita"/></entry>
+                        <entry><xref href="dto_for_step_show_page_title.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="page_close_button.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                        <entry><xref href="page_close_button_0.dita"/></entry>
+                        <entry><xref href="dto_for_step_close_new_payment_page.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="placeholder_for_account_details.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                        <entry><xref href="placeholder_for_account_details_0.dita"/></entry>
+                        <entry><xref href="dto_for_step_show_account_details.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="qr_code_scanner.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                        <entry><xref href="qr_code_scanner_0.dita"/></entry>
+                        <entry><xref href="dto_for_step_open_qr_code_scanner.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="to_czech_republic.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                        <entry><xref href="to_czech_republic_0.dita"/></entry>
+                        <entry><xref href="dto_for_step_switch_to_domestic_payment_page.dita"
+                            /></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="to_foreign_country.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                        <entry><xref href="to_foreign_country_0.dita"/></entry>
+                        <entry><xref href="dto_for_step_switch_to_sepa_payment_page.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

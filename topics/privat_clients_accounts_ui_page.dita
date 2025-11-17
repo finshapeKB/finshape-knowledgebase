@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privat_clients_accounts_ui_page">
+    <title>Desktop Domestic currency account UI page for Private client</title>
+    <shortdesc>Domestic Account is a bank product that is provided to clients. To operate with
+        Domestic Account, special UI page is created. Clients handle Domestic Account specific
+        operations within its UI page.</shortdesc>
+    <body>
+        <p>
+            <fig id="fig_h25_ncq_hhc">
+                <p>
+                    <fig id="fig_in4_z2y_hhc">
+                        <title>Domestic account page<image
+                                href="../images/domestic_accounts_ui_page.jpg"
+                                id="image_o3j_rbf_3hc"/></title>
+                    </fig>
+                </p>
+            </fig>
+        </p>
+    </body>
+</topic>

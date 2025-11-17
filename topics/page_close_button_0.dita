@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="page_close_button_0">
+    <title>Close New Payment page: FTS03.01.01.02</title>
+    <shortdesc>Close New Payment page step close the page without saving payment order.</shortdesc>
+    <body>
+        <p>Close New Payment page step has following parameters and methods:</p>
+        <p>Step Persistent ID (create unique ID within manufacturer domain): </p>
+        <p>Step Life Cycle Status (select inReview or Released ): inReview</p>
+        <p>Step is a part of what business Task (select): <ul id="ul_swd_lqz_ghc">
+                <li>
+                    <p><xref href="business_tasks_1.dita"/></p>
+                </li>
+            </ul></p>
+        <p>Step has type (enumeration of types): <xref href="bof_1.dita"/></p>
+        <p>Step is represented by what UI control: <xref href="page_close_button.dita"/></p>
+        <p>Step is a part of what software component (select): no component</p>
+        <p>Step may be accessed through what connector (select): no connector</p>
+        <p>Step may be accessed (step calling) using what API method (select reference pages): no
+            API</p>
+        <p>Step has DTO Access Level (select): no level</p>
+        <p>Step has DTO (select): no DTO</p>
+    </body>
+</topic>

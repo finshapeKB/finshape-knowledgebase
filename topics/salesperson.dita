@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="salesperson">
+    <title>Salesperson</title>
+    <shortdesc>Salesperson is the Role that responsible for selling enterprise products to a
+        qualified potential clients.</shortdesc>
+    <body>
+        <p>Salesperson handles following Product tasks:<table frame="-dita-use-conref-target"
+                id="table_z1x_tt5_ghc">
+                <title>Salesperson tasks list</title>
+                <tgroup cols="3" align="-dita-use-conref-target">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <thead>
+                        <row>
+                            <entry>PID</entry>
+                            <entry>Task title</entry>
+                            <entry>Process title</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>ps001</entry>
+                            <entry><xref href="initial_selling_proposition.dita"/></entry>
+                            <entry><xref href="project_implementation_sales_phase.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+    </body>
+</topic>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="new_payment_task_s_steps_list">
+    <title>New payment task's steps list</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="-dita-use-conref-target" id="table_g5g_cb1_hhc">
+            <title>New payment task's steps list</title>
+            <tgroup cols="5" align="-dita-use-conref-target">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="2.04*"/>
+                <colspec colnum="3" colname="c3" colwidth="1.63*"/>
+                <colspec colnum="4" colname="c4" colwidth="1.29*"/>
+                <colspec colnum="5" colname="c5" colwidth="1.49*"/>
+                <thead>
+                    <row>
+                        <entry>Step PID</entry>
+                        <entry>Step title</entry>
+                        <entry>Has UI control</entry>
+                        <entry>Has DTO</entry>
+                        <entry>Has access level</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry><xref href="page_title_0.dita"/></entry>
+                        <entry><xref href="page_title.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="page_close_button_0.dita"/></entry>
+                        <entry><xref href="page_close_button.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="placeholder_for_account_details_0.dita"/></entry>
+                        <entry><xref href="placeholder_for_account_details.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="qr_code_scanner_0.dita"/></entry>
+                        <entry><xref href="qr_code_scanner.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="to_czech_republic_0.dita"/></entry>
+                        <entry><xref href="to_czech_republic.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="to_foreign_country_0.dita"/></entry>
+                        <entry><xref href="to_foreign_country.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="recipient_s_name_0.dita"/></entry>
+                        <entry><xref href="recipient_s_name.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="contacts_and_templates_0.dita"/></entry>
+                        <entry><xref href="contacts_and_templates.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="account_number_or_iban_0.dita"/></entry>
+                        <entry><xref href="account_number_or_iban.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="bank_code_0.dita"/></entry>
+                        <entry><xref href="bank_code.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="payment_amount_0.dita"/></entry>
+                        <entry><xref href="payment_amount.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="currency_0.dita"/></entry>
+                        <entry><xref href="currency.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="future_account_balance_0.dita"/></entry>
+                        <entry><xref href="future_account_balance.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="variable_symbol_0.dita"/></entry>
+                        <entry><xref href="variable_symbol.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="constant_symbol_0.dita"/></entry>
+                        <entry><xref href="constant_symbol.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="specific_symbol_0.dita"/></entry>
+                        <entry><xref href="specific_symbol.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="note_to_payee_0.dita"/></entry>
+                        <entry><xref href="note_to_payee.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="note_to_sender_0.dita"/></entry>
+                        <entry><xref href="note_to_sender.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="email_confirmation_0.dita"/></entry>
+                        <entry><xref href="email_confirmation.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="transfer_date_0.dita"/></entry>
+                        <entry><xref href="transfer_date.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="create_a_template_0.dita"/></entry>
+                        <entry><xref href="create_a_template.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="save_and_new_payment_0.dita"/></entry>
+                        <entry><xref href="save_and_new_payment.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="continue_0.dita"/></entry>
+                        <entry><xref href="continue.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="payment_ai_assistant_0.dita"/></entry>
+                        <entry><xref href="payment_ai_assistant.dita"/></entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

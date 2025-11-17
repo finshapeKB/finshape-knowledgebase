@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\1\Desktop\all study projects\banking tasks\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="cbs_1_data_1" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="topic:1;3:26" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="title:1;4:12">Data 1 from the CBS 1</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="shortdesc:1;5:16">What the data from the business point of view</shortdesc>
+    <body class="- topic/body " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="body:1;6:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:1;7:12">Data Persistent ID (unique ID within manufacturer domain): </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:2;8:12">Data Life Cycle Status (enumeration of ): </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:3;9:12">Data has Access Level (enumeration of ):</p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:4;10:12">Data has type (enumeration of types): </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:5;11:12">Data coming from what source (enumeration of sources): </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:6;12:12">Data is a part of  DTO (enumeration of DTO): <ul id="ul_dnd_hx5_zgc" class="- topic/ul " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="ul:1;12:81">
+                <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="li:1;13:21">
+                    <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:7;14:25"/>
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="li:2;16:21">
+                    <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:8;17:25"/>
+                </li>
+            </ul></p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:9;20:12">
+            <ul id="ul_ulf_4l5_zgc" class="- topic/ul " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="ul:2;21:37">
+                <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="li:3;22:21">
+                    <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:10;23:25"/>
+                </li>
+            </ul>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:11;27:12">Data may be access through what connector (enumeration of): </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:12;28:12">Data may be accessed using what API method (reference pages): <ul id="ul_ob1_nx5_zgc" class="- topic/ul " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="ul:3;28:98">
+                <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="li:4;29:21">
+                    <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:13;30:24"><xref href="https://finshape.com/resources/" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="xref:1;31:27"/></p>
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="li:5;33:21">
+                    <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="p:14;34:24"><xref href="https://finshape.com/resources/" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/cbs_1_data_1.dita" xtrc="xref:2;35:27"/></p>
+                </li>
+            </ul></p>
+    </body>
+</topic>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dto_types">
+    <title>DTO types</title>
+    <shortdesc>DTO types are business categories that were made by dividing all business tasks to an
+        understandable logic groups. Business tasks and steps have the same types.</shortdesc>
+    <body>
+        <p>We assume DTO types with the same way as Tasks and Steps to simplify their
+            interconnection and relationship understanding. Types in turns may be divided to the
+            subtypes.</p>
+        <p>
+            <dl id="dl_qmx_rx1_1hc">
+                <dlentry>
+                    <dt>DTO for admin DBOS functions</dt>
+                    <dd/>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_dxt_wx1_1hc">
+            <dlentry>
+                <dt>DTO for security functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_wh1_xx1_1hc">
+            <dlentry>
+                <dt>DTO for business functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_fz4_xx1_1hc">
+            <dlentry>
+                <dt>DTO for communication functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_pdf_dy1_1hc">
+            <dlentry>
+                <dt>DTO for report and analysis functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_ytd_gy1_1hc">
+            <dlentry>
+                <dt>DTO for management functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+        <dl id="dl_v5r_hy1_1hc">
+            <dlentry>
+                <dt>DTO for DBOS maintenance functions</dt>
+                <dd/>
+            </dlentry>
+        </dl>
+    </body>
+</topic>

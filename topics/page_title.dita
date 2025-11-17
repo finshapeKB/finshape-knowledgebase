@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="page_title">
+    <title>UI control: Domestic Payment</title>
+    <shortdesc>Page title is a placeholder UI control that serves to display Task page title -
+        Domestic Payment</shortdesc>
+    <body>
+        <section id="section_ssv_n3k_3hc">
+            <title>Introduction</title>
+            <p>You can make domestic or foreign payment tasks . Separate domestic and foreign task
+                pages are designed for handling New Payment tasks. New Payment task page for
+                domestic payments has title <wintitle>Domestic Payment</wintitle>. </p>
+            <p><uicontrol>Domestic Payment</uicontrol> UI control has following identification
+                parameters:</p>
+            <p>UI control Persistent ID (create unique ID within manufacturer domain): </p>
+            <p>UI control image examples:<fig id="fig_atq_xlk_3hc">
+                    <image href="../images/uic_domestic_payment_page_title.jpg"
+                        id="image_fnq_jmk_3hc"/>
+                    <p>UI control Life Cycle Status (select inReview or Released ): inReview</p>
+                    <p>UI control is a part of what UI page (select): <ul id="ul_swd_lqz_ghc">
+                            <li>
+                                <p><xref href="new_payment_page.dita"/></p>
+                            </li>
+                        </ul></p>
+                </fig></p>
+        </section>
+        <section id="section_akt_1nk_3hc">
+            <title>Technical details</title>
+            <p>UI control has input type (select: Getter, Setter, Drop down list, etc.): Getter</p>
+            <p>UI control represents what task Step: <xref href="page_title_0.dita"/></p>
+            <p>UI control accesses task Step through what connector (select): no connector</p>
+            <p>UI control accesses task Step (step calling) using what API method (select reference
+                pages): </p>
+            <p>UI control has DTO (select): no DTO</p>
+        </section>
+        <section id="section_v4t_mpk_3hc">
+            <title>UI control Business logic</title>
+            <p>We MUST unify approaches to decoupling the UI presentation logic from UI business
+                logic. </p>
+            <p>Decoupling the UI presentation logic from the business logic means: <ul
+                    id="ul_sht_1tk_3hc">
+                    <li>
+                        <p>to implement any UI independent logic outside an UI layer</p>
+                    </li>
+                    <li>
+                        <p>to implement any logic which can be useful outside UI, somewhere outside
+                            an UI layer</p>
+                    </li>
+                    <li>
+                        <p> to decouple the system from specific UI technology</p>
+                    </li>
+                </ul> For example, designers often want or need to have: the UI controlling logic on
+                the server; the UI uses HTML or JavaScript on the client side; the UI controlling
+                logic to become subject of an automated test. </p>
+            <p>The idea is that the UI presentation logic should not touch the business rules at
+                all. The business logic sits at the back-end and the UI presentation logic sits on
+                the outside. UI presentation logic should just transfer commands and display any
+                updated output. </p>
+            <p>The problem is that it's quite difficult to imagine in practice. The UI presentation
+                will likely implement conditional rendering, and much of that conditional rendering
+                is a business rule. </p>
+            <p>Decoupling system from specific UI technology The decoupling system from specific UI
+                technology can be realized by introducing an extra view model layer or presenter
+                layer, which contains the UI controlling logic, but communicates with the UI through
+                an interface (and so keeps the UI technology exchangeable).</p>
+            <p>What Tasks and/or Steps a user can access depending on his role. Can access. in this
+                case, means restrict access to not allowed data and functions or based on the data
+                that the user's role assigned tasks work with, the system must restrict access to
+                features. Restricting access is an act. Since processing the user's role is business
+                logic of restricting access to features, it must not be implemented in the UI. It
+                needs to be implemented in the core of the application (back end). The
+                functions/methods themselves should throw an error if a user is not allowed to use
+                them.</p>
+        </section>
+        <section id="section_wfm_ppk_3hc">
+            <title>UI control Presentation logic</title>
+            <p>We MUST unify approaches to decoupling the UI presentation logic from UI business
+                logic. </p>
+            <p>Showing a list differently is not business logic, it is presentation logic. It should
+                not be implemented at the back end (where you process the data to display). </p>
+            <p>While deciding how to display a list has zero business logic, there are some forms of
+                conditional rendering that touches business logic. </p>
+            <p>Showing or hiding what the user is allowed to do is a business logic in the back end
+                that returns what the UI controls are supposed to render as navigation items.
+                However, it may be implemented on UI layer so that UI presentation logic can
+                show/hide navigation UI controls for tasks and/or their steps allowable to the user. </p>
+            <p>UI presentation logic can show/hide navigation UI controls for tasks and/or their
+                steps allowable to the user. In this case, showing or hiding what the user is
+                allowed to do is presentation logic. It can be implemented purely in UI based on the
+                user's role. In this case you’re implementing business logic as presentation logic
+                and, it's OK as far as it's not the only way you're restricting user's access to
+                features. </p>
+            <p>A more modular approach, however, is to have business logic in the back end return
+                what the UI is supposed to render as navigation items. </p>
+        </section>
+    </body>
+</topic>

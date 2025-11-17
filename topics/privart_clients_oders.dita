@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privart_clients_oders">
+    <title>Desktop Order UI page for Private Clients</title>
+    <shortdesc>Order is a bank product that is provided to clients. To operate with Order, special
+        UI page is created. Clients handle Order specific operations within its UI page.</shortdesc>
+    <body>
+        <p>
+            <fig id="fig_rqy_dfy_hhc">
+                <p>
+                    <fig id="fig_ocm_3fy_hhc">
+                        <title>Orders page</title>
+                        <image placement="break" href="../images/oders_page.jpg" align="left"
+                            id="image_pcm_3fy_hhc"/>
+                    </fig>
+                </p>
+            </fig>
+        </p>
+    </body>
+</topic>

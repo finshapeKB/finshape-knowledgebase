@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="note_to_payee_0">
+    <title>Input note to payee</title>
+    <shortdesc/>
+    <body>
+        <p>Input note to payee step has following parameters and methods:</p>
+        <p>Step Persistent ID (create unique ID within manufacturer domain): </p>
+        <p>Step Life Cycle Status (select inReview or Released ): inReview</p>
+        <p>Step is a part of what business Task (select): <ul id="ul_swd_lqz_ghc">
+                <li>
+                    <p><xref href="business_tasks_1.dita"/></p>
+                </li>
+            </ul></p>
+        <p>Step has type (enumeration of types): <xref href="bof_1.dita"/></p>
+        <p>Step is represented by what UI control: <xref href="note_to_payee.dita"/></p>
+        <p>Step is a part of what software component (select): </p>
+        <p>Step may be accessed through what connector (select): </p>
+        <p>Step may be accessed (step calling) using what API method (select reference pages): </p>
+        <p>Step has DTO Access Level (select): </p>
+        <p>Step has DTO (select): </p>
+    </body>
+</topic>

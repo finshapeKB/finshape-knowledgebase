@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="component_1_data_1">
+    <title>Data 1 from the DBOS component 1</title>
+    <shortdesc>What the data from the business point of view</shortdesc>
+    <body>
+        <p>Data Persistent ID (unique ID within manufacturer domain): </p>
+        <p>Data Life Cycle Status (enumeration of ): </p>
+        <p>Data has Access Level (enumeration of ): <xref href="middle_access_level.dita"/></p>
+        <p>Data has type (enumeration of types): </p>
+        <p>Data coming from what source (enumeration of sources): <xref href="component_1.dita"
+            /></p>
+        <p>Data is a part of  DTO (enumeration of DTO): <ul id="ul_dnd_hx5_zgc">
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul></p>
+        <p>
+            <ul id="ul_ulf_4l5_zgc">
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </p>
+        <p>Data may be access through what connector (enumeration of): </p>
+        <p>Data may be accessed using what API method (reference pages): <ul id="ul_ob1_nx5_zgc">
+                <li>
+                    <p><xref href="https://finshape.com/resources/" format="html" scope="external"
+                        /></p>
+                </li>
+                <li>
+                    <p><xref href="https://finshape.com/resources/" format="html" scope="external"
+                        /></p>
+                </li>
+            </ul></p>
+    </body>
+</topic>

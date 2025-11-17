@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dbos_components">
+    <title>DBOS source components</title>
+    <shortdesc>DBOS component  produces new data by running its own or third party functions. So,
+        DBOS component needs input data and provides its output data and functions.  DBOS component
+        may provide data and functions to other DBOS components, front-end applications and third
+        party systems.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

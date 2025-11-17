@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project basedir="C:\Program Files\Oxygen XML Editor 27\frameworks\dita\DITA-OT\plugins\com.oxygenxml.webhelp.responsive\templates\ashes" name="Copy template resources" default="copy-template-resources">
+    <target name="copy-template-resources">
+        <mkdir dir="C:\Users\1\Desktop\all study projects\banking tasks\out\webhelp-responsive\oxygen-webhelp\template"/>
+        <copy todir="C:\Users\1\Desktop\all study projects\banking tasks\out\webhelp-responsive\oxygen-webhelp\template" overwrite="yes" failonerror="yes" verbose="yes">
+            <fileset dir=".">
+                <include name="ashes.css"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="notes.css"/>
+            </fileset>
+        </copy>
+    </target>
+</project>

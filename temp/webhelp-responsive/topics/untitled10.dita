@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\1\Desktop\all study projects\banking tasks\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="untitled10" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="topic:1;3:24" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="title:1;4:12">Task types</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="shortdesc:1;5:16">Task types were defined to ease understanding their business nature. From the
+        business point of view we may divide all possible tasks into separate domains: Functional
+        Tasks and Product tasks. Tasks are divided into types within each domain and may be divided
+        into subtypes.</shortdesc>
+    <body class="- topic/body " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="body:1;9:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:1;10:12">Functional Tasks domain comprises all banking tasks which bank employees and their
+            clients handle using DB Solution software. Moreover this domain comprises all tasks that
+            are need to be done to install and maintenance DB Solution software. Functional domain
+            tasks are divided into seven types, each task type may have subtypes. Example,
+            Functional tasks/Business tasks/Payment tasks/... </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:2;15:12">Product Tasks domain comprises all tasks which manufacturer handle to design, produce,
+            sale, deliver and putting its products to use. Product domain tasks are divided into
+            -------- types. Product task types are associated with enterprise processes. Each task
+            type may have subtypes. </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:3;19:12">Functional tasks domain types:</p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:4;20:12">
+            <dl id="dl_ckp_ffb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:1;21:37">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:1;22:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:1;23:25">Admin tasks</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:1;24:26"/>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_axb_gfb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:2;28:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:2;29:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:2;30:21">Security tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:2;31:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_jrl_gfb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:3;34:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:3;35:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:3;36:21">Business tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:3;37:21">jjjjjjj <ul id="ul_krb_ycj_2hc" class="- topic/ul " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="ul:1;37:53">
+                        <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="li:1;38:29">
+                            <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:5;39:32">Payment tasks</p>
+                        </li>
+                        <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="li:2;41:29">
+                            <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:6;42:32">Client account tasks</p>
+                        </li>
+                    </ul></dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_ikx_gfb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:4;47:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:4;48:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:4;49:21">Communication tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:4;50:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_mlv_hfb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:5;53:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:5;54:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:5;55:21">Report and Analysis tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:5;56:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_vk2_3fb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:6;59:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:6;60:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:6;61:21">Management tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:6;62:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_p3t_3fb_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:7;65:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:7;66:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:7;67:21">DBOS Maintenance tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:7;68:22"/>
+            </dlentry>
+        </dl>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:7;71:12">Product tasks domain types:<dl id="dl_oqs_cw3_2hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:8;71:63">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:8;72:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:8;73:25">Onboarding tasks</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:8;74:25">kkkk<ul id="ul_vhj_gdj_2hc" class="- topic/ul " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="ul:2;74:53">
+                            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="li:3;75:33">
+                                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:8;76:36">Project team onboarding tasks </p>
+                            </li>
+                            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="li:4;78:33">
+                                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:9;79:36">Bank employees’ onboarding tasks</p>
+                            </li>
+                            <li class="- topic/li " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="li:5;81:33">
+                                <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="p:10;82:36">Partner onboarding tasks</p>
+                            </li>
+                        </ul></dd>
+                </dlentry>
+            </dl></p>
+        <dl id="dl_rtm_hw3_2hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:9;87:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:9;88:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:9;89:21">Sales tasks </dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:9;90:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_pds_jw3_2hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:10;93:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:10;94:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:10;95:21">Project implementation tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:10;96:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_wkp_lw3_2hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dl:11;99:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dlentry:11;100:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dt:11;101:21">Client support tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/untitled10.dita" xtrc="dd:11;102:22"/>
+            </dlentry>
+        </dl>
+    </body>
+</topic>

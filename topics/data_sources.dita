@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="data_sources">
+    <title>Data and their Sources</title>
+    <shortdesc>This section may be useful for developers that are responsible for connecting DBOS to
+        Core Banking systems, Third party systems and internal DBOS component connections, as well
+        as DBOS configuration. To handle business tasks and run functions you may need data from
+        various sources. Data sources effects DBOS configuration. </shortdesc>
+    <body>
+        <p>To handle business tasks you need some functions (Steps) to do. Task and Function
+            business logic (source code fragment) is placed to particular DBOS component. To handle
+            functions you may need some data or other functions to derive (data or functions
+            calling) from various data sources. Data or Function sources may be Core Banking
+            systems, Third party systems and other DBOS components. It's crucial to understand
+            sources of data or function not only to call them but to be able to configure DBOS
+            components. For example, Task (task_title_1) business logic is placed to DBOS Component
+            1. To handle task_title_1 you need data that provides by other DBOS Component 11 and by
+            Third party system. That means that you can't take to your custom DBOS configuration
+            DBOS Component 1 and not to take DBOS Component 11 and that Third party system. </p>
+        <example id="example_ycb_1dt_zgc">For example, Task (task_title_1) business logic is placed
+            to DBOS Component 1. To handle task_title_1 you need data that provides by other DBOS
+            Component 11 and by Third party system. That means that you can't take to your custom
+            DBOS configuration DBOS Component 1 and not to take DBOS Component 11 and that Third
+            party system.</example>
+        <p>Each data (data type) has its own page that provides all possible information that may be
+            needed to operate with the data or data type.</p>
+        <example id="example_dmt_1kt_zgc">For example, <xref href="component_1_data_1.dita"
+            /></example>
+    </body>
+</topic>

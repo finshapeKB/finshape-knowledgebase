@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="initial_selling_proposition">
+    <title>Initial selling proposition: PT04.01.01</title>
+    <shortdesc>Initial selling proposition is the starting point of Project Implementation process.
+        Salesperson create document that has the same title - Initial selling proposition and is
+        created based on enterprise products that are described in Knowledge Base portal, Functional
+        Tasks section.</shortdesc>
+    <body>
+        <p>Introduction task section</p>
+        <p>Task parameters section<ul id="ul_g3c_qy5_ghc">
+                <li>
+                    <p>Task PID: ps001</p>
+                </li>
+            </ul></p>
+        <p>Step by step guidance to create Initial selling proposition document.<ol
+                id="ol_lpn_cv5_ghc">
+                <li>
+                    <p>Find out with your client what Role handles the task and what Category the
+                        task is.</p>
+                </li>
+                <li>
+                    <p>Go to Knowledge Base section Roles to review tasks that are assigned to this
+                        Role</p>
+                </li>
+                <li>
+                    <p>Go to Knowledge Base section: Tasks/Functional tasks/Functional tasks
+                            list<table frame="-dita-use-conref-target" id="table_hzs_lv5_ghc">
+                            <title>Functional tasks list</title>
+                            <tgroup cols="5" align="-dita-use-conref-target">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <colspec colnum="3" colname="c3"/>
+                                <colspec colnum="4" colname="c4"/>
+                                <colspec colnum="5" colname="c5"/>
+                                <thead>
+                                    <row>
+                                        <entry>PID</entry>
+                                        <entry>Task type</entry>
+                                        <entry>Task title</entry>
+                                        <entry>Task UI page</entry>
+                                        <entry>Consist of steps</entry>
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                    </row>
+                                    <row>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                    </row>
+                                    <row>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                    </row>
+                                    <row>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                    </row>
+                                    <row>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                        <entry/>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table></p>
+                </li>
+                <li>
+                    <p>Find within the task list the task title clients is talking about</p>
+                </li>
+                <li>
+                    <p>Select Task UI page</p>
+                </li>
+                <li>
+                    <p>Lead the client through Task step by step guidance</p>
+                </li>
+                <li>
+                    <p>Select the Task UI Page as initial client requirement order<note
+                            id="note_wsz_gx5_ghc">If we have such tool (interoperability), the
+                            document line will be generated automatically.</note></p>
+                </li>
+                <li>
+                    <p>Go to the next Task.</p>
+                </li>
+            </ol></p>
+    </body>
+</topic>

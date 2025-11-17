@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\1\Desktop\all study projects\banking tasks\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="dto_types" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="topic:1;3:23" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="title:1;4:12">DTO types</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="shortdesc:1;5:16">DTO types are business categories that were made by dividing  all business tasks to
+        an understandable logic groups. Business tasks and functions or steps have the same
+        types.</shortdesc>
+    <body class="- topic/body " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="body:1;8:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="p:1;9:12">We assume DTO types with the same way as Functions and Tasks to simplify their
+            interconnection and relationship understanding. Types in turns may be divided to the
+            subtypes.</p>
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="p:2;12:12">
+            <dl id="dl_qmx_rx1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:1;13:37">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:1;14:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:1;15:25">DTO for admin DBOS functions</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:1;16:26"/>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_dxt_wx1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:2;20:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:2;21:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:2;22:21">DTO for security functions</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:2;23:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_wh1_xx1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:3;26:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:3;27:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:3;28:21">DTO for business functions</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:3;29:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_fz4_xx1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:4;32:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:4;33:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:4;34:21">DTO for communication functions</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:4;35:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_pdf_dy1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:5;38:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:5;39:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:5;40:21">DTO for report and analysis functions</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:5;41:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_ytd_gy1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:6;44:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:6;45:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:6;46:21">DTO for management functions</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:6;47:22"/>
+            </dlentry>
+        </dl>
+        <dl id="dl_v5r_hy1_1hc" class="- topic/dl " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dl:7;50:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dlentry:7;51:22">
+                <dt class="- topic/dt " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dt:7;52:21">DTO for DBOS maintenance functions</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/dto_types.dita" xtrc="dd:7;53:22"/>
+            </dlentry>
+        </dl>
+    </body>
+</topic>

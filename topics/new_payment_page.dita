@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="new_payment_page">
+    <title>Making New Payment task’s UI page: UIFT03.01.01</title>
+    <shortdesc>New Payment page is a task UI page that specially designed to help clients follow all
+        needed steps to make new payment from one of client's accounts to а payee. </shortdesc>
+    <body>
+        <p>Depending on what the payment is, domestic or foreign, corresponding UI page is opening.
+            You may switching Domestic Payment and SEPA Payment pages by selecting <uicontrol>To
+                Czech Republic</uicontrol> or <uicontrol>To foreign country</uicontrol>. UI controls
+            that represent task Steps within the Domestic Payment and SEPA Payment pages may
+            differ.</p>
+        <p>Whether the destination is domestic or international: this intelligent form adapts itself
+            to the data you enter, e.g., if you select a German contact or simply start with an
+            German IBAN, I will automatically switch to the SEPA transfer form. </p>
+        <p>Domestic payment Transfers to another bank account within your own country have 3
+            mandatory fields only: Name, Account number and Amount. All other fields are
+            optional.</p>
+        <fig id="fig_lxj_wfv_ghc">
+            <p>
+                <fig id="fig_k5w_bgv_ghc">
+                    <p>
+                        <fig id="fig_prx_l1w_ghc">
+                            <title>Domestic Payment page</title>
+                            <image placement="break" href="../images/new_payment_page_1.png"
+                                align="left" id="image_qrx_l1w_ghc">
+                                <alt>New Payment</alt>
+                            </image>
+                        </fig>
+                    </p>
+                </fig>
+            </p>
+        </fig>
+        <fig id="fig_fzm_tcw_ghc">
+            <p>
+                <fig id="fig_n2z_ldw_ghc">
+                    <title>SEPA Payment page</title>
+                    <image placement="break" href="../images/new_payment_page_2.png" align="left"
+                        id="image_o2z_ldw_ghc">
+                        <alt>New Payment</alt>
+                    </image>
+                </fig>
+            </p>
+        </fig>
+        <p>Domestic Payment page and SEPA Payment page consist of following UI controls:<dl
+                id="dl_ish_cgw_ghc">
+                <dlentry>
+                    <dt><xref href="page_title.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="page_close_button.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="placeholder_for_account_details.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="qr_code_scanner.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="to_czech_republic.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="to_foreign_country.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="recipient_s_name.dita"/></dt>
+                    <dd>Name: Enter a name or pick a contact or a template from your Address
+                        book.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="contacts_and_templates.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="account_number_or_iban.dita"/></dt>
+                    <dd>Account number: Enter full account number (e.g. 19-41750/0800) or IBAN.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="bank_code.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="payment_amount.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="currency.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="future_account_balance.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="variable_symbol.dita"/></dt>
+                    <dd>Variable symbol is an identifier usually used to indicate invoice numbers.
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="constant_symbol.dita"/></dt>
+                    <dd>Constant symbol is another payment identifier.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="specific_symbol.dita"/></dt>
+                    <dd>Specific symbol is used for payment identification.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="note_to_payee.dita"/></dt>
+                    <dd>Note to payee is a message for recipient. Leave a nice message or relevant
+                        details about a payment. It's up to you.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="note_to_sender.dita"/></dt>
+                    <dd>Note to sender is a message for yourself. Leave a note for yourself. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="email_confirmation.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="transfer_date.dita"/></dt>
+                    <dd>Select desired payment date. If you don't select a date, payment will be
+                        processed immediately and execute it on the earliest day possible.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="create_a_template.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="save_and_new_payment.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="continue.dita"/></dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="payment_ai_assistant.dita"/></dt>
+                    <dd/>
+                </dlentry>
+            </dl></p>
+    </body>
+</topic>

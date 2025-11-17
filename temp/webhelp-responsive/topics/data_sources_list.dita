@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\1\Desktop\all study projects\banking tasks\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="data_sources_list" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="topic:1;3:31" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="title:1;4:12">Data Sources List</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="shortdesc:1;5:16">Data sources list provides all sources that provide input data that are needed to
+        handle business tasks an functions to run. </shortdesc>
+    <body class="- topic/body " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="body:1;7:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="p:1;8:12"/>
+        <table frame="-dita-use-conref-target" id="table_n2w_1ns_zgc" class="- topic/table " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="table:1;9:71">
+            <title class="- topic/title " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="title:2;10:20">Data sources list</title>
+            <tgroup cols="4" align="-dita-use-conref-target" class="- topic/tgroup " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="tgroup:1;11:62">
+                <colspec colnum="1" colname="c2" class="- topic/colspec " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="colspec:1;12:51"/>
+                <colspec colnum="2" colname="c3" class="- topic/colspec " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="colspec:2;13:51"/>
+                <colspec colnum="3" colname="c4" class="- topic/colspec " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="colspec:3;14:51"/>
+                <colspec colnum="4" colname="c5" class="- topic/colspec " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="colspec:4;15:51"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="thead:1;16:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="row:1;17:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:1;18:32">Source PID</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:2;19:32">Source title</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:3;20:32">Provided data list</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:4;21:32">Provides data through </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="tbody:1;24:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="row:2;25:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:5;26:33"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:6;27:32"><xref href="component_1.dita" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="xref:1;27:63"/></entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:7;28:32"><xref href="component_1_data_list.dita" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="xref:2;28:73"/></entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:8;29:33"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="row:3;31:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:9;32:33"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:10;33:32"><xref href="cbs_1.dita" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="xref:3;33:57"/></entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:11;34:32"><xref href="cbs_1_data_list.dita" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="xref:4;34:67"/></entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:12;35:33"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="row:4;37:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:13;38:33"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:14;39:32"><xref href="tps_1.dita" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="xref:5;39:57"/></entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:15;40:32"><xref href="tps_1_data_list.dita" class="- topic/xref " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="xref:6;40:67"/></entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:16;41:33"/>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="row:5;43:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:17;44:33"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:18;45:33"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:19;46:33"/>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/topics/data_sources_list.dita" xtrc="entry:20;47:33"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

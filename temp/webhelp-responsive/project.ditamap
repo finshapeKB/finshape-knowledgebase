@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\1\Desktop\all study projects\banking tasks\temp\webhelp-responsive?><?workdir-uri file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">Digital Banking Concept</title>
+    <topicref href="topics/digital_banking_main_solution.dita" class="- map/topicref " xtrc="topicref:1;5:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/db_modules.dita" class="- map/topicref " xtrc="topicref:2;6:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/infrastructure_module.dita" class="- map/topicref " xtrc="topicref:3;7:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/infra_components_list.dita" class="- map/topicref " xtrc="topicref:4;8:69" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/infra_component_1.dita" class="- map/topicref " xtrc="topicref:5;9:65" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/infra_component_2.dita" class="- map/topicref " xtrc="topicref:6;10:65" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/infrs_component_3.dita" class="- map/topicref " xtrc="topicref:7;11:65" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/connectors_module.dita" class="- map/topicref " xtrc="topicref:8;13:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/connectors_list.dita" class="- map/topicref " xtrc="topicref:9;14:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/dbos_input_connectors.dita" class="- map/topicref " xtrc="topicref:10;15:69" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/dbos_internal_connectors.dita" class="- map/topicref " xtrc="topicref:11;16:72" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/dbos_component_connectors.dita" class="- map/topicref " xtrc="topicref:12;17:73" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/dbos_output_connectors.dita" class="- map/topicref " xtrc="topicref:13;18:70" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/dbos_modul.dita" class="- map/topicref " xtrc="topicref:14;20:53" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/feature_component_1.dita" class="- map/topicref " xtrc="topicref:15;21:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/feature_component_2.dita" class="- map/topicref " xtrc="topicref:16;22:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/feature_component_3.dita" class="- map/topicref " xtrc="topicref:17;23:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/applications_module.dita" class="- map/topicref " xtrc="topicref:18;25:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/app_component_1.dita" class="- map/topicref " xtrc="topicref:19;26:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/app_component_2.dita" class="- map/topicref " xtrc="topicref:20;27:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/app_component_3.dita" class="- map/topicref " xtrc="topicref:21;28:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/dbos.dita" class="- map/topicref " xtrc="topicref:22;31:44" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/banking_for_employees.dita" class="- map/topicref " xtrc="topicref:23;32:61" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/internet_banking_for_corporate_clients.dita" class="- map/topicref " xtrc="topicref:24;33:78" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/internet_banking_for_privat_clients.dita" class="- map/topicref " xtrc="topicref:25;34:75" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+    </topicref>
+    <topicref href="topics/work_spaces_to_handle_tasks.dita" class="- map/topicref " xtrc="topicref:26;36:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/bank_s_employee_app_ui.dita" class="- map/topicref " xtrc="topicref:27;37:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/bank_s_corporate_client_app_ui.dita" class="- map/topicref " xtrc="topicref:28;38:70" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/bank_s_privat_client_app_ui.dita" class="- map/topicref " xtrc="topicref:29;39:66" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/privat_clients_ui_workspace.dita" class="- map/topicref " xtrc="topicref:30;40:70" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/privat_client_workspace_menu.dita" class="- map/topicref " xtrc="topicref:31;41:76" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/privat_client_workspace_toolbar.dita" class="- map/topicref " xtrc="topicref:32;42:79" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/privat_client_side_menu.dita" class="- map/topicref " xtrc="topicref:33;43:71" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/privat_clients_bank_product_ui_pages.dita" class="- map/topicref " xtrc="topicref:34;45:79" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/privat_clients_accounts_ui_page.dita" class="- map/topicref " xtrc="topicref:35;46:79" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/privat_clients_forein_accouts_ui_page.dita" class="- map/topicref " xtrc="topicref:36;47:85" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/privart_clients_oders.dita" class="- map/topicref " xtrc="topicref:37;48:69" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/privat_clients_cards_ui_page.dita" class="- map/topicref " xtrc="topicref:38;49:76" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/privar_clients_tasks_ui_pages.dita" class="- map/topicref " xtrc="topicref:39;51:73" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/privar_clients_steps_ui_controles.dita" class="- map/topicref " xtrc="topicref:40;52:77" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/roles.dita" class="- map/topicref " xtrc="topicref:41;55:40" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/bank_s_employee_roles.dita" class="- map/topicref " xtrc="topicref:42;56:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/ber_list.dita" class="- map/topicref " xtrc="topicref:43;57:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/ber_1.dita" class="- map/topicref " xtrc="topicref:44;58:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/ber_2.dita" class="- map/topicref " xtrc="topicref:45;59:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/ber_3.dita" class="- map/topicref " xtrc="topicref:46;60:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/bank_s_outsourcer_roles.dita" class="- map/topicref " xtrc="topicref:47;62:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/bor_list.dita" class="- map/topicref " xtrc="topicref:48;63:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bor_1.dita" class="- map/topicref " xtrc="topicref:49;64:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bor_2.dita" class="- map/topicref " xtrc="topicref:50;65:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bor_3.dita" class="- map/topicref " xtrc="topicref:51;66:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/bank_s_corporate_client_roles.dita" class="- map/topicref " xtrc="topicref:52;68:68" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/bcc_list.dita" class="- map/topicref " xtrc="topicref:53;69:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bcc_1.dita" class="- map/topicref " xtrc="topicref:54;70:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bcc2.dita" class="- map/topicref " xtrc="topicref:55;71:48" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bcc3.dita" class="- map/topicref " xtrc="topicref:56;72:48" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/bank_s_privat_client.dita" class="- map/topicref " xtrc="topicref:57;74:59" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/ppc_list.dita" class="- map/topicref " xtrc="topicref:58;75:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bpc_1.dita" class="- map/topicref " xtrc="topicref:59;76:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bpc_2.dita" class="- map/topicref " xtrc="topicref:60;77:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bpc_3.dita" class="- map/topicref " xtrc="topicref:61;78:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/rights_to_do_tasks.dita" class="- map/topicref " xtrc="topicref:62;81:53" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/right_1.dita" class="- map/topicref " xtrc="topicref:63;82:47" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/right_2.dita" class="- map/topicref " xtrc="topicref:64;83:47" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/right_3.dita" class="- map/topicref " xtrc="topicref:65;84:47" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/right_4.dita" class="- map/topicref " xtrc="topicref:66;85:47" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+    </topicref>
+    <topicref href="topics/tasks.dita" class="- map/topicref " xtrc="topicref:67;87:40" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/untitled10.dita" class="- map/topicref " xtrc="topicref:68;88:50" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/tasks_list.dita" class="- map/topicref " xtrc="topicref:69;89:50" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/admin_tasks.dita" class="- map/topicref " xtrc="topicref:70;90:50" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/admin_tasks_list.dita" class="- map/topicref " xtrc="topicref:71;91:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/admin_tasks_1.dita" class="- map/topicref " xtrc="topicref:72;92:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/admin_tasks_2.dita" class="- map/topicref " xtrc="topicref:73;93:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/admin_tasks_3.dita" class="- map/topicref " xtrc="topicref:74;94:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/security_tasks.dita" class="- map/topicref " xtrc="topicref:75;96:53" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/security_tasks_list.dita" class="- map/topicref " xtrc="topicref:76;97:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/security_tasks_1.dita" class="- map/topicref " xtrc="topicref:77;98:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/security_tasks_2.dita" class="- map/topicref " xtrc="topicref:78;99:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/security_tasks_3.dita" class="- map/topicref " xtrc="topicref:79;100:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/business_tasks.dita" class="- map/topicref " xtrc="topicref:80;102:53" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/business_tasks_list.dita" class="- map/topicref " xtrc="topicref:81;103:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/business_tasks_1.dita" class="- map/topicref " xtrc="topicref:82;104:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/business_tasks_2.dita" class="- map/topicref " xtrc="topicref:83;105:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/business_tasks_3.dita" class="- map/topicref " xtrc="topicref:84;106:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/comunication_tasks.dita" class="- map/topicref " xtrc="topicref:85;108:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/comunication_tasks_list.dita" class="- map/topicref " xtrc="topicref:86;109:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/comunication_tasks_1.dita" class="- map/topicref " xtrc="topicref:87;110:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/comunication_tasks_2.dita" class="- map/topicref " xtrc="topicref:88;111:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/comunication_tasks_3.dita" class="- map/topicref " xtrc="topicref:89;112:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/report_and_analysys_tasks.dita" class="- map/topicref " xtrc="topicref:90;114:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/report_and_analysys_tasks_list.dita" class="- map/topicref " xtrc="topicref:91;115:74" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/report_and_analysys_tasks_1.dita" class="- map/topicref " xtrc="topicref:92;116:71" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/report_and_analysys_tasks_2.dita" class="- map/topicref " xtrc="topicref:93;117:71" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/report_and_analysys_tasks_3.dita" class="- map/topicref " xtrc="topicref:94;118:71" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/management_tasks.dita" class="- map/topicref " xtrc="topicref:95;120:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/management_tasks_list.dita" class="- map/topicref " xtrc="topicref:96;121:65" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/management_tasks_1.dita" class="- map/topicref " xtrc="topicref:97;122:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/management_tasks_2.dita" class="- map/topicref " xtrc="topicref:98;123:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/management_tasks_3.dita" class="- map/topicref " xtrc="topicref:99;124:62" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dbos_maintenance_tasks.dita" class="- map/topicref " xtrc="topicref:100;126:61" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dbos_maintenance_tasks_list.dita" class="- map/topicref " xtrc="topicref:101;127:71" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbos_maintenance_tasks_1.dita" class="- map/topicref " xtrc="topicref:102;128:68" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbos_maintenance_tasks_2.dita" class="- map/topicref " xtrc="topicref:103;129:68" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbos_maintenance_tasks_3.dita" class="- map/topicref " xtrc="topicref:104;130:68" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/functions_or_steps.dita" class="- map/topicref " xtrc="topicref:105;133:53" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/function_types.dita" class="- map/topicref " xtrc="topicref:106;134:54" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/functions_or_steps_list.dita" class="- map/topicref " xtrc="topicref:107;135:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/admin_operation_functions.dita" class="- map/topicref " xtrc="topicref:108;136:64" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/aof_list.dita" class="- map/topicref " xtrc="topicref:109;137:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/aof_1.dita" class="- map/topicref " xtrc="topicref:110;138:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/aof_2.dita" class="- map/topicref " xtrc="topicref:111;139:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/aof_3.dita" class="- map/topicref " xtrc="topicref:112;140:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/security_operation_functions.dita" class="- map/topicref " xtrc="topicref:113;142:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/sof_list.dita" class="- map/topicref " xtrc="topicref:114;143:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/sof_1.dita" class="- map/topicref " xtrc="topicref:115;144:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/sof_2.dita" class="- map/topicref " xtrc="topicref:116;145:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/sof_3.dita" class="- map/topicref " xtrc="topicref:117;146:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/business_operation_functions.dita" class="- map/topicref " xtrc="topicref:118;148:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/bof_list.dita" class="- map/topicref " xtrc="topicref:119;149:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bof_1.dita" class="- map/topicref " xtrc="topicref:120;150:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bof_2.dita" class="- map/topicref " xtrc="topicref:121;151:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/bof_3.dita" class="- map/topicref " xtrc="topicref:122;152:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/comunication_operation_functions.dita" class="- map/topicref " xtrc="topicref:123;154:71" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/cof_lisr.dita" class="- map/topicref " xtrc="topicref:124;155:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/cof_1.dita" class="- map/topicref " xtrc="topicref:125;156:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/cof_2.dita" class="- map/topicref " xtrc="topicref:126;157:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/cof_3.dita" class="- map/topicref " xtrc="topicref:127;158:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/report_and_analysys_operation_functions.dita" class="- map/topicref " xtrc="topicref:128;160:78" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/raof_list.dita" class="- map/topicref " xtrc="topicref:129;161:53" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/raof_1.dita" class="- map/topicref " xtrc="topicref:130;162:50" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/raof_2.dita" class="- map/topicref " xtrc="topicref:131;163:50" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/raof_3.dita" class="- map/topicref " xtrc="topicref:132;164:50" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/management_operation_functions.dita" class="- map/topicref " xtrc="topicref:133;166:69" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/mof_list.dita" class="- map/topicref " xtrc="topicref:134;167:52" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/mof_1.dita" class="- map/topicref " xtrc="topicref:135;168:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/mof_2.dita" class="- map/topicref " xtrc="topicref:136;169:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/mof_3.dita" class="- map/topicref " xtrc="topicref:137;170:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dbos_maintenance_operation_functions.dita" class="- map/topicref " xtrc="topicref:138;172:75" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dbos_mof_list.dita" class="- map/topicref " xtrc="topicref:139;173:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbos_mof_1.dita" class="- map/topicref " xtrc="topicref:140;174:54" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbos_mof_2.dita" class="- map/topicref " xtrc="topicref:141;175:54" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbos_mof_3.dita" class="- map/topicref " xtrc="topicref:142;176:54" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_and_dto_access_levels.dita" class="- map/topicref " xtrc="topicref:143;179:61" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/low_access_level.dita" class="- map/topicref " xtrc="topicref:144;180:56" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/middle_access_level.dita" class="- map/topicref " xtrc="topicref:145;181:59" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/high_access_level.dita" class="- map/topicref " xtrc="topicref:146;182:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+    </topicref>
+    <topicref href="topics/dto_sources.dita" class="- map/topicref " xtrc="topicref:147;184:46" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/dto_types.dita" class="- map/topicref " xtrc="topicref:148;185:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/untitled2.dita" class="- map/topicref " xtrc="topicref:149;186:49" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/dto_for_admin_dbos_functions.dita" class="- map/topicref " xtrc="topicref:150;187:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dto_admin_list.dita" class="- map/topicref " xtrc="topicref:151;188:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_admin_1.dita" class="- map/topicref " xtrc="topicref:152;189:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_admin_2.dita" class="- map/topicref " xtrc="topicref:153;190:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_admin_3.dita" class="- map/topicref " xtrc="topicref:154;191:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_security_functions.dita" class="- map/topicref " xtrc="topicref:155;193:65" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dto_security_list.dita" class="- map/topicref " xtrc="topicref:156;194:61" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_security_1.dita" class="- map/topicref " xtrc="topicref:157;195:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_security_2.dita" class="- map/topicref " xtrc="topicref:158;196:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_security_3.dita" class="- map/topicref " xtrc="topicref:159;197:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_business_functions.dita" class="- map/topicref " xtrc="topicref:160;199:65" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dto_business_list.dita" class="- map/topicref " xtrc="topicref:161;200:61" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_business_1.dita" class="- map/topicref " xtrc="topicref:162;201:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_business_2.dita" class="- map/topicref " xtrc="topicref:163;202:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_business_3.dita" class="- map/topicref " xtrc="topicref:164;203:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_communication_functions.dita" class="- map/topicref " xtrc="topicref:165;205:70" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dto_communication_list.dita" class="- map/topicref " xtrc="topicref:166;206:66" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_communication_1.dita" class="- map/topicref " xtrc="topicref:167;207:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_communication_2.dita" class="- map/topicref " xtrc="topicref:168;208:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_communication_3.dita" class="- map/topicref " xtrc="topicref:169;209:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_report_and_analysys_functions.dita" class="- map/topicref " xtrc="topicref:170;211:76" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dto_report_list.dita" class="- map/topicref " xtrc="topicref:171;212:59" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_report_1.dita" class="- map/topicref " xtrc="topicref:172;213:56" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_report_2.dita" class="- map/topicref " xtrc="topicref:173;214:56" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_report_3.dita" class="- map/topicref " xtrc="topicref:174;215:56" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_management_functions.dita" class="- map/topicref " xtrc="topicref:175;217:67" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dto_management_list.dita" class="- map/topicref " xtrc="topicref:176;218:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_management_1.dita" class="- map/topicref " xtrc="topicref:177;219:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_management_2.dita" class="- map/topicref " xtrc="topicref:178;220:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dto_management_3.dita" class="- map/topicref " xtrc="topicref:179;221:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_dbos_maintenance_functions.dita" class="- map/topicref " xtrc="topicref:180;223:73" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dbo_maint_list.dita" class="- map/topicref " xtrc="topicref:181;224:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbo_maint_1.dita" class="- map/topicref " xtrc="topicref:182;225:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbo_maint_2.dita" class="- map/topicref " xtrc="topicref:183;226:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/dbo_maint_3.dita" class="- map/topicref " xtrc="topicref:184;227:55" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_sources.dita" class="- map/topicref " xtrc="topicref:185;230:47" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+        <topicref href="topics/all_sources_data_list.dita" class="- map/topicref " xtrc="topicref:186;231:61" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/data_sources_list.dita" class="- map/topicref " xtrc="topicref:187;232:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+        <topicref href="topics/dbos_components.dita" class="- map/topicref " xtrc="topicref:188;233:54" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/dbos_components_data_list.dita" class="- map/topicref " xtrc="topicref:189;234:69" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/component_1.dita" class="- map/topicref " xtrc="topicref:190;235:54" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/component_1_data_list.dita" class="- map/topicref " xtrc="topicref:191;236:69" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/component_1_data_1.dita" class="- map/topicref " xtrc="topicref:192;237:66" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/component_1_data_2.dita" class="- map/topicref " xtrc="topicref:193;238:66" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/component_1_data_3.dita" class="- map/topicref " xtrc="topicref:194;239:66" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/core_banking_systems.dita" class="- map/topicref " xtrc="topicref:195;242:59" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/cbs_data_list.dita" class="- map/topicref " xtrc="topicref:196;243:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/cbs_1.dita" class="- map/topicref " xtrc="topicref:197;244:48" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/cbs_1_data_list.dita" class="- map/topicref " xtrc="topicref:198;245:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/cbs_1_data_1.dita" class="- map/topicref " xtrc="topicref:199;246:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/cbs_1_data_2.dita" class="- map/topicref " xtrc="topicref:200;247:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/cbs_1_data_3.dita" class="- map/topicref " xtrc="topicref:201;248:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/third_party_systems.dita" class="- map/topicref " xtrc="topicref:202;251:58" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+            <topicref href="topics/tps_data_list.dita" class="- map/topicref " xtrc="topicref:203;252:57" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            <topicref href="topics/tps_1.dita" class="- map/topicref " xtrc="topicref:204;253:48" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap">
+                <topicref href="topics/tps_1_data_list.dita" class="- map/topicref " xtrc="topicref:205;254:63" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/tps_1_data_1.dita" class="- map/topicref " xtrc="topicref:206;255:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/tps_1_data_2.dita" class="- map/topicref " xtrc="topicref:207;256:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+                <topicref href="topics/tps_1_data_3.dita" class="- map/topicref " xtrc="topicref:208;257:60" xtrf="file:/C:/Users/1/Desktop/all%20study%20projects/banking%20tasks/project.ditamap"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

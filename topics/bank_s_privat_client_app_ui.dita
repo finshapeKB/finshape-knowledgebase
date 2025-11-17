@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="bank_s_privat_client_app_ui">
+    <title>Workspaces for Private Client (Retail)</title>
+    <shortdesc>Workspace for Private Client is a desktop or a mobile UI starting page that is
+        designed for Private Client role. The workspace is opened as Private Clients login to the
+        internet banking application. Private Clients manage their banking operations within
+        workspace.</shortdesc>
+</topic>

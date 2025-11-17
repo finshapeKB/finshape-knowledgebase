@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="bank_s_corporate_client_app_ui">
+    <title>Workspaces for Corporate Client (Business)</title>
+    <shortdesc>Bank's Corporate Client workspace is a desktop or a mobile page that is opened as
+        bank's corporate clients log in to their internet banking application. Corporate clients
+        manage their banking operations using Roles, such as bookkeeper, CEO, CFO etc., so each role
+        may have it's own workspace.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

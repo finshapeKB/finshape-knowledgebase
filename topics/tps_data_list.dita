@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="tps_data_list">
+    <title>Data List from all Third party systems</title>
+    <refbody><section>
+        <p>There are more than one third party system that may be connected to DBOS. Each Third
+                party system has its own data list that describe specific third party system data.
+                The list comprise other third party data lists so that you can review all possible
+                third party data through the only document or web page.</p>
+    </section>
+        <table frame="-dita-use-conref-target" id="table_fyr_bls_zgc" colsep="1" rowsep="1">
+            <title>Data List from all Third party systems</title>
+            <tgroup cols="5" align="-dita-use-conref-target">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <thead>
+                    <row>
+                        <entry>Data PID</entry>
+                        <entry>Data title</entry>
+                        <entry>Data source</entry>
+                        <entry>Is a part of DTO</entry>
+                        <entry>Data access level</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry namest="c1" nameend="c5"><xref href="tps_1_data_list.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c5"/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table></refbody>
+    <related-links>
+        <link href="tps_1_data_list.dita"/>
+    </related-links>
+</reference>

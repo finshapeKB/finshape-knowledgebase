@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="data_and_dto_access_levels">
+    <title>Data Access Levels</title>
+    <shortdesc>Data and DTO may have different security access level. Data access level may be
+        assigned to data or DTO types to define different methods to manage and secure them. It
+        depends on enterprise policy.</shortdesc>
+    <body>
+        <p>We may assume Low, Middle and High access levels and fully describe specific level in its
+            own document or web page.</p>
+        <example id="example_nxn_2wt_zgc">For example, <xref href="middle_access_level.dita"
+            /></example>
+    </body>
+</topic>

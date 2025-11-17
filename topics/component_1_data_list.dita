@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="component_1_data_list">
+    <title>Data list from the DBOS component 1</title>
+    <refbody><section>
+        <p></p>
+    </section>
+        <table frame="-dita-use-conref-target" id="table_ptd_bks_zgc">
+            <title>Data list from the DBOS component 1</title>
+            <tgroup cols="5" align="-dita-use-conref-target">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <thead>
+                    <row>
+                        <entry>Data PID</entry>
+                        <entry>Data title</entry>
+                        <entry>Data source</entry>
+                        <entry>Is a part of DTO</entry>
+                        <entry>Data access level</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry><xref href="component_1_data_1.dita"/></entry>
+                        <entry><xref href="component_1.dita"/></entry>
+                        <entry/>
+                        <entry><xref href="middle_access_level.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="component_1_data_2.dita"/></entry>
+                        <entry><xref href="component_1.dita"/></entry>
+                        <entry><xref href="dbo_maint_2.dita"/></entry>
+                        <entry><xref href="middle_access_level.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><xref href="component_1_data_3.dita"/></entry>
+                        <entry><xref href="component_1.dita"/></entry>
+                        <entry/>
+                        <entry><xref href="low_access_level.dita"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table></refbody>
+</reference>

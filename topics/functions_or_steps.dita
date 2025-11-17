@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="functions_or_steps">
+    <title>Task Steps: TS</title>
+    <shortdesc>We consider for function (step) any combination of command, operators and data set
+        that aim to get one specific result. Combination of functions (steps) form business
+        task.</shortdesc>
+    <body>
+        <p>Step is more appropriate naming as far as it's neutral and understandable for both common
+            business and technical personas.</p>
+        <p>Steps (functions) may be undertaken in any types of tasks. We divide all possible steps
+            to following types:<ul id="ul_yrp_wcb_1hc">
+                <li>
+                    <p>Admin Operation Functions</p>
+                </li>
+                <li>
+                    <p>Security Operation Functions</p>
+                </li>
+                <li>
+                    <p>Business Operation Functions</p>
+                </li>
+                <li>
+                    <p>Communication Operation Functions</p>
+                </li>
+                <li>
+                    <p>Report and Analysis Operation Functions</p>
+                </li>
+                <li>
+                    <p>Management Operation Functions</p>
+                </li>
+                <li>
+                    <p>DBOS Maintenance Operation Functions</p>
+                </li>
+            </ul></p>
+    </body>
+</topic>

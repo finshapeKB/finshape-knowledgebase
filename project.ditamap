@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Finshape Knowledge Base</title>
+    <topicref href="topics/digital_banking_main_solution.dita">
+        <topicref href="topics/db_modules.dita">
+            <topicref href="topics/infrastructure_module.dita">
+                <topicref href="topics/infra_components_list.dita"/>
+                <topicref href="topics/infra_component_1.dita"/>
+                <topicref href="topics/infra_component_2.dita"/>
+                <topicref href="topics/infrs_component_3.dita"/>
+            </topicref>
+            <topicref href="topics/connectors_module.dita">
+                <topicref href="topics/connectors_list.dita"/>
+                <topicref href="topics/dbos_input_connectors.dita"/>
+                <topicref href="topics/dbos_internal_connectors.dita"/>
+                <topicref href="topics/dbos_component_connectors.dita"/>
+                <topicref href="topics/dbos_output_connectors.dita"/>
+            </topicref>
+            <topicref href="topics/dbos_modul.dita">
+                <topicref href="topics/feature_component_1.dita"/>
+                <topicref href="topics/feature_component_2.dita"/>
+                <topicref href="topics/feature_component_3.dita"/>
+            </topicref>
+            <topicref href="topics/applications_module.dita">
+                <topicref href="topics/app_component_1.dita"/>
+                <topicref href="topics/app_component_2.dita"/>
+                <topicref href="topics/app_component_3.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="topics/work_spaces_to_handle_tasks.dita">
+        <topicref href="topics/bank_s_employee_app_ui.dita"/>
+        <topicref href="topics/bank_s_corporate_client_app_ui.dita"/>
+        <topicref href="topics/bank_s_privat_client_app_ui.dita">
+            <topicref href="topics/desktop_private_client_workspace.dita">
+                <topicref href="topics/privat_clients_ui_workspace.dita">
+                    <topicref href="topics/introduction_page_overview.dita"/>
+                    <topicref href="topics/privat_clients_accounts_ui_page.dita"/>
+                    <topicref href="topics/privat_clients_forein_accouts_ui_page.dita"/>
+                    <topicref href="topics/privart_clients_oders.dita"/>
+                    <topicref href="topics/privat_clients_cards_ui_page.dita"/>
+                </topicref>
+                <topicref href="topics/privar_clients_tasks_ui_pages.dita">
+                    <topicref href="topics/admin_tasks_ui_pages_uift01.dita"/>
+                    <topicref href="topics/security_tasks_ui_pages_uift02.dita"/>
+                    <topicref href="topics/business_tasks_ui_pages_uift03.dita">
+                        <topicref href="topics/account_managing_tasks_ui_pages_uift03_01.dita">
+                            <topicref href="topics/account_managing_tasks_ui_pages_list.dita"/>
+                            <topicref
+                                href="topics/searching_for_transactions_history_task_s_ui_page_uift03_01_06.dita"/>
+                            <topicref href="topics/new_payment_page.dita"/>
+                            <topicref
+                                href="topics/making_donations_task_s_ui_page_uift03_01_02.dita"/>
+                            <topicref
+                                href="topics/making_mobile_payments_task_s_ui_page_uift03_01_03.dita"/>
+                            <topicref
+                                href="topics/setting_standing_orders_task_s_ui_page_uift03_01_04.dita"/>
+                            <topicref
+                                href="topics/setting_direct_debits_sipo_task_s_ui_page_uift03_01_05.dita"/>
+                            <topicref
+                                href="topics/making_transaction_statements_task_s_ui_page_uift03_01_07.dita"/>
+                            <topicref
+                                href="topics/setting_account_configuration_task_s_ui_page_uift03_01_08.dita"/>
+                            <topicref
+                                href="topics/reviewing_documents_requests_task_s_ui_page_uift03_01_09.dita"/>
+                            <topicref
+                                href="topics/printing_account_history_task_s_ui_page_uift03_01_10.dita"/>
+                            <topicref
+                                href="topics/downloading_account_history_task_s_ui_page_uift03_01_11.dita"/>
+                            <topicref
+                                href="topics/contacting_help_desk_task_s_ui_page_uift03_01_12.dita"
+                            />
+                        </topicref>
+                    </topicref>
+                    <topicref href="topics/comunication_tasks_ui_pages.dita"/>
+                    <topicref href="topics/report_and_analysys_tasks_ui_pages.dita"/>
+                    <topicref href="topics/management_tasks_ui_pages.dita"/>
+                    <topicref href="topics/dbos_maintenance_tasks_ui_pages.dita"/>
+                </topicref>
+                <topicref href="topics/privar_clients_steps_ui_controles.dita">
+                    <topicref
+                        href="topics/desktop_ui_controles_for_privat_client_s_workspece_pages.dita">
+                        <topicref href="topics/desktop_private_client_workspace_ui_controles.dita">
+                            <topicref href="topics/ui_control_overview.dita"/>
+                            <topicref href="topics/ui_control_your_products.dita"/>
+                            <topicref href="topics/ui_control_extensions.dita"/>
+                            <topicref href="topics/ui_control_discover.dita"/>
+                            <topicref href="topics/ui_control_fit.dita"/>
+                            <topicref href="topics/ui_control_contact.dita"/>
+                            <topicref href="topics/ui_control_messages.dita"/>
+                            <topicref href="topics/ui_control_configuration.dita"/>
+                            <topicref href="topics/ui_control_logout.dita"/>
+                        </topicref>
+                        <topicref
+                            href="topics/desktop_ui_controles_for_introduction_overview_ui_page.dita"/>
+                        <topicref
+                            href="topics/ui_controls_for_desktop_domestic_accounts_ui_page_for_private_client.dita">
+                            <topicref href="topics/ui_control_page_title_placeholder.dita"/>
+                            <topicref href="topics/ui_control_new_payment.dita"/>
+                            <topicref
+                                href="topics/ui_control_for_side_menu_bar_account_details_placeholder.dita"/>
+                            <topicref href="topics/ui_control_for_side_menu_bar_history.dita"/>
+                            <topicref href="topics/ui_control_for_side_menu_bar_new_payment.dita"/>
+                            <topicref href="topics/ui_control_for_side_menu_bar_donations.dita"/>
+                            <topicref href="topics/ui_control_for_side_menu_bar_statements.dita"/>
+                            <topicref
+                                href="topics/ui_control_for_side_menu_bar_standing_orders.dita"/>
+                            <topicref
+                                href="topics/ui_control_for_side_menu_bar_direct_debits_sipo.dita"/>
+                            <topicref
+                                href="topics/ui_control_for_side_menu_bar_mobile_payments.dita"/>
+                            <topicref
+                                href="topics/ui_control_for_side_menu_bar_product_settings.dita"/>
+                            <topicref
+                                href="topics/ui_control_for_side_menu_bar_documents_and_requests.dita"/>
+                            <topicref href="topics/ui_control_transaction_s_title_search_input.dita"/>
+                            <topicref href="topics/ui_control_yesterday_s_transaction_search.dita"/>
+                            <topicref href="topics/ui_control_last_week_s_transaction_search.dita"/>
+                            <topicref href="topics/ui_control_last_month_s_transaction_search.dita"/>
+                            <topicref href="topics/ui_control_last_year_s_transaction_search.dita"/>
+                            <topicref href="topics/ui_control_transaction_s_amount_search.dita"/>
+                            <topicref href="topics/ui_control_transaction_s_date_search.dita"/>
+                            <topicref href="topics/ui_control_filter_drop_down_list.dita"/>
+                            <topicref href="topics/ui_control_filter_highlighted_transactions.dita"/>
+                            <topicref href="topics/ui_control_filter_incoming_transactions.dita"/>
+                            <topicref href="topics/ui_control_filter_outgoing_transactions.dita"/>
+                            <topicref href="topics/ui_control_clear_filter.dita"/>
+                            <topicref href="topics/ui_control_print_history_transactions.dita"/>
+                            <topicref href="topics/ui_control_download_history_transactions.dita"/>
+                            <topicref
+                                href="topics/ui_control_placeholder_for_search_results_page.dita"/>
+                        </topicref>
+                        <topicref
+                            href="topics/ui_controls_for_desktop_foreign_accounts_ui_page_for_private_client.dita"/>
+                        <topicref
+                            href="topics/ui_controls_for_desktop_orders_ui_page_for_private_clients.dita"/>
+                        <topicref
+                            href="topics/ui_controls_for_desktop_cards_ui_page_for_private_clients.dita"
+                        />
+                    </topicref>
+                    <topicref
+                        href="topics/desktop_ui_controls_for_tasks_ui_pages_for_private_clients.dita">
+                        <topicref href="topics/new_payment_page_ui_controles.dita">
+                            <topicref href="topics/ui_controls_for_new_payment_task_page_list.dita"/>
+                            <topicref href="topics/page_title.dita"/>
+                            <topicref href="topics/page_close_button.dita"/>
+                            <topicref href="topics/placeholder_for_account_details.dita"/>
+                            <topicref href="topics/qr_code_scanner.dita"/>
+                            <topicref href="topics/to_czech_republic.dita"/>
+                            <topicref href="topics/to_foreign_country.dita"/>
+                            <topicref href="topics/recipient_s_name.dita"/>
+                            <topicref href="topics/contacts_and_templates.dita"/>
+                            <topicref href="topics/account_number_or_iban.dita"/>
+                            <topicref href="topics/bank_code.dita"/>
+                            <topicref href="topics/payment_amount.dita"/>
+                            <topicref href="topics/currency.dita"/>
+                            <topicref href="topics/future_account_balance.dita"/>
+                            <topicref href="topics/variable_symbol.dita"/>
+                            <topicref href="topics/constant_symbol.dita"/>
+                            <topicref href="topics/specific_symbol.dita"/>
+                            <topicref href="topics/note_to_payee.dita"/>
+                            <topicref href="topics/note_to_sender.dita"/>
+                            <topicref href="topics/email_confirmation.dita"/>
+                            <topicref href="topics/transfer_date.dita"/>
+                            <topicref href="topics/create_a_template.dita"/>
+                            <topicref href="topics/save_and_new_payment.dita"/>
+                            <topicref href="topics/continue.dita"/>
+                            <topicref href="topics/payment_ai_assistant.dita"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="topics/roles.dita">
+        <topicref href="topics/bank_s_employee_roles.dita">
+            <topicref href="topics/ber_list.dita"/>
+            <topicref href="topics/ber_1.dita"/>
+            <topicref href="topics/ber_2.dita"/>
+            <topicref href="topics/ber_3.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_corporate_client_roles.dita">
+            <topicref href="topics/bcc_list.dita"/>
+            <topicref href="topics/bcc_1.dita"/>
+            <topicref href="topics/bcc2.dita"/>
+            <topicref href="topics/chief_accountant_officer.dita"/>
+            <topicref href="topics/bcc3.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_privat_client.dita"/>
+    </topicref>
+    <topicref href="topics/rights_to_do_tasks.dita">
+        <topicref href="topics/right_1.dita"/>
+        <topicref href="topics/right_2.dita"/>
+        <topicref href="topics/right_3.dita"/>
+        <topicref href="topics/right_4.dita"/>
+    </topicref>
+    <topicref href="topics/tasks.dita">
+        <topicref href="topics/untitled10.dita"/>
+        <topicref href="topics/product_tasks.dita">
+            <topicref href="topics/onboarding_process_tasks.dita">
+                <topicref href="topics/initial_employee_onboarding_tasks.dita"/>
+                <topicref href="topics/project_team_onboarding_tasks.dita"/>
+                <topicref href="topics/partner_onboarding_tasks.dita"/>
+            </topicref>
+            <topicref href="topics/finshape_roles.dita">
+                <topicref href="topics/salesperson.dita"/>
+            </topicref>
+            <topicref href="topics/marketing_process_tasks.dita"/>
+            <topicref href="topics/sales_process_tasks.dita"/>
+            <topicref href="topics/project_implementation_process_tasks.dita">
+                <topicref href="topics/project_implementation_sales_phase.dita">
+                    <topicref href="topics/initial_selling_proposition.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/client_support_process_tasks.dita">
+                <topicref href="topics/bank_employee_onboarding_tasks.dita"/>
+            </topicref>
+            <topicref href="topics/product_development_iprocess_s_tasks.dita"/>
+        </topicref>
+        <topicref href="topics/functional_tasks.dita">
+            <topicref href="topics/admin_tasks.dita"/>
+            <topicref href="topics/security_tasks.dita"/>
+            <topicref href="topics/business_tasks.dita">
+                <topicref href="topics/untitled19.dita">
+                    <topicref href="topics/functional_tasks_list.dita"/>
+                    <topicref href="topics/business_tasks_1.dita"/>
+                    <topicref href="topics/making_donations.dita"/>
+                    <topicref href="topics/making_mobile_payments.dita"/>
+                    <topicref href="topics/setting_standing_orders.dita"/>
+                    <topicref href="topics/setting_direct_debits_sipo.dita"/>
+                    <topicref href="topics/seaching_for_transactions_history.dita"/>
+                    <topicref href="topics/making_transaction_statements.dita"/>
+                    <topicref href="topics/setting_product_configuration.dita"/>
+                    <topicref href="topics/reviewing_documents_requests.dita"/>
+                    <topicref href="topics/printing_account_history.dita"/>
+                    <topicref href="topics/downloading_account_history.dita"/>
+                    <topicref href="topics/contacting_help_desk.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/comunication_tasks.dita"/>
+            <topicref href="topics/report_and_analysys_tasks.dita"/>
+            <topicref href="topics/management_tasks.dita"/>
+            <topicref href="topics/dbos_maintenance_tasks.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/functions_or_steps.dita">
+        <topicref href="topics/function_types.dita"/>
+        <topicref href="topics/functional_task_s_steps_tsf.dita">
+            <topicref href="topics/admin_operation_functions.dita"/>
+            <topicref href="topics/security_operation_functions.dita"/>
+            <topicref href="topics/business_operation_functions.dita">
+                <topicref href="topics/account_managing_task_s_steps_fts03_01.dita">
+                    <topicref href="topics/bof_1.dita">
+                        <topicref href="topics/new_payment_task_s_steps_list.dita"/>
+                        <topicref href="topics/page_title_0.dita"/>
+                        <topicref href="topics/page_close_button_0.dita"/>
+                        <topicref href="topics/placeholder_for_account_details_0.dita"/>
+                        <topicref href="topics/qr_code_scanner_0.dita"/>
+                        <topicref href="topics/to_czech_republic_0.dita"/>
+                        <topicref href="topics/to_foreign_country_0.dita"/>
+                        <topicref href="topics/recipient_s_name_0.dita"/>
+                        <topicref href="topics/contacts_and_templates_0.dita"/>
+                        <topicref href="topics/account_number_or_iban_0.dita"/>
+                        <topicref href="topics/bank_code_0.dita"/>
+                        <topicref href="topics/payment_amount_0.dita"/>
+                        <topicref href="topics/currency_0.dita"/>
+                        <topicref href="topics/future_account_balance_0.dita"/>
+                        <topicref href="topics/variable_symbol_0.dita"/>
+                        <topicref href="topics/constant_symbol_0.dita"/>
+                        <topicref href="topics/specific_symbol_0.dita"/>
+                        <topicref href="topics/note_to_payee_0.dita"/>
+                        <topicref href="topics/note_to_sender_0.dita"/>
+                        <topicref href="topics/email_confirmation_0.dita"/>
+                        <topicref href="topics/transfer_date_0.dita"/>
+                        <topicref href="topics/create_a_template_0.dita"/>
+                        <topicref href="topics/save_and_new_payment_0.dita"/>
+                        <topicref href="topics/continue_0.dita"/>
+                        <topicref href="topics/payment_ai_assistant_0.dita"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="topics/comunication_operation_functions.dita"/>
+            <topicref href="topics/report_and_analysys_operation_functions.dita"/>
+            <topicref href="topics/management_operation_functions.dita"/>
+            <topicref href="topics/dbos_maintenance_operation_functions.dita"/>
+        </topicref>
+        <topicref href="topics/product_task_s_steps_tsp.dita">
+            <topicref href="topics/onboarding_process_task_s_steps_pts01.dita">
+                <topicref href="topics/initial_employee_onboarding_task_s_steps_pts01_01.dita"/>
+                <topicref href="topics/project_team_onboarding_task_s_steps_pts01_02.dita"/>
+                <topicref href="topics/partner_onboarding_task_s_steps_pts01_03.dita"/>
+            </topicref>
+            <topicref href="topics/marketing_process_task_s_steps_pts02.dita"/>
+            <topicref href="topics/sales_process_task_s_steps_pts03.dita"/>
+            <topicref href="topics/project_process_s_task_s_steps_pts04.dita">
+                <topicref href="topics/project_phase_selling_proposition_task_s_steps_pts04_01.dita">
+                    <topicref
+                        href="topics/initial_selling_proposition_task_s_steps_pts04_01_01.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/client_support_process_task_s_steps_pts05.dita">
+                <topicref href="topics/bank_employee_onboarding_task_s_steps_pts05_01.dita"/>
+            </topicref>
+            <topicref href="topics/product_development_process_s_task_s_steps_pts06.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_and_dto_access_levels.dita">
+        <topicref href="topics/low_access_level.dita"/>
+        <topicref href="topics/middle_access_level.dita"/>
+        <topicref href="topics/high_access_level.dita"/>
+    </topicref>
+    <topicref href="topics/dto_sources.dita">
+        <topicref href="topics/dto_types.dita"/>
+        <topicref href="topics/dto_for_admin_dbos_functions.dita">
+            <topicref href="topics/dto_admin_list.dita"/>
+            <topicref href="topics/dto_admin_1.dita"/>
+            <topicref href="topics/dto_admin_2.dita"/>
+            <topicref href="topics/dto_admin_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_security_functions.dita">
+            <topicref href="topics/dto_security_list.dita"/>
+            <topicref href="topics/dto_security_1.dita"/>
+            <topicref href="topics/dto_security_2.dita"/>
+            <topicref href="topics/dto_security_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_business_functions.dita">
+            <topicref href="topics/dto_for_category_account_managing.dita">
+                <topicref href="topics/dto_for_task_new_payment.dita">
+                    <topicref href="topics/dto_for_step_show_page_title.dita"/>
+                    <topicref href="topics/dto_for_step_close_new_payment_page.dita"/>
+                    <topicref href="topics/dto_for_step_show_account_details.dita"/>
+                    <topicref href="topics/dto_for_step_open_qr_code_scanner.dita"/>
+                    <topicref href="topics/dto_for_step_switch_to_domestic_payment_page.dita"/>
+                    <topicref href="topics/dto_for_step_switch_to_sepa_payment_page.dita"/>
+                    <topicref href="topics/dto_for_step_input_recipient_s_name.dita"/>
+                    <topicref href="topics/dto_for_step_select_contacts_or_templates.dita"/>
+                    <topicref href="topics/dto_for_step_input_account_number_or_iban.dita"/>
+                    <topicref href="topics/dto_for_step_select_bank_code.dita"/>
+                    <topicref href="topics/dto_for_step_input_payment_amount.dita"/>
+                    <topicref href="topics/dto_for_step_select_currency.dita"/>
+                    <topicref href="topics/dto_for_step_show_future_account_balance.dita"/>
+                    <topicref href="topics/dto_for_step_input_variable_symbol.dita"/>
+                    <topicref href="topics/dto_for_step_input_constant_symbol.dita"/>
+                    <topicref href="topics/dto_for_step_input_specific_symbol.dita"/>
+                    <topicref href="topics/dto_for_step_input_note_to_payee.dita"/>
+                    <topicref href="topics/dto_for_step_input_note_to_sender.dita"/>
+                    <topicref href="topics/dto_for_step_send_email_confirmation.dita"/>
+                    <topicref href="topics/dto_for_step_select_desired_payment_date.dita"/>
+                    <topicref href="topics/dto_for_step_create_payment_template.dita"/>
+                    <topicref
+                        href="topics/dto_for_step_save_payment_order_and_open_new_payment_page.dita"/>
+                    <topicref href="topics/dto_for_step_run_the_payment_order.dita"/>
+                    <topicref href="topics/dto_for_step_open_chat_with_payment_ai_assistant.dita"/>
+                </topicref>
+                <topicref href="topics/dto_for_task_searching_for_transactions_history.dita">
+                    <topicref href="topics/dto_for_step_filtering_transactions_title.dita"/>
+                    <topicref href="topics/dto_for_step_filtering_amount.dita"/>
+                    <topicref href="topics/dto_for_step_filtering_date.dita"/>
+                    <topicref href="topics/dto_for_step_filtering_highlighted_transactions.dita"/>
+                    <topicref href="topics/dto_for_step_filtering_incoming_transactions.dita"/>
+                    <topicref href="topics/dto_for_step_filtering_outgoing_transactions.dita"/>
+                    <topicref href="topics/dto_for_step_search_running.dita"/>
+                </topicref>
+                <topicref href="topics/dto_for_task_making_donations.dita"/>
+                <topicref href="topics/dto_for_task_making_transaction_statements.dita"/>
+                <topicref href="topics/dto_for_task_setting_standing_orders.dita"/>
+                <topicref href="topics/dto_for_task_setting_direct_debits_sipo.dita"/>
+                <topicref href="topics/dto_for_task_making_mobile_payments.dita"/>
+                <topicref href="topics/dto_for_task_setting_product_configuration.dita"/>
+                <topicref href="topics/dto_for_task_reviewing_documents_requests.dita"/>
+                <topicref href="topics/dto_for_task_printing_account_history.dita"/>
+                <topicref href="topics/dto_for_task_downloading_account_history.dita"/>
+                <topicref href="topics/dto_for_task_contacting_help_desk.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/dto_for_communication_functions.dita">
+            <topicref href="topics/dto_communication_list.dita"/>
+            <topicref href="topics/dto_communication_1.dita"/>
+            <topicref href="topics/dto_communication_2.dita"/>
+            <topicref href="topics/dto_communication_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_report_and_analysys_functions.dita">
+            <topicref href="topics/dto_report_list.dita"/>
+            <topicref href="topics/dto_report_1.dita"/>
+            <topicref href="topics/dto_report_2.dita"/>
+            <topicref href="topics/dto_report_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_management_functions.dita">
+            <topicref href="topics/dto_management_list.dita"/>
+            <topicref href="topics/dto_management_1.dita"/>
+            <topicref href="topics/dto_management_2.dita"/>
+            <topicref href="topics/dto_management_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_dbos_maintenance_functions.dita">
+            <topicref href="topics/dbo_maint_list.dita"/>
+            <topicref href="topics/dbo_maint_1.dita"/>
+            <topicref href="topics/dbo_maint_2.dita"/>
+            <topicref href="topics/dbo_maint_3.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_sources.dita">
+        <topicref href="topics/all_sources_data_list.dita"/>
+        <topicref href="topics/data_sources_list.dita"/>
+        <topicref href="topics/dbos_components.dita">
+            <topicref href="topics/dbos_components_data_list.dita"/>
+            <topicref href="topics/component_1.dita">
+                <topicref href="topics/component_1_data_list.dita"/>
+                <topicref href="topics/component_1_data_1.dita"/>
+                <topicref href="topics/component_1_data_2.dita"/>
+                <topicref href="topics/component_1_data_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/core_banking_systems.dita">
+            <topicref href="topics/cbs_data_list.dita"/>
+            <topicref href="topics/cbs_1.dita">
+                <topicref href="topics/cbs_1_data_list.dita"/>
+                <topicref href="topics/cbs_1_data_1.dita"/>
+                <topicref href="topics/cbs_1_data_2.dita"/>
+                <topicref href="topics/cbs_1_data_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/third_party_systems.dita">
+            <topicref href="topics/tps_data_list.dita"/>
+            <topicref href="topics/tps_1.dita">
+                <topicref href="topics/tps_1_data_list.dita"/>
+                <topicref href="topics/tps_1_data_1.dita"/>
+                <topicref href="topics/tps_1_data_2.dita"/>
+                <topicref href="topics/tps_1_data_3.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

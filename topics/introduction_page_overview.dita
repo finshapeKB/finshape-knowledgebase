@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction_page_overview">
+    <title>Introduction (Overview) UI page</title>
+    <body>
+        <p>
+            <fig id="fig_oxb_2cq_hhc">
+                <p>
+                    <fig id="fig_b1h_g2y_hhc">
+                        <p>
+                            <fig id="fig_nxq_32y_hhc">
+                                <title>Overview page</title>
+                                <image placement="break" href="../images/overview_page.jpg"
+                                    align="left" id="image_oxq_32y_hhc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </p>
+            </fig>
+        </p>
+    </body>
+</topic>

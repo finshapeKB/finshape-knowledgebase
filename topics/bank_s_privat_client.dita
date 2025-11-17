@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="bank_s_privat_client">
+    <title>Bank's Private Client</title>
+    <shortdesc>Bank's Private Client is the only role that may use internet banking application for
+        the bank's private clients. That means that private clients must handle their banking
+        operations themselves.</shortdesc>
+    <body>
+        <p>
+            <table frame="-dita-use-conref-target" id="table_wjg_nkm_3hc">
+                <title>Bank's private clients' tasks </title>
+                <tgroup cols="5" align="-dita-use-conref-target">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <thead>
+                        <row>
+                            <entry>Task PID</entry>
+                            <entry>Task title </entry>
+                            <entry>Task UI page </entry>
+                            <entry>Is a part of Workspace page </entry>
+                            <entry>Role's Workspace </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>FT03.01.06</entry>
+                            <entry><xref href="seaching_for_transactions_history.dita"/></entry>
+                            <entry><xref
+                                    href="searching_for_transactions_history_task_s_ui_page_uift03_01_06.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.01</entry>
+                            <entry><xref href="business_tasks_1.dita"/></entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.02</entry>
+                            <entry><xref href="making_donations.dita"/></entry>
+                            <entry><xref href="making_donations_task_s_ui_page_uift03_01_02.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.03</entry>
+                            <entry><xref href="making_mobile_payments.dita"/></entry>
+                            <entry><xref
+                                    href="making_mobile_payments_task_s_ui_page_uift03_01_03.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.04</entry>
+                            <entry><xref href="setting_standing_orders.dita"/></entry>
+                            <entry><xref
+                                    href="setting_standing_orders_task_s_ui_page_uift03_01_04.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.05</entry>
+                            <entry><xref href="setting_direct_debits_sipo.dita"/></entry>
+                            <entry><xref
+                                    href="setting_direct_debits_sipo_task_s_ui_page_uift03_01_05.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.07</entry>
+                            <entry><xref href="making_transaction_statements.dita"/></entry>
+                            <entry><xref
+                                    href="making_transaction_statements_task_s_ui_page_uift03_01_07.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.08</entry>
+                            <entry><xref href="setting_product_configuration.dita"/></entry>
+                            <entry><xref
+                                    href="setting_account_configuration_task_s_ui_page_uift03_01_08.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.09</entry>
+                            <entry><xref href="reviewing_documents_requests.dita"/></entry>
+                            <entry><xref
+                                    href="reviewing_documents_requests_task_s_ui_page_uift03_01_09.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.10</entry>
+                            <entry><xref href="printing_account_history.dita"/></entry>
+                            <entry><xref
+                                    href="printing_account_history_task_s_ui_page_uift03_01_10.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.11</entry>
+                            <entry><xref href="downloading_account_history.dita"/></entry>
+                            <entry><xref
+                                    href="downloading_account_history_task_s_ui_page_uift03_01_11.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>FT03.01.12</entry>
+                            <entry><xref href="contacting_help_desk.dita"/></entry>
+                            <entry><xref
+                                    href="contacting_help_desk_task_s_ui_page_uift03_01_12.dita"
+                                /></entry>
+                            <entry><xref href="privat_clients_accounts_ui_page.dita"/></entry>
+                            <entry><xref href="privat_clients_ui_workspace.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>

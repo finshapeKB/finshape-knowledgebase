@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tasks">
+    <title>Tasks: T</title>
+    <shortdesc>Task is a specific result that may be reached by completing some steps or actions.
+        From the technical point of view we consider for task a specific container with combination
+        of steps or functions that are need to be undertaken in order to achieve a specific state or
+        result. </shortdesc>
+    <body>
+        <p>Procedure (workflow) - is a specific type of Task that is a more formal, structured and
+            strict set of steps that must be followed in a specific order, often with specific
+            guidelines or regulations in place. </p>
+        <p>Each task is assigned to a specific Role and may be assigned to more than one Role. The
+            Role needs special permission (glossary term) to handle this specific task. Each Role
+            handles its tasks using specific workspace. </p>
+        <p/>
+        <p>To get more information about special permission and workspace you may go to </p>
+    </body>
+    <related-links>
+        <link href="roles.dita"/>
+        <link href="rights_to_do_tasks.dita"/>
+        <link href="data_and_dto_access_levels.dita"/>
+        <link href="work_spaces_to_handle_tasks.dita"/>
+    </related-links>
+</topic>

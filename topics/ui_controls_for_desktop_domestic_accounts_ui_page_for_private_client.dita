@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ui_controls_for_desktop_domestic_accounts_ui_page_for_private_client">
+    <title>Desktop UI controls for Domestic Accounts UI page for Private client</title>
+    <shortdesc>UI control for Domestic Accounts UI page is a visual representative of a task's step
+        that is located within Domestic Accounts UI page. Drop down menu, buttons, fields etc. are
+        UI controls. UI controls are usually connected to software application source code steps
+        (functions) and data, or lead to special product or task UI page.</shortdesc>
+    <body>
+        <p/>
+    </body>
+</topic>

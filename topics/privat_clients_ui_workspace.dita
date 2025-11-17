@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privat_clients_ui_workspace">
+    <title>Desktop workspace UI page for Private Client</title>
+    <shortdesc>Desktop workspace for Private Client is a user interface starting page that is
+        designed for Private Client role and runs on  all desktop platforms. The workspace is opened
+        as Private Clients login to the internet banking application. Private Clients manage their
+        banking operations within workspace.</shortdesc>
+    <body>
+        <p>The Desktop workspace is opened as Private Clients login to the internet banking
+            application and consist of Menu bar and a placeholder for your desired UI page. Usually,
+            as you login to an internet banking, Introduction or Overview UI page is opened. </p>
+        <p>
+            <fig id="fig_fnv_rwp_hhc">
+                <p>
+                    <fig id="fig_gzx_xwp_hhc">
+                        <title>Workspace for Private client</title>
+                        <image placement="break" href="../images/privat_client_workspace_menu.jpg"
+                            align="left" id="image_hzx_xwp_hhc"/>
+                    </fig>
+                </p>
+            </fig>
+        </p>
+        <p>Desktop Private clients UI workspace has its menu bar that consist of following
+                elements:<dl id="dl_z1b_ztp_hhc">
+                <dlentry>
+                    <dt><xref href="ui_control_overview.dita"/></dt>
+                    <dd><uicontrol>Overview</uicontrol> button switch you to
+                            <wintitle>Overview</wintitle> UI page. Usually, the page is opened as
+                        you login to you internet banking application. To get more information go to
+                            <xref href="introduction_page_overview.dita"/></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_your_products.dita"/></dt>
+                    <dd><uicontrol>Your Products</uicontrol> is a drop down menu list that provides
+                        access to your banking product's UI pages: <wintitle>Domestic
+                            Account</wintitle>, <wintitle>Card</wintitle>, etc.. To get more
+                        information go to specific product's UI pages: <xref
+                            href="privat_clients_accounts_ui_page.dita"/></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_extensions.dita"/></dt>
+                    <dd><uicontrol>Extensions</uicontrol> is a drop down menu list that provides
+                        access to additional banking application . To get more information go to:
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_discover.dita"/></dt>
+                    <dd><uicontrol>Discover</uicontrol> button switch you to
+                            <wintitle>Discover</wintitle> UI page that describes all banking
+                        products to purchase. To get more information go to: </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_fit.dita"/></dt>
+                    <dd><uicontrol>FIT</uicontrol> button switch you to <wintitle>FIT</wintitle> UI
+                        page. To get more information go to: </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_contact.dita"/></dt>
+                    <dd><uicontrol>Contact</uicontrol> button switch you to <wintitle>FIT</wintitle>
+                        UI page. To get more information go to: </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_messages.dita"/></dt>
+                    <dd><uicontrol>Messages</uicontrol> button switch you to
+                            <wintitle>Messages</wintitle> UI page. To get more information go to:
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_configuration.dita"/></dt>
+                    <dd><uicontrol>Configuration</uicontrol> button switch you to
+                            <wintitle>Configuration</wintitle> UI page. To get more information go
+                        to: </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="ui_control_logout.dita"/></dt>
+                    <dd><uicontrol>Logout</uicontrol> button turns off your internet banking
+                        application and redirect you to bank website. If you stay passive withing
+                        your workspace more than setted time period you'll be logout automatically
+                        for the security reasons.</dd>
+                </dlentry>
+            </dl></p>
+    </body>
+</topic>

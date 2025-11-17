@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privat_clients_cards_ui_page">
+    <title>Desktop Cards UI page for Private Clients</title>
+    <shortdesc>Card is a bank product that is provided to clients. To operate with Cards, special UI
+        page is created. Clients handle Card specific operations within its UI page.</shortdesc>
+    <body>
+        <p>
+            <fig id="fig_ylk_lfy_hhc">
+                <p>
+                    <fig id="fig_lc3_pfy_hhc">
+                        <title>Cards UI page</title>
+                        <image placement="break" href="../images/cards_ui_page.jpg" align="left"
+                            id="image_mc3_pfy_hhc"/>
+                    </fig>
+                </p>
+            </fig>
+        </p>
+    </body>
+</topic>

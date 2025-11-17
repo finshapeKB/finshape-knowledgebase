@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="searching_for_transactions_history_task_s_ui_page_uift03_01_06">
+    <title>Searching for transactions history task’s UI page: UIFT03.01.06</title>
+    <body>
+        <p>
+            <fig id="fig_i1r_bhy_hhc">
+                <p>
+                    <fig id="fig_e4y_3hy_hhc">
+                        <title>Searching for account transaction history task's UI page</title>
+                        <image placement="break"
+                            href="../images/searching_for_history_task_s_ui_page_uift03_01_06.jpg"
+                            align="left" id="image_f4y_3hy_hhc"/>
+                    </fig>
+                </p>
+            </fig>
+        </p>
+    </body>
+</topic>

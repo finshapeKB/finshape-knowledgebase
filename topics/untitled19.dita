@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitled19">
+    <title>Domestic Account managing tasks: FT03.01</title>
+    <shortdesc>Account is a banking product. Bank provides to its clients accounts in local and
+        foreign currency. Clients manage all account tasks within specially designed Account UI page
+        within clients Workspace.</shortdesc>
+    <body>
+        <p>Bank and its client usually sign contract and required currency account is opened. Client
+            gets internet banking application. As client login to application, clients Workspace web
+            page is opened were client reach specially designed Account UI page. To handle specific
+            account task client have to select the task and its UI page is opened. Account managing
+            tasks are:<dl id="dl_w1n_3db_hhc">
+                <dlentry>
+                    <dt/>
+                    <dd/>
+                </dlentry>
+            </dl></p>
+    </body>
+</topic>
