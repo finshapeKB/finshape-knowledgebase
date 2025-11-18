@@ -93,7 +93,9 @@
                             <topicref href="topics/account_managing_tasks_ui_pages_list.dita"/>
                             <topicref
                                 href="topics/searching_for_transactions_history_task_s_ui_page_uift03_01_06.dita"/>
-                            <topicref href="topics/new_payment_page.dita"/>
+                            <topicref href="topics/new_payment_page.dita">
+                                <topicref href="topics/step_by_step_guidance.dita"/>
+                            </topicref>
                             <topicref
                                 href="topics/making_donations_task_s_ui_page_uift03_01_02.dita"/>
                             <topicref
@@ -283,7 +285,6 @@
                 <topicref href="topics/untitled19.dita">
                     <topicref href="topics/functional_tasks_list.dita"/>
                     <topicref href="topics/business_tasks_1.dita">
-                        <topicref href="topics/step_by_step_guidance.dita"/>
                         <topicref href="topics/functional_analysis_confluence.dita"/>
                     </topicref>
                     <topicref href="topics/making_donations.dita"/>

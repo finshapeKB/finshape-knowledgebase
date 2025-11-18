@@ -4,36 +4,105 @@
     <title>Step-by-step guidance </title>
     <shortdesc>to make domestic payment you should follow several simple steps </shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>Go to your Private client's Workspace</cmd>
-                <info>See Login section: ––––-</info>
+                <info>See Login section: …...</info>
             </step>
             <step>
                 <cmd>Select <menucascade>
                         <uicontrol>Your Products</uicontrol>
                         <uicontrol>Personal account</uicontrol>
                     </menucascade> to open a Domestic account managing page</cmd>
+                <info>
+                    <fig id="fig_svf_kfv_3hc">
+                        <p>
+                            <fig id="fig_c2k_lfv_3hc">
+                                <title>Domestic account managing page</title>
+                                <image placement="break"
+                                    href="../images/domestic_accounts_ui_page.jpg"
+                                    id="image_d2k_lfv_3hc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select <uicontrol>New Payment</uicontrol> to open Domestic payment task
                     page</cmd>
+                <info>
+                    <fig id="fig_ulq_mfv_3hc">
+                        <p>
+                            <fig id="fig_fst_sfv_3hc">
+                                <title>New payment</title>
+                                <image placement="break" href="../images/new_payment_ui_control.png"
+                                    id="image_gst_sfv_3hc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter <uicontrol>Recipient's name</uicontrol> to input payment's receiver
                     name</cmd>
+                <info>
+                    <fig id="fig_n42_tfv_3hc">
+                        <p>
+                            <fig id="fig_svr_2gv_3hc">
+                                <title>Recipient's name</title>
+                                <image placement="break" href="../images/enter_recipient.jpeg"
+                                    id="image_tvr_2gv_3hc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter <uicontrol>Account number</uicontrol></cmd>
+                <info>
+                    <fig id="fig_acz_2gv_3hc">
+                        <p>
+                            <fig id="fig_g4w_fgv_3hc">
+                                <title>Account number</title>
+                                <image placement="break" href="../images/account_number.jpeg"
+                                    id="image_h4w_fgv_3hc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Bank code</uicontrol> from the drop down menu</cmd>
+                <info>
+                    <fig id="fig_oth_ggv_3hc">
+                        <p>
+                            <fig id="fig_yyk_hgv_3hc">
+                                <p>
+                                    <fig id="fig_m5d_kgv_3hc">
+                                        <title>Bank code</title>
+                                        <image placement="break" href="../images/bank_code.jpeg"
+                                            id="image_n5d_kgv_3hc"/>
+                                    </fig>
+                                </p>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter <uicontrol>Amount</uicontrol></cmd>
+                <info>
+                    <fig id="fig_g1b_3gv_3hc">
+                        <p>
+                            <fig id="fig_zzd_jgv_3hc">
+                                <title>Amount</title>
+                                <image placement="break" href="../images/amount.jpeg"
+                                    id="image_a12_jgv_3hc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Currency</uicontrol> in which you'd like to pay</cmd>
