@@ -15,9 +15,9 @@
                     <thead>
                         <row>
                             <entry>PID</entry>
-                            <entry>Task type</entry>
+                            <entry>Task's sub type</entry>
                             <entry>Task title</entry>
-                            <entry>Refers to UI Page</entry>
+                            <entry>Refers to task UI Page</entry>
                             <entry>Refers to Role </entry>
                         </row>
                     </thead>
