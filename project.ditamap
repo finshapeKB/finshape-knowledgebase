@@ -218,7 +218,19 @@
     </topicref>
     <topicref href="topics/roles.dita">
         <topicref href="topics/finshape_roles.dita">
+            <topicref href="topics/marketing.dita"/>
+            <topicref href="topics/sales.dita"/>
             <topicref href="topics/salesperson.dita"/>
+            <topicref href="topics/business_analyst.dita"/>
+            <topicref href="topics/technical_analyst.dita"/>
+            <topicref href="topics/solution_architect.dita"/>
+            <topicref href="topics/infrastructure_delivery.dita"/>
+            <topicref href="topics/software_delivery.dita"/>
+            <topicref href="topics/api_developer.dita"/>
+            <topicref href="topics/backend_developer.dita"/>
+            <topicref href="topics/frontend_developer.dita"/>
+            <topicref href="topics/tester.dita"/>
+            <topicref href="topics/partner_implementator.dita"/>
         </topicref>
         <topicref href="topics/bank_s_employee_roles.dita">
             <topicref href="topics/ber_list.dita"/>
