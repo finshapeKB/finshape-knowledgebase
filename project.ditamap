@@ -5,12 +5,7 @@
     <topicref href="topics/how_to_use_knowledge_base.dita"/>
     <topicref href="topics/digital_banking_main_solution.dita">
         <topicref href="topics/db_modules.dita">
-            <topicref href="topics/infrastructure_module.dita">
-                <topicref href="topics/infra_components_list.dita"/>
-                <topicref href="topics/infra_component_1.dita"/>
-                <topicref href="topics/infra_component_2.dita"/>
-                <topicref href="topics/infrs_component_3.dita"/>
-            </topicref>
+            <topicref href="topics/infrastructure_module.dita"/>
             <topicref href="topics/connectors_module.dita">
                 <topicref href="topics/connectors_list.dita"/>
                 <topicref href="topics/dbos_input_connectors.dita"/>
@@ -19,6 +14,9 @@
                 <topicref href="topics/dbos_output_connectors.dita"/>
             </topicref>
             <topicref href="topics/dbos_modul.dita">
+                <topicref href="topics/content_manager_cm.dita"/>
+                <topicref href="topics/experience_builder_xpb.dita"/>
+                <topicref href="topics/four_eyes_fey.dita"/>
                 <topicref href="topics/digital_identity.dita">
                     <topicref href="topics/introduction_to_this_user_guide.dita">
                         <topicref href="topics/understanding_user_guide_concept.dita"/>
@@ -44,32 +42,36 @@
                     <topicref href="topics/working_with_this_component.dita"/>
                     <topicref href="topics/troubleshooting.dita"/>
                 </topicref>
-                <topicref href="topics/sider.dita"/>
-                <topicref href="topics/entitlements.dita"/>
+                <topicref href="topics/distributions_gdc.dita"/>
                 <topicref href="topics/instant_data.dita"/>
+                <topicref href="topics/entitlements.dita"/>
+                <topicref href="topics/notifications_gnc.dita"/>
+                <topicref href="topics/print_server_gps.dita"/>
+                <topicref href="topics/integration_hub_gde.dita"/>
+                <topicref href="topics/service_identity_provide_sider.dita"/>
                 <topicref href="topics/payments_instructions_tpm.dita"/>
                 <topicref href="topics/exchange_rates_xcr.dita"/>
-                <topicref href="topics/notifications_gnc.dita"/>
-                <topicref href="topics/distributions_gdc.dita"/>
-                <topicref href="topics/service_proxy_spx.dita"/>
-                <topicref href="topics/four_eyes_fey.dita"/>
-                <topicref href="topics/experience_builder_xpb.dita"/>
-                <topicref href="topics/live_data_streaming_lds.dita"/>
-                <topicref href="topics/integration_hub_gde.dita"/>
-                <topicref href="topics/ai_financial_assistant.dita"/>
-                <topicref href="topics/personalization_platform.dita"/>
-                <topicref href="topics/onboarding.dita"/>
-                <topicref href="topics/graphql_server.dita"/>
-                <topicref href="topics/content_management_system_cms.dita"/>
-                <topicref href="topics/interaction_designer.dita"/>
-                <topicref href="topics/bpm_engine.dita"/>
+                <topicref href="topics/api_provider_openbank.dita"/>
+                <topicref href="topics/consent_registry_consentreg.dita"/>
+                <topicref href="topics/third_party_registry_tpreg.dita"/>
             </topicref>
             <topicref href="topics/applications_module.dita">
-                <topicref href="topics/app_component_1.dita"/>
-                <topicref href="topics/app_component_2.dita"/>
-                <topicref href="topics/app_component_3.dita"/>
+                <topicref href="topics/admin_console_wac.dita"/>
+                <topicref href="topics/starter_kit.dita"/>
+            </topicref>
+            <topicref href="topics/tools.dita">
+                <topicref href="topics/alfons.dita"/>
+                <topicref href="topics/flow_designer.dita"/>
+                <topicref href="topics/camunda.dita"/>
+                <topicref href="topics/configurator.dita"/>
+                <topicref href="topics/sdk_for_ios_and_android.dita"/>
+                <topicref href="topics/figma.dita"/>
+                <topicref href="topics/service_proxy.dita"/>
+                <topicref href="topics/ci_cd.dita"/>
+                <topicref href="topics/config_player.dita"/>
             </topicref>
         </topicref>
+        <topicref href="topics/finshape_products_clients_pay_for.dita"/>
     </topicref>
     <topicref href="topics/work_spaces_to_handle_tasks.dita">
         <topicref href="topics/bank_s_employee_app_ui.dita"/>
@@ -233,10 +235,8 @@
             <topicref href="topics/partner_implementator.dita"/>
         </topicref>
         <topicref href="topics/bank_s_employee_roles.dita">
-            <topicref href="topics/ber_list.dita"/>
-            <topicref href="topics/ber_1.dita"/>
-            <topicref href="topics/ber_2.dita"/>
-            <topicref href="topics/ber_3.dita"/>
+            <topicref href="topics/administrator.dita"/>
+            <topicref href="topics/operator.dita"/>
         </topicref>
         <topicref href="topics/bank_s_corporate_client_roles.dita">
             <topicref href="topics/bcc_list.dita"/>

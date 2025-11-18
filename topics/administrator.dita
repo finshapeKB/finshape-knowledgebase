@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="administrator">
+    <title>Administrator</title>
+    <shortdesc>Administrator is a bank employee role that is responsible for handling administrative
+        tasks. </shortdesc>
+    <body>
+        <p>
+            <table>
+                <title>Administrator tasks list</title>
+                <tgroup cols="3" align="-dita-use-conref-target">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <thead>
+                        <row>
+                            <entry>PID</entry>
+                            <entry>Task title</entry>
+                            <entry>Process title</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry><xref href="components_selection.dita"/></entry>
+                            <entry><xref href="project_phase_solution_blueprint_creation.dita"
+                                /></entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>
