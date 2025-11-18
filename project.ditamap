@@ -284,6 +284,7 @@
                     <topicref href="topics/functional_tasks_list.dita"/>
                     <topicref href="topics/business_tasks_1.dita">
                         <topicref href="topics/step_by_step_guidance.dita"/>
+                        <topicref href="topics/functional_analysis_confluence.dita"/>
                     </topicref>
                     <topicref href="topics/making_donations.dita"/>
                     <topicref href="topics/making_mobile_payments.dita"/>

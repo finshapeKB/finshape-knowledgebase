@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="functional_analysis_confluence">
+    <title>Functional Analysis (Confluence)</title>
+    <body>
+        <bodydiv><section id="CreateLocalPayment_Domestic_FunctionalAnalysis-Userstorydescription">
+                <title>User story description</title>
+                <p>As a User, I want to create a domestic payment order to transfer money from my
+                    account to another account within the same country, either by filling in an
+                    empty form or using a payment template.</p>
+            </section><p>
+                <fig id="fig_kkf_gbv_3hc">
+                    <title>Domestic payment screens flow diagram</title>
+                    <image placement="break" href="../images/domestic_payment_flow_diagram.png"
+                        id="image_lkf_gbv_3hc"/>
+                </fig>
+            </p><section id="CreateLocalPayment_Domestic_FunctionalAnalysis-CreateLocalPaymentForm">
+                <title>Create Local Payment Form</title>
+                <p>The form contains all necessary fields for creating a domestic payment:</p>
+                <ul id="ul_ojx_c1v_3hc">
+                    <li>Source account selection</li>
+                    <li>Beneficiary account information</li>
+                    <li>Amount and currency</li>
+                    <li>Payment details</li>
+                    <li>Value date</li>
+                    <li>Payment priority</li>
+                </ul>
+            </section><p>
+                <table frame="all" rowsep="1" colsep="1" id="table_c44_ncv_3hc">
+                    <title>Actions</title>
+                    <tgroup cols="6">
+                        <colspec colnum="1" colname="c1"/>
+                        <colspec colnum="2" colname="c2"/>
+                        <colspec colnum="3" colname="c3"/>
+                        <colspec colnum="4" colname="c4"/>
+                        <colspec colnum="5" colname="c5"/>
+                        <colspec colnum="6" colname="c6"/>
+                        <thead>
+                            <row>
+                                <entry>Action</entry>
+                                <entry>Note </entry>
+                                <entry>Validation</entry>
+                                <entry>Is primary action </entry>
+                                <entry>Order</entry>
+                                <entry>Condition </entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Create Payment</entry>
+                                <entry>Initiates new domestic payment</entry>
+                                <entry>User has operation 313 with Create rights</entry>
+                                <entry>Yes</entry>
+                                <entry>1</entry>
+                                <entry>Account group = 1 Current account</entry>
+                            </row>
+                            <row>
+                                <entry>Select Template</entry>
+                                <entry>Opens template selection</entry>
+                                <entry>User has at least one saved template</entry>
+                                <entry>No</entry>
+                                <entry>2</entry>
+                                <entry>Templates exist</entry>
+                            </row>
+                            <row>
+                                <entry>Cancel</entry>
+                                <entry>Cancels payment creation</entry>
+                                <entry>Confirmation dialog if form has data</entry>
+                                <entry>No</entry>
+                                <entry>3</entry>
+                                <entry>N/A</entry>
+                            </row>
+                            <row>
+                                <entry>Save as Template</entry>
+                                <entry>Saves current form as template</entry>
+                                <entry>Valid form data</entry>
+                                <entry>No</entry>
+                                <entry>4</entry>
+                                <entry>Form validation passed</entry>
+                            </row>
+                            <row>
+                                <entry>Sign</entry>
+                                <entry>Initiates payment signing</entry>
+                                <entry>All mandatory fields filled and valid</entry>
+                                <entry>Yes</entry>
+                                <entry>5</entry>
+                                <entry>Form validation passe</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p><p>
+                <table frame="all" rowsep="1" colsep="1" id="table_i4x_vdv_3hc">
+                    <title>UI mapping </title>
+                    <tgroup cols="7">
+                        <colspec colnum="1" colname="c1"/>
+                        <colspec colnum="2" colname="c2"/>
+                        <colspec colnum="3" colname="c3"/>
+                        <colspec colnum="4" colname="c4"/>
+                        <colspec colnum="5" colname="c5"/>
+                        <colspec colnum="6" colname="c6"/>
+                        <colspec colnum="7" colname="c7"/>
+                        <thead>
+                            <row>
+                                <entry>Attribute name </entry>
+                                <entry>DBOS</entry>
+                                <entry>Mandatory</entry>
+                                <entry>UX component</entry>
+                                <entry>GUI rules </entry>
+                                <entry>Other rules </entry>
+                                <entry>Note </entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Source Account</entry>
+                                <entry>TPM DomesticPaymentOrder.debitAccount</entry>
+                                <entry>Y</entry>
+                                <entry>Dropdown</entry>
+                                <entry>Account selector</entry>
+                                <entry>Only active accounts with View rights</entry>
+                                <entry>Current accounts only</entry>
+                            </row>
+                            <row>
+                                <entry>Beneficiary Account</entry>
+                                <entry>TPM DomesticPaymentOrder.creditAccount</entry>
+                                <entry>Y</entry>
+                                <entry>Input</entry>
+                                <entry>Text field, 24 chars</entry>
+                                <entry>IBAN format validation</entry>
+                                <entry>Convert to uppercase</entry>
+                            </row>
+                            <row>
+                                <entry>Beneficiary Name</entry>
+                                <entry>TPM DomesticPaymentOrder.partnerName</entry>
+                                <entry>Y</entry>
+                                <entry>Input</entry>
+                                <entry>Text field, 70 chars</entry>
+                                <entry>Alphanumeric + special chars</entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry>Amount</entry>
+                                <entry>TPM DomesticPaymentOrder.amount</entry>
+                                <entry>Y</entry>
+                                <entry>Input</entry>
+                                <entry>Numeric field</entry>
+                                <entry>Positive values only, 2 decimals</entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry>Currency</entry>
+                                <entry>TPM DomesticPaymentOrder.currency</entry>
+                                <entry>Y</entry>
+                                <entry>Display/Dropdown</entry>
+                                <entry>Read-only if single currency</entry>
+                                <entry>ISO currency codes</entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry>Payment Reference</entry>
+                                <entry>TPM DomesticPaymentOrder.paymentReference</entry>
+                                <entry>N</entry>
+                                <entry>Input</entry>
+                                <entry>Text field, 140 chars</entry>
+                                <entry>Alphanumeric</entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry>Value Date</entry>
+                                <entry>TPM DomesticPaymentOrder.valueDate</entry>
+                                <entry>Y</entry>
+                                <entry>DatePicker</entry>
+                                <entry>Calendar widget</entry>
+                                <entry>Min: today, Max: today + 90 days</entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p><b>Actors</b><ul id="ul_rjx_c1v_3hc">
+                <li>User</li>
+                <li>System (DBOS)</li>
+                <li>External Payment System</li>
+            </ul><b>Additional information</b><ol id="ol_sjx_c1v_3hc">
+                <li>Supported currencies: Local currency and major international currencies as
+                    configured</li>
+                <li>Operation supports certification and signing rules validation</li>
+                <li>Operation requires authentication and proper authorization</li>
+                <li>Balance validation is performed in real-time</li>
+                <li>Exchange rates are fetched if multi-currency payment</li>
+                <li>Payment limits apply based on User profile and account type</li>
+                <li>Verification of Payee (VoP) may be performed if enabled</li>
+                <li>All successful and failed attempts are logged in audit journal</li>
+            </ol><b>Triggers</b><ol id="ol_tjx_c1v_3hc">
+                <li>User selects "Create Local Payment" from Payment Overview screen → Main
+                    Flow</li>
+                <li>User selects "Create Payment" from Home screen quick actions → Main Flow</li>
+                <li>User selects domestic payment template from Template List → Template Flow</li>
+                <li>User uses "Repeat Payment" from Payment Detail screen → Repeat Payment Flow</li>
+                <li>User uses "Repeat Payment" from Transaction Detail screen → Repeat Transaction
+                    Flow</li>
+                <li>User initiates payment from Account Detail screen → Context-aware Flow</li>
+            </ol><b>Pre-conditions</b><ol id="ol_ujx_c1v_3hc">
+                <li>User is authenticated and logged into the system</li>
+                <li>User has operation 313 (Create Payment) with Create rights for at least one
+                    current account</li>
+                <li>User has at least one active account eligible for domestic payments</li>
+                <li>System integration with payment processing is operational</li>
+                <li>User's session is valid and not expired</li>
+            </ol><b>Result - success</b><ol id="ol_vjx_c1v_3hc">
+                <li>Payment instruction is validated and saved successfully with status
+                    "FOR_SIGN"</li>
+                <li>Success message is displayed with appropriate redirection options</li>
+                <li>User is redirected based on configuration (payment list or payment detail)</li>
+                <li>New actions become available: View Payment, Create Another, Save as
+                    Template</li>
+                <li>Payment information is sent to external payment system</li>
+                <li>Transaction is logged in audit journal with success status</li>
+                <li>If template was created, it's available in template list</li>
+            </ol><b>Result - failed</b><ol id="ol_wjx_c1v_3hc">
+                <li>Validation errors are displayed inline on the form</li>
+                <li>Failed attempt is logged in audit journal</li>
+                <li>Payment instruction is not saved in database</li>
+                <li>System displays appropriate error message based on failure type</li>
+                <li>User remains on payment form with entered data preserved</li>
+                <li>If integration failure, system informs about unavailability but allows
+                    retry</li>
+            </ol><b>Main flow</b><ol id="ol_xjx_c1v_3hc">
+                <li>System validates User's access rights and entitlements <b>(E1)</b></li>
+                <li>System displays Create Local Payment form with empty fields <b>(A1, A2)</b></li>
+                <li>System pre-fills source account if only one eligible account exists
+                    <b>(A3)</b></li>
+                <li>User fills in the payment form:<ul id="ul_yjx_c1v_3hc">
+                        <li>Selects source account (if not pre-filled) <b>(Ext1)</b></li>
+                        <li>Enters beneficiary account number <b>(A4)</b></li>
+                        <li>Enters beneficiary name</li>
+                        <li>Enters payment amount <b>(A5)</b></li>
+                        <li>Selects/confirms currency</li>
+                        <li>Enters payment reference (optional)</li>
+                        <li>Selects value date <b>(A6)</b></li>
+                        <li>Selects payment priority <b>(A7)</b></li>
+                    </ul></li>
+                <li>System performs real-time validations:<ul id="ul_zjx_c1v_3hc">
+                        <li>UC: Validate Account Number Format</li>
+                        <li>UC: Check Account Balance</li>
+                        <li>UC: Validate Payment Limits <b>(E2)</b></li>
+                        <li>UC: Check Verification of Payee (if enabled) <b>(A8)</b></li>
+                    </ul></li>
+                <li>User submits the payment form <b>(A9)</b></li>
+                <li>System displays payment summary screen</li>
+                <li>User confirms payment details <b>(A10)</b></li>
+                <li>System initiates signing process:<ul id="ul_akx_c1v_3hc">
+                        <li>UC: Sign Active Instruction <b>(E3)</b></li>
+                    </ul></li>
+                <li>System saves payment instruction with status "FOR_SIGN"</li>
+                <li>System sends payment to processing <b>(E4)</b></li>
+                <li>System displays success message with payment details</li>
+                <li>System redirects User based on configuration</li>
+            </ol><b>Alternative flows</b><b>A1 Creating from template</b><ol id="ol_bkx_c1v_3hc">
+                <li>→ User selects template from Template List</li>
+                <li>System loads template data</li>
+                <li>System pre-fills form with template values</li>
+                <li>→ continues from M.4</li>
+            </ol><b>A2 Repeat payment</b><ol id="ol_ckx_c1v_3hc">
+                <li>→ User initiates repeat from existing payment</li>
+                <li>System loads original payment data</li>
+                <li>System pre-fills form excluding value date</li>
+                <li>System sets value date to current date</li>
+                <li>→ continues from M.4</li>
+            </ol><b>A3 Multiple eligible accounts</b><ol id="ol_dkx_c1v_3hc">
+                <li>→ continues from M.3 when User has multiple accounts</li>
+                <li>System displays account selector without pre-selection</li>
+                <li>User must select source account</li>
+                <li>→ continues from M.4</li>
+            </ol><b>A4 Invalid account number format</b><ol id="ol_ekx_c1v_3hc">
+                <li>→ User enters invalid account format</li>
+                <li>System displays inline validation error</li>
+                <li>User corrects account number</li>
+                <li>→ continues from M.4</li>
+            </ol><b>A5 Insufficient balance</b><ol id="ol_fkx_c1v_3hc">
+                <li>→ System detects insufficient funds</li>
+                <li>System displays balance warning</li>
+                <li>User can:<ul id="ul_gkx_c1v_3hc">
+                        <li>Modify amount</li>
+                        <li>Select different account</li>
+                        <li>Cancel operation</li>
+                    </ul></li>
+                <li>→ continues from M.4 or ends</li>
+            </ol><b>A6 Invalid value date</b><ol id="ol_hkx_c1v_3hc">
+                <li>→ User selects date outside allowed range</li>
+                <li>System displays date validation error</li>
+                <li>System shows allowed date range</li>
+                <li>User selects valid date</li>
+                <li>→ continues from M.4</li>
+            </ol><b>A7 Urgent payment selected</b><ol id="ol_ikx_c1v_3hc">
+                <li>→ User selects Urgent priority</li>
+                <li>System displays urgent payment fee information</li>
+                <li>System recalculates total amount including fee</li>
+                <li>User confirms or changes priority</li>
+                <li>→ continues from M.5</li>
+            </ol><b>A8 Verification of Payee negative result</b><ol id="ol_jkx_c1v_3hc">
+                <li>→ VoP check returns name mismatch</li>
+                <li>System displays warning with:<ul id="ul_kkx_c1v_3hc">
+                        <li>Entered name</li>
+                        <li>Registered name</li>
+                    </ul></li>
+                <li>User can:<ul id="ul_lkx_c1v_3hc">
+                        <li>Continue with payment</li>
+                        <li>Modify beneficiary details</li>
+                        <li>Cancel operation</li>
+                    </ul></li>
+                <li>→ continues based on User decision</li>
+            </ol><b>A9 Save as template requested</b><ol id="ol_mkx_c1v_3hc">
+                <li>→ User selects "Save as Template" before submission</li>
+                <li>System displays template save dialog</li>
+                <li>User enters template name</li>
+                <li>System saves template</li>
+                <li>→ continues from M.6</li>
+            </ol><b>A10 User requests modification</b><ol id="ol_nkx_c1v_3hc">
+                <li>→ User selects "Modify" on summary screen</li>
+                <li>System returns to payment form</li>
+                <li>Form retains all entered data</li>
+                <li>→ continues from M.4</li>
+            </ol><b>Extended flows</b><b>Ext1 Choosing source account</b><ol id="ol_okx_c1v_3hc">
+                <li>User clicks on account selector</li>
+                <li>System displays list of eligible accounts with:<ul id="ul_pkx_c1v_3hc">
+                        <li>Account number</li>
+                        <li>Account name</li>
+                        <li>Available balance</li>
+                        <li>Currency</li>
+                    </ul></li>
+                <li>User selects account</li>
+                <li>System updates form with selected account</li>
+                <li>System updates currency if needed</li>
+            </ol><b>Exception flows</b><b>E1 Insufficient rights</b><ol id="ol_qkx_c1v_3hc">
+                <li>System detects User lacks required permissions</li>
+                <li>System displays authorization error</li>
+                <li>System logs security event</li>
+                <li>UC ends</li>
+            </ol><b>E2 Payment limit exceeded</b><ol id="ol_rkx_c1v_3hc">
+                <li>System detects amount exceeds User's limit</li>
+                <li>System displays limit error with:<ul id="ul_skx_c1v_3hc">
+                        <li>Current limit</li>
+                        <li>Entered amount</li>
+                    </ul></li>
+                <li>User must reduce amount or request limit increase</li>
+                <li>UC continues or ends based on User action</li>
+            </ol><b>E3 Signing failure</b><ol id="ol_tkx_c1v_3hc">
+                <li>Signing process fails (wrong PIN, timeout, etc.)</li>
+                <li>System displays signing error</li>
+                <li>Payment remains in "FOR_SIGN" status</li>
+                <li>User can retry signing or cancel</li>
+                <li>UC ends</li>
+            </ol><b>E4 Processing system unavailable</b><ol id="ol_ukx_c1v_3hc">
+                <li>External payment system is unavailable</li>
+                <li>System displays technical error</li>
+                <li>Payment saved with "PENDING" status</li>
+                <li>System will retry automatically</li>
+                <li>User informed about delayed processing</li>
+            </ol><b>Sequence Diagram</b><codeblock id="codeblock_k4w_ycv_3hc">User -> System:nitiate Create Payment
+System -> User: Display Payment Form
+User -> System: Fill Payment Details
+System -> System: Validate Fields
+System -> ExternalSystem: Verify Payee (if enabled)
+ExternalSystem -> System: Verification Result
+System -> User: Display Summary
+User -> System: Confirm Payment
+System -> System: Create Instruction
+System -> SigningService: Initiate Signing
+User -> SigningService: Sign Payment
+SigningService -> System: Signing Complete
+System -> PaymentProcessor: Send Payment
+System -> User: Display Success</codeblock>
+            <b>Data Flow</b><ol id="ol_xkx_c1v_3hc">
+                <li>Input: User enters payment details</li>
+                <li>Validation: System validates all fields</li>
+                <li>Enrichment: System adds technical fields</li>
+                <li>Storage: Payment saved to database</li>
+                <li>Processing: Payment sent to processor</li>
+                <li>Output: Confirmation to User</li>
+            </ol><b>API References</b><ul id="ul_ykx_c1v_3hc">
+                <li>POST /api/v1/payments/domestic - Create domestic payment</li>
+                <li>GET /api/v1/accounts/{id}/balance - Check account balance</li>
+                <li>POST /api/v1/payments/validate - Validate payment details</li>
+                <li>GET /api/v1/beneficiaries/verify - Verify payee details</li>
+                <li>POST /api/v1/templates - Save payment template</li>
+            </ul><b>Integration Points</b><ol id="ol_zkx_c1v_3hc">
+                <li><b>SI-101</b>: Account Balance Check</li>
+                <li><b>SI-102</b>: Payment Validation Service</li>
+                <li><b>SI-103</b>: Verification of Payee Service</li>
+                <li><b>SI-104</b>: Payment Processing Gateway</li>
+                <li><b>SI-105</b>: Audit Logging Service</li>
+            </ol><xref
+                href="https://cz-support.finshape.com/confl/display/P2000984102/Create+Local+Payment+%28Domestic%29+-+Functional+Analysis"
+                format="html" scope="external"/></bodydiv>
+        <p></p>
+    </body>
+</topic>
