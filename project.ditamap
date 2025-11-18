@@ -255,6 +255,9 @@
                 <topicref href="topics/project_implementation_sales_phase.dita">
                     <topicref href="topics/initial_selling_proposition.dita"/>
                 </topicref>
+                <topicref href="topics/project_phase_solution_blueprint_creation.dita">
+                    <topicref href="topics/components_selection.dita"/>
+                </topicref>
             </topicref>
             <topicref href="topics/client_support_process_tasks.dita">
                 <topicref href="topics/bank_employee_onboarding_tasks.dita"/>

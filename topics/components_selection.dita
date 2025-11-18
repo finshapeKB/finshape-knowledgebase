@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="components_selection">
+    <title>Components selection PT04.02.01</title>
+    <shortdesc>Components selection for specific use-cases implementation is a part of Solution
+        blueprint creation process. We need this information to be mentioned within the chapter DBOS
+        Platform Components. </shortdesc>
+    <body>
+        <p>Step by step guidance on how to select DBOS components, that participate in a specific
+            use-case .<ol id="ol_lpn_cv5_ghc">
+                <li>
+                    <p>Find out with client what Role handles the task and what Category the task
+                        is.</p>
+                </li>
+                <li>
+                    <p>Go to Knowledge Base section Roles to review tasks that are assigned to this
+                            Role<note id="note_qj2_vyn_3hc">We recommend you to open the Role's task
+                            list in a new tab to comfortably switch between this guide and needed
+                            sections</note></p>
+                </li>
+                <li>
+                    <p>Find within the task list the task title client is talking about</p>
+                </li>
+                <li>
+                    <p>Select task title within the list and main Task page will be opened </p>
+                </li>
+                <li>
+                    <p>Select <wintitle>Consists of steps</wintitle> to open the table, where you'll
+                        se what DBOS components correspond to task's steps </p>
+                </li>
+                <li>
+                    <p>Use Components' PID to include them to the Solution Blueprint, chapter DBOS
+                        Platform Components <note id="note_wsz_gx5_ghc">If we have such tool
+                            (interoperability), the document line will be generated
+                            automatically.</note></p>
+                </li>
+                <li>
+                    <p>Go to the next Task.</p>
+                </li>
+            </ol></p>
+    </body>
+</topic>
