@@ -71,10 +71,10 @@
             </topicref>
         </topicref>
         <topicref href="topics/finshape_products_clients_pay_for.dita">
+            <topicref href="topics/custom_digital_banking_solution.dita"/>
             <topicref href="topics/digital_banking_operation_system.dita"/>
             <topicref href="topics/internet_banking_for_retail_client.dita"/>
             <topicref href="topics/internet_banking_for_corporate_client.dita"/>
-            <topicref href="topics/custom_digital_banking_solution.dita"/>
         </topicref>
     </topicref>
     <topicref href="topics/work_spaces_to_handle_tasks.dita">

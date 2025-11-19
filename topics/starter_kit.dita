@@ -2,6 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="starter_kit">
     <title>Starter kit</title>
+    <shortdesc>Starter Kit is Finshape application that consists of multiple GUI pages specially
+        designed for user to handle business tasks within Finshape product - Custom Digital Baking
+        solution. GUI pages are created using Finshape tool - Alfons and may be reusable in other
+        Finshape products. </shortdesc>
     <body>
         <p></p>
     </body>
