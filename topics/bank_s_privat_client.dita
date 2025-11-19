@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="bank_s_privat_client">
-    <title>Bank's Private Client</title>
+    <title>Bank's Retail Client </title>
     <shortdesc>Bank's Private Client is the only role that may use internet banking application for
         the bank's private clients. That means that private clients must handle their banking
         operations themselves.</shortdesc>

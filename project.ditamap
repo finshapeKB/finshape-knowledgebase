@@ -28,7 +28,6 @@
                     <topicref href="topics/introduction_to_the_component.dita">
                         <topicref href="topics/what_is_digital_identity_component.dita"/>
                         <topicref href="topics/task_you_accomlish_using_this_component.dita"/>
-                        <topicref href="topics/roles_and_its_tasks.dita"/>
                     </topicref>
                     <topicref href="topics/istallation.dita"/>
                     <topicref href="topics/getting_started.dita">
@@ -71,7 +70,12 @@
                 <topicref href="topics/config_player.dita"/>
             </topicref>
         </topicref>
-        <topicref href="topics/finshape_products_clients_pay_for.dita"/>
+        <topicref href="topics/finshape_products_clients_pay_for.dita">
+            <topicref href="topics/digital_banking_operation_system.dita"/>
+            <topicref href="topics/internet_banking_for_retail_client.dita"/>
+            <topicref href="topics/internet_banking_for_corporate_client.dita"/>
+            <topicref href="topics/custom_digital_banking_solution.dita"/>
+        </topicref>
     </topicref>
     <topicref href="topics/work_spaces_to_handle_tasks.dita">
         <topicref href="topics/bank_s_employee_app_ui.dita"/>
