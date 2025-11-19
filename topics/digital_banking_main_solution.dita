@@ -2,7 +2,140 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="digital_banking_main_solution">
     <title>Products</title>
+    <shortdesc>This section describes all products that represent Finshape's value proposition.
+        Value Proposition is a primary component of the business model. This is a description of the
+        goods or services that a company offers and why they are desirable to customers or clients. </shortdesc>
     <body>
-        <p/>
+        <p>In addition to Finshape’s value proposition, this section describes the foundational
+            components from which Finshape’s products are built. To get more technical details on
+            building blocks, go to: <xref href="db_modules.dita"/>. </p>
+        <p>We offer to our clients the following products:</p>
+        <p>
+            <dl id="dl_dht_4mb_jhc">
+                <dlentry>
+                    <dt>Authentication and Authorization solution </dt>
+                    <dd>The authentication and authorization solution is a comprehensive, secure,
+                        and scalable service that provides identity, access, and operational
+                        governance across the entire digital banking system. This service is
+                        delivered through the DBOS components Digital Identity (GAAS) and GEN
+                        (Entitlements).</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Login Application</dt>
+                    <dd>Login Application is a  React-based web application implements the
+                        authentication GUI. DBOS solutions include two Login Applications: one for
+                        bank clients and another for bank employees. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Start Digital Banking solution </dt>
+                    <dd>The Start Digital Banking solution provides the essential capabilities
+                        required to deliver core digital banking services, including secure customer
+                        operations, seamless integration with existing bank systems, and support for
+                        additional banking functionalities. These functionalities include storing
+                        and providing data, executing transactions, and performing product-related
+                        actions, all supported through a unified integration layer. The product
+                        includes the Authentication and Authorization solution along with other key
+                        components: Instant Data (GDS), Payments and Instructions (TPM), Integration
+                        Hub (IHUB), and Service Proxy (SPX).</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Admin Console (WAC)</dt>
+                    <dd>A React-based administrative web application for bank employees, designed to
+                        configure the DBOS Entitlements (authorization) model and manage user
+                        security elements. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Desktop Internet Banking application </dt>
+                    <dd> Internet banking application is a web application implementing the internet
+                        banking GUI. It is a React-based web application, implementing complete GUI
+                        logic (rendering bank data, processing user request flows, certification
+                        (signing), etc.), communicating with server components only via data REST
+                        and/or GraphQL APIs. Internet Banking implements a GUI for on-behalf access,
+                        where a bank employee operates the solution on behalf of a selected
+                        user.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt> iOS and Android Smartphone Banking</dt>
+                    <dd>Mobile applications for iOS (iPhone) and Android smartphones implement a GUI
+                        for smartphone banking. These applications are based on the DBOS Journey
+                        Designer platform, leveraging React Native and Expo frameworks for
+                        cross-platform development and delivery. Part of the applications will be
+                        also specific user journey implementing a GUI of digital onboarding
+                        process.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Four Eyes</dt>
+                    <dd>The Four Eyes component is an optional add-on designed for corporate banking
+                        clients who require stronger internal control. It ensures that sensitive
+                        administrative actions are only executed after being reviewed and approved
+                        by a second authorized user, providing an extra layer of security and
+                        governance.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Notification Centre (GNC)</dt>
+                    <dd>GNC is an optional add-on that manages and generates notifications for
+                        selected events, such as balance changes or specific account movements.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Distribution (GDC)</dt>
+                    <dd>GDC is an optional add-on that handles the delivery of notifications to
+                        clients, ensuring that alerts and messages generated by the bank’s systems
+                        are reliably sent through the configured communication channels.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Exchange rates (XCR)</dt>
+                    <dd>XCR is an optional add-on that provides exchange rate information for
+                        foreign currency operations and supports currency-dependent business rules,
+                        such as currency limits or thresholds.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Experience builder (EXB)</dt>
+                    <dd>EXB is an optional add-on that stores user-specific data for web or mobile
+                        applications, such as personalized dashboard settings or other custom user
+                        preferences.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Document Generation Service</dt>
+                    <dd>The Document Generation Service is an optional add-on that enables the
+                        automated creation of various banking documents, such as contracts,
+                        statements, and confirmations. It ensures that documents are produced
+                        accurately, consistently, and in a fully digital form, supporting both
+                        customer-facing and internal processes. The service consists of two
+                        components: Print Server (GPS), which handles the actual document
+                        generation, and SIDER, a technical extension that allows large or complex
+                        documents to finish processing in the background even after the user logs
+                        out. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>PSD2 Support Service</dt>
+                    <dd>PSD2 Support Service is an optional add-on that delivers the mandatory
+                        functionality required for PSD2 compliance within the EU. It enables secure
+                        access for licensed third-party providers, manages customer consents, and
+                        ensures proper registration and handling of third-party entities. The
+                        service consists of three core components: OpenBank for exposing
+                        PSD2-compliant APIs, ConsentReg for managing and storing customer consent,
+                        and TpReg for registering and maintaining third-party provider
+                        information.</dd>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_zpx_5wb_jhc">
+            <dlentry>
+                <dt>Product Support </dt>
+                <dd>Product support is a service consists of: onboarding for banking employees etc.
+                </dd>
+            </dlentry>
+            <dlentry>
+                <dt>Onboarding application </dt>
+                <dd>Application implementing a GUI for the digital onboarding process. This
+                    application uses the same technology approach as iOS and Android smartphone
+                    banking applications - Journey Designer (React Native).</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Maintenance service</dt>
+                <dd>Maintenance service consists of services related to products' updates, health
+                    checkups etc. </dd>
+            </dlentry>
+        </dl>
     </body>
 </topic>

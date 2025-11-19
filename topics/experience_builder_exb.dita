@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="experience_builder_exb">
+    <title>Experience builder (EXB)</title>
+    <shortdesc>EXB is an optional add-on that stores user-specific data for web or mobile
+        applications, such as personalized dashboard settings or other custom user
+        preferences.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

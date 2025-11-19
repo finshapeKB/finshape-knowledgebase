@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="admin_console_wac_0">
+    <title>Admin Console (WAC)</title>
+    <shortdesc>A React-based administrative web application for bank employees, designed to
+        configure the DBOS Entitlements (authorization) model and manage user security elements. </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

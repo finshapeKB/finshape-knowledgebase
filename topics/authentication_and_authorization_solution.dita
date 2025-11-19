@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="authentication_and_authorization_solution">
+    <title>Authentication and Authorization solution</title>
+    <shortdesc>The authentication and authorization solution is a comprehensive, secure, and
+        scalable service that provides identity, access, and operational governance across the
+        entire digital banking system. This service is delivered through the DBOS components Digital
+        Identity (GAAS) and GEN (Entitlements).</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

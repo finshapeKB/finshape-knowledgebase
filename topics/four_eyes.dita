@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="four_eyes">
+    <title>Four Eyes</title>
+    <shortdesc>The Four Eyes component is an optional add-on designed for corporate banking clients
+        who require stronger internal control. It ensures that sensitive administrative actions are
+        only executed after being reviewed and approved by a second authorized user, providing an
+        extra layer of security and governance.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

@@ -17,35 +17,113 @@
                 <topicref href="topics/content_manager_cm.dita"/>
                 <topicref href="topics/experience_builder_xpb.dita"/>
                 <topicref href="topics/four_eyes_fey.dita"/>
-                <topicref href="topics/digital_identity.dita">
-                    <topicref href="topics/introduction_to_this_user_guide.dita">
-                        <topicref href="topics/understanding_user_guide_concept.dita"/>
-                        <topicref href="topics/how_to_use_user_guide.dita"/>
-                        <topicref href="topics/content_life_cycle.dita"/>
-                        <topicref href="topics/party.dita"/>
-                        <topicref href="topics/resources.dita"/>
-                    </topicref>
-                    <topicref href="topics/introduction_to_the_component.dita">
-                        <topicref href="topics/what_is_digital_identity_component.dita"/>
-                        <topicref href="topics/task_you_accomlish_using_this_component.dita"/>
-                    </topicref>
-                    <topicref href="topics/istallation.dita"/>
-                    <topicref href="topics/getting_started.dita">
-                        <topicref href="topics/frequently_used_shortcut_keys.dita"/>
-                        <topicref href="topics/your_first_steps.dita"/>
-                        <topicref href="topics/getting_help.dita"/>
-                        <topicref href="topics/resources_to_help_you_getting_started.dita"/>
-                    </topicref>
-                    <topicref href="topics/configuration.dita"/>
-                    <topicref href="topics/maintenance.dita"/>
-                    <topicref href="topics/working_with_this_component.dita"/>
-                    <topicref href="topics/troubleshooting.dita"/>
-                </topicref>
+                <topicref href="topics/digital_identity.dita"/>
                 <topicref href="topics/distributions_gdc.dita"/>
                 <topicref href="topics/instant_data.dita"/>
                 <topicref href="topics/entitlements.dita"/>
                 <topicref href="topics/notifications_gnc.dita"/>
-                <topicref href="topics/print_server_gps.dita"/>
+                <topicref href="topics/print_server_gps.dita">
+                    <topicref href="topics/overview.dita"/>
+                    <topicref href="topics/about_this_document.dita"/>
+                    <topicref href="topics/what_s_new_in_2_4.dita"/>
+                    <topicref href="topics/features.dita"/>
+                    <topicref href="topics/core_features.dita">
+                        <topicref href="topics/gps_in_a_nutshell.dita"/>
+                    </topicref>
+                    <topicref href="topics/optional_features.dita">
+                        <topicref href="topics/export_templates.dita"/>
+                    </topicref>
+                    <topicref href="topics/database_setup.dita">
+                        <topicref href="topics/preparing_database.dita"/>
+                        <topicref href="topics/oracle_setup.dita"/>
+                        <topicref href="topics/postgres_setup.dita"/>
+                        <topicref href="topics/database_patcher.dita"/>
+                    </topicref>
+                    <topicref href="topics/configuration.dita">
+                        <topicref href="topics/configuration_files.dita"/>
+                        <topicref href="topics/core_configuration.dita">
+                            <topicref href="topics/logging.dita"/>
+                            <topicref href="topics/datasource.dita"/>
+                            <topicref href="topics/caching.dita"/>
+                            <topicref href="topics/cors.dita"/>
+                            <topicref href="topics/transactions.dita"/>
+                            <topicref href="topics/asynchronous_task_execution_and_scheduling.dita"/>
+                            <topicref href="topics/liquibase_validation.dita"/>
+                            <topicref href="topics/monitoring.dita"/>
+                            <topicref href="topics/application.dita"/>
+                            <topicref href="topics/rest_api.dita"/>
+                            <topicref href="topics/jobs.dita"/>
+                            <topicref href="topics/journal.dita"/>
+                            <topicref href="topics/api_catalog_service.dita"/>
+                            <topicref href="topics/tls_secured_apis.dita"/>
+                            <topicref href="topics/miscellaneous.dita"/>
+                        </topicref>
+                        <topicref href="topics/integration_configuration.dita">
+                            <topicref
+                                href="topics/direct_dbos_components_integration_configuration.dita"
+                            />
+                        </topicref>
+                        <topicref href="topics/features_configuration.dita">
+                            <topicref href="topics/export_templates_configuration.dita"/>
+                        </topicref>
+                        <topicref href="topics/monitoring_0.dita">
+                            <topicref href="topics/overview_0.dita"/>
+                            <topicref href="topics/info_endpoint.dita"/>
+                            <topicref href="topics/liveness_and_readiness_probes.dita"/>
+                            <topicref href="topics/metrics.dita"/>
+                        </topicref>
+                        <topicref href="topics/extending.dita">
+                            <topicref href="topics/overview_of_extending.dita"/>
+                            <topicref href="topics/building_extensions.dita"/>
+                            <topicref href="topics/custom_database_patcher.dita"/>
+                            <topicref href="topics/offline_token_provider.dita"/>
+                            <topicref href="topics/export_template_extensions.dita"/>
+                        </topicref>
+                        <topicref href="topics/pluggable_extension_points.dita">
+                            <topicref href="topics/extension_points_overview.dita"/>
+                            <topicref href="topics/authentication_extension_points.dita"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="topics/implementation.dita">
+                        <topicref href="topics/build.dita">
+                            <topicref href="topics/maven_plugins.dita"/>
+                        </topicref>
+                        <topicref href="topics/core_and_common_functionalities.dita">
+                            <topicref href="topics/multiple_database_support_in_gps.dita"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="topics/appendixes.dita">
+                        <topicref href="topics/caches.dita"/>
+                        <topicref href="topics/list_of_apis.dita"/>
+                        <topicref href="topics/migration_guides.dita">
+                            <topicref href="topics/migrating_from_gps_2_2_x_to_2_3_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_2_3_x_to_2_4_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_2_1_x_to_2_2_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_2_0_x_to_2_1_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_1_1_x_to_2_0_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_1_0_x_to_1_1_x.dita"/>
+                            <topicref
+                                href="topics/migrating_from_original_project_bsc_gps_to_core_gps_1_0.dita"
+                            />
+                        </topicref>
+                        <topicref href="topics/archived_news.dita">
+                            <topicref href="topics/what_s_new_in_2_4_0.dita"/>
+                            <topicref href="topics/what_s_new_in_2_3.dita"/>
+                            <topicref href="topics/what_s_new_in_2_2.dita"/>
+                            <topicref href="topics/what_s_new_in_2_1.dita"/>
+                            <topicref href="topics/what_s_new_in_2_0.dita"/>
+                            <topicref href="topics/what_s_new_in_1_1.dita"/>
+                            <topicref href="topics/what_s_new_in_1_0.dita"/>
+                        </topicref>
+                        <topicref href="topics/compatibility_matrix.dita"/>
+                    </topicref>
+                    <topicref href="topics/architectural_decisions.dita">
+                        <topicref href="topics/technical_architectural_decisions.dita"/>
+                    </topicref>
+                    <topicref href="topics/business_features_architectural_decisions.dita">
+                        <topicref href="topics/tbd.dita"/>
+                    </topicref>
+                </topicref>
                 <topicref href="topics/integration_hub_gde.dita"/>
                 <topicref href="topics/service_identity_provide_sider.dita"/>
                 <topicref href="topics/payments_instructions_tpm.dita"/>
@@ -71,10 +149,323 @@
             </topicref>
         </topicref>
         <topicref href="topics/finshape_products_clients_pay_for.dita">
-            <topicref href="topics/custom_digital_banking_solution.dita"/>
-            <topicref href="topics/digital_banking_operation_system.dita"/>
-            <topicref href="topics/internet_banking_for_retail_client.dita"/>
-            <topicref href="topics/internet_banking_for_corporate_client.dita"/>
+            <topicref href="topics/authentication_and_authorization_solution.dita">
+                <topicref href="topics/introduction_to_this_user_guide_1.dita">
+                    <topicref href="topics/understanding_user_guide_concept_1.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_1.dita"/>
+                    <topicref href="topics/content_life_cycle_1.dita"/>
+                    <topicref href="topics/party_1.dita"/>
+                    <topicref href="topics/resources_1.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_0.dita">
+                    <topicref href="topics/what_is_the_product_0.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_0.dita"/>
+                </topicref>
+                <topicref href="topics/installation_0.dita"/>
+                <topicref href="topics/getting_started_1.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_1.dita"/>
+                    <topicref href="topics/your_first_steps_1.dita"/>
+                    <topicref href="topics/getting_help_1.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_1.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_1.dita"/>
+                <topicref href="topics/maintenance_1.dita"/>
+                <topicref href="topics/working_with_the_product_0.dita"/>
+                <topicref href="topics/troubleshooting_1.dita"/>
+            </topicref>
+            <topicref href="topics/login_application.dita">
+                <topicref href="topics/introduction_to_this_user_guide.dita">
+                    <topicref href="topics/understanding_user_guide_concept_2.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_2.dita"/>
+                    <topicref href="topics/content_life_cycle_2.dita"/>
+                    <topicref href="topics/party_2.dita"/>
+                    <topicref href="topics/resources_2.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_1.dita">
+                    <topicref href="topics/what_is_the_product_1.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_1.dita"/>
+                </topicref>
+                <topicref href="topics/installation_1.dita"/>
+                <topicref href="topics/getting_started_2.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_2.dita"/>
+                    <topicref href="topics/your_first_steps_2.dita"/>
+                    <topicref href="topics/getting_help_2.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_2.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_2.dita"/>
+                <topicref href="topics/maintenance_2.dita"/>
+                <topicref href="topics/working_with_the_product_1.dita"/>
+                <topicref href="topics/troubleshooting_2.dita"/>
+            </topicref>
+            <topicref href="topics/start_digital_banking_solution.dita">
+                <topicref href="topics/introduction_to_this_user_guide_0.dita">
+                    <topicref href="topics/understanding_user_guide_concept_0.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_0.dita"/>
+                    <topicref href="topics/content_life_cycle_0.dita"/>
+                    <topicref href="topics/party_0.dita"/>
+                    <topicref href="topics/resources_0.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product.dita">
+                    <topicref href="topics/what_is_the_product.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product.dita"/>
+                </topicref>
+                <topicref href="topics/installation.dita"/>
+                <topicref href="topics/getting_started_0.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_0.dita"/>
+                    <topicref href="topics/your_first_steps_0.dita"/>
+                    <topicref href="topics/getting_help_0.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_0.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_0.dita"/>
+                <topicref href="topics/maintenance_0.dita"/>
+                <topicref href="topics/working_with_the_product.dita"/>
+                <topicref href="topics/troubleshooting_0.dita"/>
+            </topicref>
+            <topicref href="topics/admin_console_wac_0.dita">
+                <topicref href="topics/introduction_to_this_user_guide_2.dita">
+                    <topicref href="topics/understanding_user_guide_concept_3.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_3.dita"/>
+                    <topicref href="topics/content_life_cycle_3.dita"/>
+                    <topicref href="topics/party_3.dita"/>
+                    <topicref href="topics/resources_3.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_2.dita">
+                    <topicref href="topics/what_is_the_product_2.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_2.dita"/>
+                </topicref>
+                <topicref href="topics/installation_2.dita"/>
+                <topicref href="topics/getting_started_3.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_3.dita"/>
+                    <topicref href="topics/your_first_steps_3.dita"/>
+                    <topicref href="topics/getting_help_3.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_3.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_3.dita"/>
+                <topicref href="topics/maintenance_3.dita"/>
+                <topicref href="topics/working_with_the_product_2.dita"/>
+                <topicref href="topics/troubleshooting_3.dita"/>
+            </topicref>
+            <topicref href="topics/desktop_internet_banking_application.dita">
+                <topicref href="topics/introduction_to_this_user_guide_3.dita">
+                    <topicref href="topics/understanding_user_guide_concept_4.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_4.dita"/>
+                    <topicref href="topics/content_life_cycle_4.dita"/>
+                    <topicref href="topics/party_4.dita"/>
+                    <topicref href="topics/resources_4.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_3.dita">
+                    <topicref href="topics/what_is_the_product_3.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_3.dita"/>
+                </topicref>
+                <topicref href="topics/installation_3.dita"/>
+                <topicref href="topics/getting_started_4.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_4.dita"/>
+                    <topicref href="topics/your_first_steps_4.dita"/>
+                    <topicref href="topics/getting_help_4.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_4.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_4.dita"/>
+                <topicref href="topics/maintenance_4.dita"/>
+                <topicref href="topics/working_with_the_product_3.dita"/>
+                <topicref href="topics/troubleshooting_4.dita"/>
+            </topicref>
+            <topicref href="topics/ios_and_android_smartphone_banking.dita">
+                <topicref href="topics/introduction_to_this_user_guide_4.dita">
+                    <topicref href="topics/understanding_user_guide_concept_5.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_5.dita"/>
+                    <topicref href="topics/content_life_cycle_5.dita"/>
+                    <topicref href="topics/party_5.dita"/>
+                    <topicref href="topics/resources_5.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_4.dita">
+                    <topicref href="topics/what_is_the_product_4.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_4.dita"/>
+                </topicref>
+                <topicref href="topics/installation_4.dita"/>
+                <topicref href="topics/getting_started_5.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_5.dita"/>
+                    <topicref href="topics/your_first_steps_5.dita"/>
+                    <topicref href="topics/getting_help_5.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_5.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_5.dita"/>
+                <topicref href="topics/maintenance_5.dita"/>
+                <topicref href="topics/working_with_the_product_4.dita"/>
+                <topicref href="topics/troubleshooting_5.dita"/>
+            </topicref>
+            <topicref href="topics/four_eyes.dita">
+                <topicref href="topics/introduction_to_this_user_guide_5.dita">
+                    <topicref href="topics/understanding_user_guide_concept_6.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_6.dita"/>
+                    <topicref href="topics/content_life_cycle_6.dita"/>
+                    <topicref href="topics/party_6.dita"/>
+                    <topicref href="topics/resources_6.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_5.dita">
+                    <topicref href="topics/what_is_the_product_5.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_5.dita"/>
+                </topicref>
+                <topicref href="topics/installation_5.dita"/>
+                <topicref href="topics/getting_started_6.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_6.dita"/>
+                    <topicref href="topics/your_first_steps_6.dita"/>
+                    <topicref href="topics/getting_help_6.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_6.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_6.dita"/>
+                <topicref href="topics/maintenance_6.dita"/>
+                <topicref href="topics/working_with_the_product_5.dita"/>
+                <topicref href="topics/troubleshooting_6.dita"/>
+            </topicref>
+            <topicref href="topics/notification_centre_gnc.dita">
+                <topicref href="topics/introduction_to_this_user_guide_6.dita">
+                    <topicref href="topics/understanding_user_guide_concept_7.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_7.dita"/>
+                    <topicref href="topics/content_life_cycle_7.dita"/>
+                    <topicref href="topics/party_7.dita"/>
+                    <topicref href="topics/resources_7.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_6.dita">
+                    <topicref href="topics/what_is_the_product_6.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_6.dita"/>
+                </topicref>
+                <topicref href="topics/installation_6.dita"/>
+                <topicref href="topics/getting_started_7.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_7.dita"/>
+                    <topicref href="topics/your_first_steps_7.dita"/>
+                    <topicref href="topics/getting_help_7.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_7.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_7.dita"/>
+                <topicref href="topics/maintenance_7.dita"/>
+                <topicref href="topics/working_with_the_product_6.dita"/>
+                <topicref href="topics/troubleshooting_7.dita"/>
+            </topicref>
+            <topicref href="topics/distribution_gdc.dita">
+                <topicref href="topics/introduction_to_this_user_guide_7.dita">
+                    <topicref href="topics/understanding_user_guide_concept_8.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_8.dita"/>
+                    <topicref href="topics/content_life_cycle_8.dita"/>
+                    <topicref href="topics/party_8.dita"/>
+                    <topicref href="topics/resources_8.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_7.dita">
+                    <topicref href="topics/what_is_the_product_7.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_7.dita"/>
+                </topicref>
+                <topicref href="topics/installation_7.dita"/>
+                <topicref href="topics/getting_started_8.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_8.dita"/>
+                    <topicref href="topics/your_first_steps_8.dita"/>
+                    <topicref href="topics/getting_help_8.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_8.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_8.dita"/>
+                <topicref href="topics/maintenance_8.dita"/>
+                <topicref href="topics/working_with_the_product_7.dita"/>
+                <topicref href="topics/troubleshooting_8.dita"/>
+            </topicref>
+            <topicref href="topics/exchange_rates_xcr_0.dita">
+                <topicref href="topics/introduction_to_this_user_guide_8.dita">
+                    <topicref href="topics/understanding_user_guide_concept_9.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_9.dita"/>
+                    <topicref href="topics/content_life_cycle_9.dita"/>
+                    <topicref href="topics/party_9.dita"/>
+                    <topicref href="topics/resources_9.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_8.dita">
+                    <topicref href="topics/what_is_the_product_8.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_8.dita"/>
+                </topicref>
+                <topicref href="topics/installation_8.dita"/>
+                <topicref href="topics/getting_started_9.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_9.dita"/>
+                    <topicref href="topics/your_first_steps_9.dita"/>
+                    <topicref href="topics/getting_help_9.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_9.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_9.dita"/>
+                <topicref href="topics/maintenance_9.dita"/>
+                <topicref href="topics/working_with_the_product_8.dita"/>
+                <topicref href="topics/troubleshooting_9.dita"/>
+            </topicref>
+            <topicref href="topics/experience_builder_exb.dita">
+                <topicref href="topics/introduction_to_this_user_guide_9.dita">
+                    <topicref href="topics/understanding_user_guide_concept_10.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_10.dita"/>
+                    <topicref href="topics/content_life_cycle_10.dita"/>
+                    <topicref href="topics/party_10.dita"/>
+                    <topicref href="topics/resources_10.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_9.dita">
+                    <topicref href="topics/what_is_the_product_9.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_9.dita"/>
+                </topicref>
+                <topicref href="topics/installation_9.dita"/>
+                <topicref href="topics/getting_started_10.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_10.dita"/>
+                    <topicref href="topics/your_first_steps_10.dita"/>
+                    <topicref href="topics/getting_help_10.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_10.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_10.dita"/>
+                <topicref href="topics/maintenance_10.dita"/>
+                <topicref href="topics/working_with_the_product_9.dita"/>
+                <topicref href="topics/troubleshooting_10.dita"/>
+            </topicref>
+            <topicref href="topics/document_generation_service.dita">
+                <topicref href="topics/introduction_to_this_user_guide_10.dita">
+                    <topicref href="topics/understanding_user_guide_concept_11.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_11.dita"/>
+                    <topicref href="topics/content_life_cycle_11.dita"/>
+                    <topicref href="topics/party_11.dita"/>
+                    <topicref href="topics/resources_11.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_10.dita">
+                    <topicref href="topics/what_is_the_product_10.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_10.dita"
+                    />
+                </topicref>
+                <topicref href="topics/installation_10.dita"/>
+                <topicref href="topics/getting_started_11.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_11.dita"/>
+                    <topicref href="topics/your_first_steps_11.dita"/>
+                    <topicref href="topics/getting_help_11.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_11.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_11.dita"/>
+                <topicref href="topics/maintenance_11.dita"/>
+                <topicref href="topics/working_with_the_product_10.dita"/>
+                <topicref href="topics/troubleshooting_11.dita"/>
+            </topicref>
+            <topicref href="topics/psd2_support_service.dita">
+                <topicref href="topics/introduction_to_this_user_guide_11.dita">
+                    <topicref href="topics/understanding_user_guide_concept_12.dita"/>
+                    <topicref href="topics/how_to_use_user_guide_12.dita"/>
+                    <topicref href="topics/content_life_cycle_12.dita"/>
+                    <topicref href="topics/party_12.dita"/>
+                    <topicref href="topics/resources_12.dita"/>
+                </topicref>
+                <topicref href="topics/introduction_to_the_product_11.dita">
+                    <topicref href="topics/what_is_the_product_11.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product_11.dita"
+                    />
+                </topicref>
+                <topicref href="topics/installation_11.dita"/>
+                <topicref href="topics/getting_started_12.dita">
+                    <topicref href="topics/frequently_used_shortcut_keys_12.dita"/>
+                    <topicref href="topics/your_first_steps_12.dita"/>
+                    <topicref href="topics/getting_help_12.dita"/>
+                    <topicref href="topics/resources_to_help_you_getting_started_12.dita"/>
+                </topicref>
+                <topicref href="topics/configuration_12.dita"/>
+                <topicref href="topics/maintenance_12.dita"/>
+                <topicref href="topics/working_with_the_product_11.dita"/>
+                <topicref href="topics/troubleshooting_12.dita"/>
+            </topicref>
+            <topicref href="topics/product_support.dita"/>
+            <topicref href="topics/onboarding_application.dita"/>
+            <topicref href="topics/maintenance_service.dita"/>
         </topicref>
     </topicref>
     <topicref href="topics/work_spaces_to_handle_tasks.dita">

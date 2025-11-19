@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ios_and_android_smartphone_banking">
+    <title>iOS and Android Smartphone Banking</title>
+    <shortdesc>Mobile applications for iOS (iPhone) and Android smartphones implement a GUI for
+        smartphone banking. These applications are based on the DBOS Journey Designer platform,
+        leveraging React Native and Expo frameworks for cross-platform development and delivery.
+        Part of the applications will be also specific user journey implementing a GUI of digital
+        onboarding process.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>
