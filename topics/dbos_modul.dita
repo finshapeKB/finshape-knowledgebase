@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="dbos_modul">
-    <title> DBOS components</title>
+    <title> DBOS service components</title>
+    <shortdesc>DBOS component is the container for program that implements the business logic and
+        configuration information. The program is a set of back-end operations that  the application
+        runs for the user. A component offers a service to other components and in turn consumes
+        functions offered by other services using service-oriented interfaces.</shortdesc>
     <body>
-        <p></p>
+        <p>A manufacturer to create its domain products (solutions) under its brand may develop own
+            service components or apply third party service components. If third party service
+            component is integrated to manufacturer product it becomes manufacturer domain service
+            component and license information is provided.</p>
+        <p>We must separate tools from integrated to domain products third party service components.
+        </p>
     </body>
 </topic>

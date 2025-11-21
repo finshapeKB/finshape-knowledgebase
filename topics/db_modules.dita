@@ -2,11 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="db_modules">
     <title>Digital banking building blocks </title>
-    <shortdesc>This section describes Finshape possibilities rather then products Finshape offers to
-        its clients. The information about DBOS components, DBOS infrastructure elements,
-        Connectors, Applications and Tools merely for internal Finshape's employees and partners,
-        described from the technical point of view.</shortdesc>
+    <shortdesc>Finshape main product is a custom Digital banking solution. Custom in this case means
+        specific configuration of provided building blocks (functional possibilities) and from the
+        scratch developing front end applications and some add-ons for provided service components.
+        Building blocks are not products itself  but DBOS infrastructure elements, DBOS components,
+        connectors (API) and applications the product may be assemble from.</shortdesc>
     <body>
-        <p></p>
+        <p/>
     </body>
 </topic>

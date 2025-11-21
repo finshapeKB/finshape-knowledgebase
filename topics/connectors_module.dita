@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="connectors_module">
-    <title>Connectors </title>
+    <title>Connectors (API)</title>
     <shortdesc>Connectors are elements for connecting composite application with other third party
         applications and  internal composite application components  between each other.</shortdesc>
     <body>
