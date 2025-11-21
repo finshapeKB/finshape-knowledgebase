@@ -11,19 +11,22 @@
             details on building blocks, go to: <xref href="db_modules.dita"/>. </p>
         <p>We offer to our clients three standalone products (solutions), some add-ons to the Core
             Digital Banking solution and services.<note id="note_fsh_g54_jhc">Add-ons are not
-                standalone Finshape products that may be delivered to client on Project
+                standalone Finshape products that may be delivered to client on a Project
                 implementation level, so they may be offered to a client in combination with Core
                 Digital Banking solution only.</note></p>
         <p>
             <dl id="dl_dht_4mb_jhc">
                 <dlentry>
-                    <dt>Digital Identity</dt>
-                    <dd>Digital Identity is a product (solution) that ….….….….….….…...This service
-                        is delivered through the DBOS components Digital Identity (GAAS) and provide
-                        Login applications for bank clients and bank employees. </dd>
+                    <dt><xref href="digital_identity_0.dita"/></dt>
+                    <dd>Digital Identity (GAAS) is a product that provides centralized
+                        authentication, session management, and OpenID Connect–based security for
+                        all connected banking systems. It ensures secure user login, unified session
+                        handling, and consistent identity governance across channels. GAAS also
+                        supports certification flows and event handling, enabling reliable identity
+                        services for digital banking ecosystems. </dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Authentication and Authorization solution </dt>
+                    <dt><xref href="authentication_and_authorization_solution.dita"/></dt>
                     <dd>The authentication and authorization is a product (solution) that provides a
                         comprehensive, secure, and scalable service: identity, access, and
                         operational governance across the entire digital banking system. This
@@ -32,20 +35,20 @@
                         clients and bank employees. </dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Core Digital Banking solution </dt>
-                    <dd>The Start Digital Banking solution provides the essential capabilities
+                    <dt><xref href="start_digital_banking_solution.dita"/></dt>
+                    <dd>The Core Digital Banking solution provides the essential capabilities
                         required to deliver core digital banking services, including secure customer
-                        operations, seamless integration with existing bank systems, and support for
+                        operations, integration with existing bank systems, and support for
                         additional banking functionalities. These functionalities include storing
                         and providing data, executing transactions, and performing product-related
                         actions, all supported through a unified integration layer. The product
                         includes the Authentication and Authorization solution along with other key
                         components: Instant Data (GDS), Payments and Instructions (TPM), Integration
-                        Hub (IHUB), Service Proxy (SPX), Admin Console (WAC), Login and Workspace
-                        GUI applications for bank clients and bank employees. </dd>
+                        Hub (IHUB), Service Proxy (SPX), Admin Console (WAC), Login application and
+                        Workspace GUI applications for bank clients and bank employees. </dd>
                 </dlentry>
                 <dlentry>
-                    <dt>PSD2 Support Service</dt>
+                    <dt><xref href="psd2_support_service.dita"/></dt>
                     <dd>PSD2 Support Service is an optional add-on to the Core Digital Banking
                         solution that delivers the mandatory functionality required for PSD2
                         compliance within the EU. It enables secure access for licensed third-party
@@ -56,20 +59,22 @@
                         maintaining third-party provider information.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Desktop Internet Banking application </dt>
+                    <dt><xref href="desktop_internet_banking_application.dita"/>
+                    </dt>
                     <dd>Desktop Internet banking application  is an optional add-on to the Core
                         Digital Banking solution. It's a web application implementing the internet
                         banking GUI where a bank employee operates the solution on behalf of a
                         selected user.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt> Mobile Internet Banking application</dt>
+                    <dt>
+                        <xref href="ios_and_android_smartphone_banking.dita"/></dt>
                     <dd>Mobile Internet Banking application is an optional add-on to the Core
                         Digital Banking solution. Mobile applications for iOS (iPhone) and Android
                         smartphones implement a GUI for smartphone banking. </dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Four Eyes</dt>
+                    <dt><xref href="four_eyes.dita"/></dt>
                     <dd>The Four Eyes component is an optional add-on to the Core Digital Banking
                         solution designed for corporate banking clients who require stronger
                         internal control. It ensures that sensitive administrative actions are only
@@ -77,33 +82,33 @@
                         providing an extra layer of security and governance.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Notification Centre (GNC)</dt>
+                    <dt><xref href="notification_centre_gnc.dita"/></dt>
                     <dd>GNC is an optional add-on to the Core Digital Banking solution that manages
                         and generates notifications for selected events, such as balance changes or
                         specific account movements.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Distribution (GDC)</dt>
+                    <dt><xref href="distribution_gdc.dita"/></dt>
                     <dd>GDC is an optional add-on to the Core Digital Banking solution that handles
                         the delivery of notifications to clients, ensuring that alerts and messages
                         generated by the bank’s systems are reliably sent through the configured
                         communication channels.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Exchange rates (XCR)</dt>
+                    <dt><xref href="exchange_rates_xcr_0.dita"/></dt>
                     <dd>XCR is an optional add-on to the Core Digital Banking solution that provides
                         exchange rate information for foreign currency operations and supports
                         currency-dependent business rules, such as currency limits or
                         thresholds.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Experience builder (EXB)</dt>
+                    <dt><xref href="experience_builder_exb.dita"/></dt>
                     <dd>EXB is an optional add-on to the Core Digital Banking solution that stores
                         user-specific data for web or mobile applications, such as personalized
                         dashboard settings or other custom user preferences.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Document Generation Service</dt>
+                    <dt><xref href="document_generation_service.dita"/></dt>
                     <dd>The Document Generation Service is an optional add-on to the Core Digital
                         Banking solution that enables the automated creation of various banking
                         documents, such as contracts, statements, and confirmations. It ensures that
@@ -118,12 +123,12 @@
         </p>
         <dl id="dl_zpx_5wb_jhc">
             <dlentry>
-                <dt>Client Support </dt>
+                <dt><xref href="product_support.dita"/></dt>
                 <dd>Product support is a service that consists of: onboarding for banking employees
                     etc. </dd>
             </dlentry>
             <dlentry>
-                <dt>Maintenance service</dt>
+                <dt><xref href="maintenance_service.dita"/></dt>
                 <dd>Maintenance is a service that consists of services related to products' updates,
                     health checkups etc. </dd>
             </dlentry>

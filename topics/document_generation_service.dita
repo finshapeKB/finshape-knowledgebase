@@ -2,13 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="document_generation_service">
     <title>Document Generation Service</title>
-    <shortdesc>The Document Generation Service is an optional add-on that enables the automated
-        creation of various banking documents, such as contracts, statements, and confirmations. It
-        ensures that documents are produced accurately, consistently, and in a fully digital form,
-        supporting both customer-facing and internal processes. The service consists of two
-        components: Print Server (GPS), which handles the actual document generation, and SIDER, a
-        technical extension that allows large or complex documents to finish processing in the
-        background even after the user logs out. </shortdesc>
+    <shortdesc>The Document Generation Service is an optional add-on to the Core Digital Banking
+        solution that enables the automated creation of various banking documents, such as
+        contracts, statements, and confirmations. It ensures that documents are produced accurately,
+        consistently, and in a fully digital form, supporting both customer-facing and internal
+        processes. The service consists of two components: Print Server (GPS), which handles the
+        actual document generation, and SIDER, a technical extension that allows large or complex
+        documents to finish processing in the background even after the user logs out. </shortdesc>
     <body>
         <p></p>
     </body>

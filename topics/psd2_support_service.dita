@@ -2,12 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="psd2_support_service">
     <title>PSD2 Support Service</title>
-    <shortdesc>PSD2 Support Service is an optional add-on that delivers the mandatory functionality
-        required for PSD2 compliance within the EU. It enables secure access for licensed
-        third-party providers, manages customer consents, and ensures proper registration and
-        handling of third-party entities. The service consists of three core components: OpenBank
-        for exposing PSD2-compliant APIs, ConsentReg for managing and storing customer consent, and
-        TpReg for registering and maintaining third-party provider information.</shortdesc>
+    <shortdesc>PSD2 Support Service is an optional add-on to the Core Digital Banking solution that
+        delivers the mandatory functionality required for PSD2 compliance within the EU. It enables
+        secure access for licensed third-party providers, manages customer consents, and ensures
+        proper registration and handling of third-party entities. The service consists of three core
+        components: OpenBank for exposing PSD2-compliant APIs, ConsentReg for managing and storing
+        customer consent, and TpReg for registering and maintaining third-party provider
+        information.</shortdesc>
     <body>
         <p></p>
     </body>

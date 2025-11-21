@@ -2,9 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="exchange_rates_xcr_0">
     <title>Exchange rates (XCR)</title>
-    <shortdesc>XCR is an optional add-on that provides exchange rate information for foreign
-        currency operations and supports currency-dependent business rules, such as currency limits
-        or thresholds.</shortdesc>
+    <shortdesc>XCR is an optional add-on to the Core Digital Banking solution that provides exchange
+        rate information for foreign currency operations and supports currency-dependent business
+        rules, such as currency limits or thresholds.</shortdesc>
     <body>
         <p></p>
     </body>

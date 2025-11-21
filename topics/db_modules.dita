@@ -2,11 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="db_modules">
     <title>Digital banking building blocks </title>
-    <shortdesc>Finshape main product is a custom Digital banking solution. Custom in this case means
-        specific configuration of provided building blocks (functional possibilities) and from the
-        scratch developing front end applications and some add-ons for provided service components.
-        Building blocks are not products itself  but DBOS infrastructure elements, DBOS components,
-        connectors (API) and applications the product may be assemble from.</shortdesc>
+    <shortdesc>Finshape’s main product is a custom Digital Banking solution. “Custom” in this
+        context refers to a specific configuration of the provided building blocks (functional
+        capabilities) combined with developing front-end applications and selected add-ons from
+        scratch. These building blocks are not standalone products but rather DBOS infrastructure
+        elements, DBOS components, connectors (APIs), tools, and applications from which the final
+        product can be assembled.</shortdesc>
     <body>
         <p/>
     </body>

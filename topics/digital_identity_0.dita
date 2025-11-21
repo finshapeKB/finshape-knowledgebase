@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="digital_identity_0">
+    <title>Digital Identity</title>
+    <shortdesc>Digital Identity (GAAS) is a product that provides centralized authentication,
+        session management, and OpenID Connect–based security for all connected banking systems. It
+        ensures secure user login, unified session handling, and consistent identity governance
+        across channels. GAAS also supports certification flows and event handling, enabling
+        reliable identity services for digital banking ecosystems. </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

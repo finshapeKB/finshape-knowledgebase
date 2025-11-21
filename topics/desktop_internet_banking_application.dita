@@ -2,12 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="desktop_internet_banking_application">
     <title>Desktop Internet Banking application</title>
-    <shortdesc> Internet banking application is a web application implementing the internet banking
-        GUI. It is a React-based web application, implementing complete GUI logic (rendering bank
-        data, processing user request flows, certification (signing), etc.), communicating with
-        server components only via data REST and/or GraphQL APIs. Internet Banking implements a GUI
-        for on-behalf access, where a bank employee operates the solution on behalf of a selected
-        user.</shortdesc>
+    <shortdesc>Desktop Internet banking application is an optional add-on to the Core Digital
+        Banking solution. It's a web application implementing the internet banking GUI where a bank
+        employee operates the solution on behalf of a selected user.</shortdesc>
     <body>
         <p></p>
     </body>

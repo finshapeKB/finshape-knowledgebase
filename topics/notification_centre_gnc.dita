@@ -2,6 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="notification_centre_gnc">
     <title>Notification Centre (GNC)</title>
-    <shortdesc>GNC is an optional add-on that manages and generates notifications for selected
-        events, such as balance changes or specific account movements.</shortdesc>
+    <shortdesc>GNC is an optional add-on to the Core Digital Banking solution that manages and
+        generates notifications for selected events, such as balance changes or specific account
+        movements.</shortdesc>
 </topic>

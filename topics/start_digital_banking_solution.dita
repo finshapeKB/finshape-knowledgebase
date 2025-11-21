@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="start_digital_banking_solution">
-    <title>Start Digital Banking solution</title>
-    <shortdesc>The Start Digital Banking solution provides the essential capabilities required to
-        deliver core digital banking services, including secure customer operations, seamless
-        integration with existing bank systems, and support for additional banking functionalities.
-        These functionalities include storing and providing data, executing transactions, and
-        performing product-related actions, all supported through a unified integration layer. The
-        product includes the Authentication and Authorization solution along with other key
-        components: Instant Data (GDS), Payments and Instructions (TPM), Integration Hub (IHUB), and
-        Service Proxy (SPX).</shortdesc>
+    <title>Core Digital Banking solution</title>
+    <shortdesc>The Core Digital Banking solution provides the essential capabilities required to
+        deliver core digital banking services, including secure customer operations, integration
+        with existing bank systems, and support for additional banking functionalities. These
+        functionalities include storing and providing data, executing transactions, and performing
+        product-related actions, all supported through a unified integration layer. The product
+        includes the Authentication and Authorization solution along with other key components:
+        Instant Data (GDS), Payments and Instructions (TPM), Integration Hub (IHUB), Service Proxy
+        (SPX), Admin Console (WAC), Login and Workspace GUI applications for bank clients and bank
+        employees. </shortdesc>
     <body>
         <p></p>
     </body>
