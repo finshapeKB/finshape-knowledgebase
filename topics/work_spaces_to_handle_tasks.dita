@@ -3,9 +3,7 @@
 <topic id="work_spaces_to_handle_tasks">
     <title>Workspaces </title>
     <shortdesc>Workspace is a desktop or mobile page that is opened as bank's employees or clients
-        log in to their banking application. Workspaces are usually designed for  a specific Role to
-        provide handling Role specific Tasks and their steps. </shortdesc>
-    <body>
-        <p></p>
-    </body>
+        log in to their banking application. Workspaces may be designed for a specific Role to
+        provide handling Role specific Tasks. Workspace usually comprise Introduction or Overview
+        GUI page.</shortdesc>
 </topic>
