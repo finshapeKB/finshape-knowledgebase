@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="tasks">
     <title>Tasks</title>
-    <shortdesc>Task is a specific result that may be reached by completing some steps or actions. </shortdesc>
+    <shortdesc>Task is a set of steps that have to be done to reach a specific result. </shortdesc>
     <body>
         <p>Each task is assigned to a specific Role and may be assigned to more than one Role. Each
             Role handles its tasks using specific workspace. </p>

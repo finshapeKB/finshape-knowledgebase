@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="functions_or_steps">
-    <title>Task Steps: TS</title>
-    <shortdesc>We consider for function (step) any combination of command, operators and data set
-        that aim to get one specific result. Combination of functions (steps) form business
-        task.</shortdesc>
+    <title>Task Steps</title>
+    <shortdesc>Task step is one simple action that in combination with other actions leads to the
+        task completion. </shortdesc>
     <body>
         <p>Step is more appropriate naming as far as it's neutral and understandable for both common
             business and technical personas.</p>

@@ -2,10 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="salesperson">
     <title>Pre-sales</title>
-    <shortdesc>Salesperson is the Role that responsible for selling enterprise products to a
-        qualified potential clients.</shortdesc>
+    <shortdesc>Pre-sales is the Role that responsible for... </shortdesc>
     <body>
-        <p>Salesperson handles following Product tasks:<table frame="-dita-use-conref-target"
+        <p>Pre-sales handles following Product tasks:<table frame="-dita-use-conref-target"
                 id="table_z1x_tt5_ghc">
                 <title>Pre-Sales tasks list</title>
                 <tgroup cols="3" align="-dita-use-conref-target">

@@ -2,16 +2,27 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="digital_banking_main_solution">
     <title>Products</title>
-    <shortdesc>This section describes all products that represent Finshape's value proposition.
-        Value Proposition a description of the goods or services that a company offers and why they
-        are desirable to customers or clients. </shortdesc>
+    <shortdesc>This section is divided into two subsections and outlines all products that make up
+        Finshape’s value proposition. A value proposition describes the goods and services a company
+        offers and explains why they are valuable to customers. Alongside the product descriptions,
+        the section also includes a technical subsection that details the elements and components
+        underlying Finshape’s products.</shortdesc>
     <body>
-        <p>In addition to products description, this section comprises technical-oriented subsection
-                <xref href="db_modules.dita"/> that describes elements and components from which
-            Finshape’s products are built.  </p>
-        <p>We offer to our clients three standalone products (solutions), some add-ons to the Core
-            Digital Banking solution, and services. Standalone means that product may be delivered
-            to a client on the Project level and doesn't depend on other DBOS components.</p>
+        <p>We offer to our clients three standalone products (solutions), some add-ons components
+            that provide advanced features in addition to the Core Digital Banking solution, and
+            services. Standalone means that product may be delivered to a client on the Project
+            level and doesn't depend on other DBOS components.</p>
+        <p>To become a standalone product, component must have external service and reference API
+            connectors and be independent from other components, which means being capable of
+            providing services alone.<fig id="fig_dfn_yfq_jhc">
+                <p>
+                    <fig id="fig_fsd_1gq_jhc">
+                        <title>General connectors</title>
+                        <image placement="break" href="../images/general_connectors_diagram.png"
+                            id="image_gsd_1gq_jhc"/>
+                    </fig>
+                </p>
+            </fig></p>
         <p>
             <note id="note_fsh_g54_jhc">Add-ons are not standalone products that may be delivered to
                 client on a Project implementation level, so they may be offered to a client in

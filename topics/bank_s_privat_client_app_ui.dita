@@ -6,4 +6,11 @@
         designed for Private Client role. The workspace is opened as Private Clients login to the
         internet banking application. Private Clients manage their banking operations within
         workspace.</shortdesc>
+    <body>
+        <p>This section contains examples of existing Internet banking application - ČSOB. To make
+            examples relevant, screenshots and videos should be taken from Starter Kit and/or
+            Onboarding application (see Finshape's website). <fig id="fig_lhv_1lq_jhc">
+                <image href="../images/demo.jpg" id="image_f4k_clq_jhc"/>
+            </fig></p>
+    </body>
 </topic>

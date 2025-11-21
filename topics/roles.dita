@@ -2,6 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="roles">
     <title>Roles</title>
+    <shortdesc>Enterprise role is a defined set of tasks, responsibilities, and activities that a
+        person is expected to handle within the organization. It specifies what the individual does,
+        how they contribute to business processes, and the scope of their responsibilities across
+        the enterprise.</shortdesc>
     <body>
         <p/>
     </body>

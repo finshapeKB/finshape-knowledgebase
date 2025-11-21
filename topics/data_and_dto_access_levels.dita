@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="data_and_dto_access_levels">
-    <title>Data Access Levels</title>
+    <title>Operation access rights </title>
     <shortdesc>Data and DTO may have different security access level. Data access level may be
         assigned to data or DTO types to define different methods to manage and secure them. It
         depends on enterprise policy.</shortdesc>

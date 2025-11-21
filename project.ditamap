@@ -452,8 +452,14 @@
         </topicref>
     </topicref>
     <topicref href="topics/work_spaces_to_handle_tasks.dita">
-        <topicref href="topics/bank_s_employee_app_ui.dita"/>
-        <topicref href="topics/bank_s_corporate_client_app_ui.dita"/>
+        <topicref href="topics/bank_s_employee_app_ui.dita">
+            <topicref href="topics/admin_console_wac_0.dita"/>
+            <topicref href="topics/desktop_bank_employee_workspaces.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_corporate_client_app_ui.dita">
+            <topicref href="topics/desktop_workspace_for_business_client.dita"/>
+            <topicref href="topics/mobile_workspace_for_business_client.dita"/>
+        </topicref>
         <topicref href="topics/bank_s_privat_client_app_ui.dita">
             <topicref href="topics/desktop_private_client_workspace.dita">
                 <topicref href="topics/privat_clients_ui_workspace.dita">
@@ -628,10 +634,21 @@
         <topicref href="topics/bank_s_privat_client.dita"/>
     </topicref>
     <topicref href="topics/rights_to_do_tasks.dita">
-        <topicref href="topics/right_1.dita"/>
-        <topicref href="topics/right_2.dita"/>
-        <topicref href="topics/right_3.dita"/>
-        <topicref href="topics/right_4.dita"/>
+        <topicref href="topics/operation_rigths.dita">
+            <topicref href="topics/right_1.dita"/>
+            <topicref href="topics/right_2.dita"/>
+            <topicref href="topics/right_3.dita"/>
+        </topicref>
+        <topicref href="topics/data_and_dto_access_levels.dita">
+            <topicref href="topics/low_access_level.dita"/>
+            <topicref href="topics/middle_access_level.dita"/>
+            <topicref href="topics/high_access_level.dita"/>
+            <topicref href="topics/create_right.dita"/>
+        </topicref>
+        <topicref href="topics/channels_rights.dita">
+            <topicref href="topics/internet_banking_right.dita"/>
+            <topicref href="topics/mobile_banking_right.dita"/>
+        </topicref>
     </topicref>
     <topicref href="topics/tasks.dita">
         <topicref href="topics/untitled10.dita"/>
@@ -657,8 +674,14 @@
             <topicref href="topics/product_development_iprocess_s_tasks.dita"/>
         </topicref>
         <topicref href="topics/functional_tasks.dita">
-            <topicref href="topics/admin_tasks.dita"/>
-            <topicref href="topics/security_tasks.dita"/>
+            <topicref href="topics/admin_tasks.dita">
+                <topicref href="topics/dashboard.dita"/>
+                <topicref href="topics/client_administration.dita"/>
+            </topicref>
+            <topicref href="topics/security_tasks.dita">
+                <topicref href="topics/authentication.dita"/>
+                <topicref href="topics/authorization.dita"/>
+            </topicref>
             <topicref href="topics/business_tasks.dita">
                 <topicref href="topics/untitled19.dita">
                     <topicref href="topics/functional_tasks_list.dita"/>
@@ -677,8 +700,49 @@
                     <topicref href="topics/downloading_account_history.dita"/>
                     <topicref href="topics/contacting_help_desk.dita"/>
                 </topicref>
+                <topicref href="topics/accounts.dita">
+                    <topicref href="topics/accounts_common.dita">
+                        <topicref href="topics/view_account_list.dita"/>
+                        <topicref href="topics/view_payments_summary.dita"/>
+                        <topicref href="topics/rib_account_details.dita"/>
+                        <topicref href="topics/view_account_balance_chart.dita"/>
+                        <topicref href="topics/view_account_holds.dita"/>
+                        <topicref href="topics/view_dispo_rights_for_current_user.dita"/>
+                        <topicref href="topics/export_account_list_in_xls.dita"/>
+                        <topicref href="topics/view_dispo_rights_for_all_disponents_for_client.dita"/>
+                        <topicref href="topics/view_list_of_account_requests.dita"/>
+                    </topicref>
+                    <topicref href="topics/accounts_management.dita">
+                        <topicref href="topics/edit_account_friendly_name.dita"/>
+                        <topicref href="topics/view_account_sweeps.dita"/>
+                        <topicref href="topics/create_account_sweep_instruction.dita"/>
+                        <topicref href="topics/edit_account_sweep.dita"/>
+                        <topicref href="topics/cancel_account_sweep.dita"/>
+                        <topicref
+                            href="topics/create_request_for_withdrawal_on_the_branch_high_amount.dita"/>
+                        <topicref href="topics/change_transaction_limits_for_account.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/atm_payments.dita"/>
+                <topicref href="topics/bill_payments.dita"/>
+                <topicref href="topics/branch_payments.dita"/>
+                <topicref href="topics/consumer_financing.dita"/>
+                <topicref href="topics/endowment.dita"/>
+                <topicref href="topics/ewallet.dita"/>
+                <topicref href="topics/general.dita"/>
+                <topicref href="topics/housing_financing.dita"/>
+                <topicref href="topics/insurance.dita"/>
+                <topicref href="topics/investments.dita"/>
+                <topicref href="topics/local_payments.dita"/>
+                <topicref href="topics/payment_cards.dita"/>
+                <topicref href="topics/payments_common.dita"/>
+                <topicref href="topics/swift_payments.dita"/>
+                <topicref href="topics/transfer_between_own_accounts.dita"/>
             </topicref>
-            <topicref href="topics/comunication_tasks.dita"/>
+            <topicref href="topics/comunication_tasks.dita">
+                <topicref href="topics/notifications.dita"/>
+                <topicref href="topics/communication.dita"/>
+            </topicref>
             <topicref href="topics/report_and_analysys_tasks.dita"/>
             <topicref href="topics/management_tasks.dita"/>
             <topicref href="topics/dbos_maintenance_tasks.dita"/>
@@ -744,11 +808,6 @@
             </topicref>
             <topicref href="topics/product_development_process_s_task_s_steps_pts06.dita"/>
         </topicref>
-    </topicref>
-    <topicref href="topics/data_and_dto_access_levels.dita">
-        <topicref href="topics/low_access_level.dita"/>
-        <topicref href="topics/middle_access_level.dita"/>
-        <topicref href="topics/high_access_level.dita"/>
     </topicref>
     <topicref href="topics/dto_sources.dita">
         <topicref href="topics/dto_types.dita"/>

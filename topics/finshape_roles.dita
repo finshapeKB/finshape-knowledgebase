@@ -2,7 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="finshape_roles">
     <title>Finshape Roles</title>
+    <shortdesc>This section contains information about all internal roles, that work with the
+        product tasks. </shortdesc>
     <body>
-        <p></p>
+        <p>Product Tasks domain comprises all tasks which manufacturer handle to design, produce,
+            sale, deliver and putting its products to use. Product domain tasks are divided into
+            types. Product task types are associated with enterprise processes. Each task type may
+            have subtypes. </p>
     </body>
 </topic>
