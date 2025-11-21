@@ -2,50 +2,67 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="initial_selling_proposition">
     <title>Initial selling proposition: PT04.01.01</title>
-    <shortdesc>Initial selling proposition is the starting point of Project Implementation process.
-        Salesperson create document that has the same title - Initial selling proposition and is
-        created based on enterprise products that are described in Knowledge Base portal, Functional
-        Tasks section.</shortdesc>
+    <shortdesc>Initial selling proposition is the information that salesperson gives to its
+        potential client.</shortdesc>
     <body>
-        <p>Step by step guidance to create Initial selling proposition document.<ol
-                id="ol_lpn_cv5_ghc">
+        <p>There is huge misunderstanding between Salesperson and Project team. The problem is that
+            our products are mainly custom and complicated. To shorten the misunderstanding gaps,
+            Business Analyst (consulting) Role exist. </p>
+        <p>It's crucial to lead potential client to the purchasing the products smoothly but
+            Business Analyst starts communicate with salesperson and client lately, when some wrong
+            promises may be given to the potential client. Wrong promise leads to lost client.</p>
+        <p>If given to potential client information doesn't align to standard (despite of custom
+            approach) products and we want to have this client, Project team faced to wasting time
+            and money on creating custom components add-ons on the Project level. While there are
+            standard solutions that aligns with clients required tasks, though they handles those
+            tasks with a bit different way client suppose to.</p>
+        <p>Initial selling proposition is a starting point for future Project Implementation
+            process. Salesperson gives to potential client some information about products. But
+            products are not the same as possibilities. It's important to understand the difference
+            to offer products for a competitive price and deliver it for reasonable time schedule. </p>
+        <p>So, we must provide Salesperson with the correct information so that the Initial selling
+            proposition is created based on enterprise products that are described in the Knowledge
+            Base portal.</p>
+        <p>To get information you need to handle the task you may go to <xref
+                href="finshape_products_clients_pay_for.dita"/> section and review product tasks
+            (feature) list. You may use portal full text searching possibilities or AI agent. </p>
+        <p>Instead, you may go through following Step by step guidance to find information about
+            banking specific task.</p>
+        <p>
+            <ol id="ol_lpn_cv5_ghc">
                 <li>
-                    <p>Find out with your client what Role handles the task and what Category the
-                        task is.</p>
+                    <p>Find out with your client what banking Role handles the task and what
+                        Category the task is.</p>
                 </li>
                 <li>
-                    <p>Go to Knowledge Base section Roles to review tasks that are assigned to this
-                            Role<note id="note_qj2_vyn_3hc">We recommend you to open the Role's task
-                            list in a new tab to comfortably switch between this guide and needed
+                    <p>Go to Knowledge Base section Roles <xref href="roles.dita"/> and select the
+                        Role client mentioned to review tasks that are assigned to this Role<note
+                            id="note_qj2_vyn_3hc">We recommend you to open the Role's task list in a
+                            new tab to comfortably switch between this guide and needed
                             sections</note></p>
                 </li>
                 <li>
-                    <p>Find within the task list the task title client is talking about</p>
+                    <p>Find within the task list the task (task title) client is talking about</p>
                 </li>
                 <li>
                     <p>Select task title within the list and main Task page will be opened </p>
                 </li>
                 <li>
-                    <p>Select Task handle UI page parameter to demonstrate how the front-end page
-                        may look like </p>
+                    <p>Select <parmname>Task handle UI page</parmname> parameter to review the UI
+                        page for the Task handling and its video demo</p>
                 </li>
                 <li>
-                    <p>Go back to Task's main page by using an arrow on the top left corner </p>
-                </li>
-                <li>
-                    <p>Select Task's Step-by-step guidance page (UX logic)</p>
-                </li>
-                <li>
-                    <p>Lead the client through the Task's UX logic </p>
+                    <p>Select Step-by-step guidance section to review how to handle the task</p>
                 </li>
                 <li>
                     <p>Use Task's PID to include it to the initial selling proposition <note
-                            id="note_wsz_gx5_ghc">If we have such tool (interoperability), the
-                            document line will be generated automatically.</note></p>
+                            id="note_wsz_gx5_ghc">If we have such tool, the Initial selling
+                            proposition document will be generated automatically.</note></p>
                 </li>
                 <li>
-                    <p>Go to the next Task.</p>
+                    <p>Go to the next client's need.</p>
                 </li>
-            </ol></p>
+            </ol>
+        </p>
     </body>
 </topic>

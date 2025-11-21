@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="components_selection">
-    <title>Components selection PT04.02.01</title>
+    <title>Components selection: PT04.02.01</title>
     <shortdesc>Components selection for specific use-cases implementation is a part of Solution
         blueprint creation process. We need this information to be mentioned within the chapter DBOS
         Platform Components. </shortdesc>

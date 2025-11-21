@@ -2,10 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="applications_module">
     <title>Applications </title>
-    <shortdesc>An application is a computer software package that performs a specific function
-        directly for an end user. An application can be self-contained or a group of programs. The
-        program is a set of operations that runs the application for the user.</shortdesc>
+    <shortdesc>Аппликации финшейпа это WAC для сотрудников банка и Starter kit для клиентов
+        банка.</shortdesc>
     <body>
+        <p>An application is a computer software package that performs a specific function directly
+            for an end user. An application can be self-contained or a group of programs. The
+            program is a set of operations that runs the application for the user.</p>
         <p>Application examples: Word processors, Database programs, Web browsers, Deployment tools,
             Image editors, Communication platforms. Applications use the computer's operating system
             (OS) and other supporting programs, typically system software, to function. An

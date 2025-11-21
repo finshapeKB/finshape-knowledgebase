@@ -2,9 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="db_modules">
     <title>Digital banking building blocks </title>
-    <shortdesc>This section describes Service components, Infrastructure elements, Connectors,
-        Applications and Tools merely for internal Finshape's employees and partners, from the
-        technical point of view</shortdesc>
+    <shortdesc>This section describes Finshape possibilities rather then products Finshape offers to
+        its clients. The information about DBOS components, DBOS infrastructure elements,
+        Connectors, Applications and Tools merely for internal Finshape's employees and partners,
+        described from the technical point of view.</shortdesc>
     <body>
         <p></p>
     </body>

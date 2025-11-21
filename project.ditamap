@@ -8,10 +8,15 @@
             <topicref href="topics/infrastructure_module.dita"/>
             <topicref href="topics/connectors_module.dita">
                 <topicref href="topics/connectors_list.dita"/>
-                <topicref href="topics/dbos_input_connectors.dita"/>
-                <topicref href="topics/dbos_internal_connectors.dita"/>
-                <topicref href="topics/dbos_component_connectors.dita"/>
-                <topicref href="topics/dbos_output_connectors.dita"/>
+                <topicref href="topics/dbos_component_s_service_connectors.dita"/>
+                <topicref href="topics/dbos_component_s_reference_connectors.dita"/>
+                <topicref href="topics/dbos_service_connectors.dita"/>
+                <topicref href="topics/dbos_reference_connectors.dita">
+                    <topicref href="topics/dbos_internal_connectors.dita"/>
+                    <topicref href="topics/dbos_component_connectors.dita"/>
+                    <topicref href="topics/dbos_input_connectors.dita"/>
+                    <topicref href="topics/dbos_output_connectors.dita"/>
+                </topicref>
             </topicref>
             <topicref href="topics/dbos_modul.dita">
                 <topicref href="topics/content_manager_cm.dita"/>

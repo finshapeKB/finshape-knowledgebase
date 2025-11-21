@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dbos_service_connectors">
+    <title>DBOS service connectors</title>
+    <shortdesc>DBOS service connector is the access mechanism that external clients must use to call
+        the service.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

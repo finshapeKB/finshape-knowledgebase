@@ -2,7 +2,94 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="connectors_module">
     <title>Connectors </title>
+    <shortdesc>Connectors are elements for connecting composite application with other third party
+        applications and  internal composite application components  between each other.</shortdesc>
     <body>
-        <p></p>
+        <p>
+            <dl id="dl_tvr_mhh_jhc">
+                <dlentry>
+                    <dt>Component (DBOS component)</dt>
+                    <dd>A component comprises an application program that implements the business
+                        logic and configuration information. A component offers a service to other
+                        components and in turn consumes functions offered by other services using
+                        service-oriented interfaces.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Composite application (DBOS)</dt>
+                    <dd>A composite application is created by combining one or more components that
+                        together implement the business logic of the new application.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>DBOS component service connector</dt>
+                    <dd>Component service connector  is the access mechanism that other internal
+                        components have to use to call the component.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>DBOS component reference connector</dt>
+                    <dd>Component reference connector is the access mechanism that component uses to
+                        call other components.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>DBOS service connector</dt>
+                    <dd>Composite service connector is the access mechanism that external clients
+                        must use to call the service.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>DBOS reference connector</dt>
+                    <dd>Composite reference connector is the access mechanism that is used to call
+                        another service.</dd>
+                </dlentry>
+            </dl>
+        </p>
+        <p>An application developer can assemble components together to create a solution for a
+            particular business requirement. A composite application can contain both new components
+            that are created specifically for the business application and existing components that
+            are reused from other applications. </p>
+        <p>Composites can contain components, services, references, property declarations, and the
+            wiring that describes the connections between these elements. Composites can also be
+            used in components with other composites, allowing for a hierarchical construction of
+            composite applications, where high-level services are implemented internally by sets of
+            lower-level services.</p>
+        <p>A simple type of component has one service and one reference. </p>
+        <p>A service is an addressable interface for the component that can contain one or more
+            operations. </p>
+        <p>A reference is a dependency on a service that is provided by another component. The
+            bindings for the component can be defined in both the service and the reference:<ul
+                id="ul_fsz_t2h_jhc">
+                <li>
+                    <p>Component services use bindings to describe the access mechanism that other
+                        internal components have to use to call the component.</p>
+                </li>
+                <li>
+                    <p>Component references use bindings to describe the access mechanism that is
+                        used to call other components.</p>
+                </li>
+            </ul></p>
+        <p>Component services and references are internal and are used only for
+            component-to-component communication. </p>
+        <p>To create an external interface, the component must be deployed inside a composite. A
+            very simple composite has one external service and one external reference:<ul
+                id="ul_yfd_bfh_jhc">
+                <li>
+                    <p>Composite services use bindings to describe the access mechanism that
+                        external clients must use to call the service.</p>
+                </li>
+                <li>
+                    <p>Composite references use bindings to describe the access mechanism that is
+                        used to call another service.</p>
+                </li>
+            </ul></p>
+        <p>Composite services and references are not part of the component itself, but are a
+            boundary between the component and other external clients or services.</p>
+        <p>The following diagram shows a composite that contains a simple component with both
+            internal and external services and references.<fig id="fig_th5_kfh_jhc">
+                <p>
+                    <fig id="fig_abv_xfh_jhc">
+                        <title>General connectors diagram</title>
+                        <image placement="break" href="../images/general_connectors_diagram.png"
+                            align="left" id="image_bbv_xfh_jhc"/>
+                    </fig>
+                </p>
+            </fig></p>
     </body>
 </topic>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="infrastructure_module">
-    <title>Infrastructure elements </title>
+    <title>DBOS infrastructure elements </title>
+    <shortdesc>…. это елементы инфраструктуры, которые необходимы для запуска фронтенда и бэкэнда у
+        клиента.</shortdesc>
     <body>
         <p></p>
     </body>

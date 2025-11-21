@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dbos_component_s_reference_connectors">
+    <title>DBOS component's reference connectors</title>
+    <shortdesc>DBOS component's reference connector is the access mechanism that component uses to
+        call other components.</shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>
