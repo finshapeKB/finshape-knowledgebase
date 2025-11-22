@@ -11,9 +11,12 @@
         <p>We offer to our clients three standalone products (solutions), some add-ons components
             that provide advanced features in addition to the Core Digital Banking solution, and
             services. Standalone means that product may be delivered to a client on the Project
-            level and doesn't depend on other DBOS components.</p>
-        <p>To become a standalone product, component must have external service and reference API
-            connectors and be independent from other components, which means being capable of
+            level and doesn't depend on other DBOS components.<note id="note_jx5_zqv_jhc">Add-ons
+                are not standalone products that are capable to provide services independently from
+                other components, so they may be offered to a client in combination with Core
+                Digital Banking solution only. </note></p>
+        <p>To become a standalone product, add-on must have external service and reference API
+            connectors and be independent from other DBOS components, which means being capable of
             providing services alone.<dl id="dl_utk_2bs_jhc">
                 <dlentry>
                     <dt>DBOS component</dt>
@@ -37,11 +40,6 @@
                 </p>
             </fig></p>
         <p>
-            <note id="note_fsh_g54_jhc">Add-ons are not standalone products that may be delivered to
-                client on a Project implementation level, so they may be offered to a client in
-                combination with Core Digital Banking solution only.</note>
-        </p>
-        <p>
             <note id="note_iqc_t5p_jhc">Short Product description consists of three parts: <ol
                     id="ol_bz1_v5p_jhc">
                     <li>Is it a standalone product, service, or add-on? </li>
@@ -56,31 +54,31 @@
             <dl id="dl_dht_4mb_jhc">
                 <dlentry>
                     <dt><xref href="digital_identity_0.dita"/></dt>
-                    <dd>Digital Identity is a product that provides centralized authentication,
-                        session management, and OpenID Connect–based security for all connected
-                        banking systems. It ensures secure user login, unified session handling, and
-                        consistent identity governance across channels. This product is delivered
-                        through the DBOS component called Digital Identity (GAAS).</dd>
+                    <dd>Digital Identity is a standalone product that provides centralized
+                        authentication, session management, and OpenID Connect–based security for
+                        all connected banking systems. It ensures secure user login, unified session
+                        handling, and consistent identity governance across channels. This product
+                        is delivered through the DBOS component called Digital Identity (GAAS).</dd>
                 </dlentry>
                 <dlentry>
                     <dt><xref href="authentication_and_authorization_solution.dita"/></dt>
-                    <dd>The authentication and authorization is a product (solution) that provides a
-                        comprehensive, secure, and scalable service: identity, access, and
-                        operational governance across the entire digital banking system. This
+                    <dd>The authentication and authorization is a standalone product (solution) that
+                        provides a comprehensive, secure, and scalable service: identity, access,
+                        and operational governance across the entire digital banking system. This
                         product is delivered through the DBOS components Digital Identity (GAAS) and
                         GEN (Entitlements), Admin Console (WAC) and Login applications for bank
                         clients and bank employees. </dd>
                 </dlentry>
                 <dlentry>
                     <dt><xref href="start_digital_banking_solution.dita"/></dt>
-                    <dd>The Core Digital Banking solution provides the basic digital banking
-                        services, including integration with existing bank systems, storing and
-                        providing data, secure customer operations, executing transactions, and
-                        support for additional banking functionalities. The product includes the
-                        Authentication and Authorization solution along with other key components:
-                        Instant Data (GDS), Payments and Instructions (TPM), Integration Hub (IHUB),
-                        Service Proxy (SPX), Admin Console (WAC), Login and Workspace GUI
-                        applications for bank clients and bank employees. </dd>
+                    <dd>The Core Digital Banking is a standalone product (solution) that provides
+                        the basic digital banking services, including integration with existing bank
+                        systems, storing and providing data, secure customer operations, executing
+                        transactions, and support for additional banking functionalities. The
+                        product includes the Authentication and Authorization solution along with
+                        other key components: Instant Data (GDS), Payments and Instructions (TPM),
+                        Integration Hub (IHUB), Service Proxy (SPX), Admin Console (WAC), Login and
+                        Workspace GUI applications for bank clients and bank employees. </dd>
                 </dlentry>
                 <dlentry>
                     <dt><xref href="psd2_support_service.dita"/></dt>
