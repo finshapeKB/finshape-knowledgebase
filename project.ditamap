@@ -722,6 +722,66 @@
                             href="topics/create_request_for_withdrawal_on_the_branch_high_amount.dita"/>
                         <topicref href="topics/change_transaction_limits_for_account.dita"/>
                     </topicref>
+                    <topicref href="topics/current_accounts.dita">
+                        <topicref href="topics/create_close_current_account_request.dita"/>
+                        <topicref href="topics/view_account_details_and_balances.dita"/>
+                        <topicref
+                            href="topics/create_open_new_currency_for_multicurrency_account_request.dita"/>
+                        <topicref
+                            href="topics/create_close_currency_for_multicurrency_account_request.dita"/>
+                        <topicref href="topics/create_open_current_account_request.dita"/>
+                        <topicref
+                            href="topics/create_open_current_account_request_from_another_bank.dita"/>
+                        <topicref href="topics/change_account_parameters_for_current_account.dita"/>
+                        <topicref
+                            href="topics/create_open_current_account_request_with_promocode.dita"/>
+                        <topicref
+                            href="topics/view_account_details_and_balances_for_protected_account.dita"/>
+                        <topicref
+                            href="topics/view_account_details_and_balances_for_execution_state.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/personalization.dita">
+                        <topicref href="topics/select_preferred_accounts.dita"/>
+                    </topicref>
+                    <topicref href="topics/saving_accounts.dita">
+                        <topicref href="topics/create_open_saving_accounts_request.dita"/>
+                        <topicref
+                            href="topics/create_close_saving_account_request_money_withdrawal_request.dita"/>
+                        <topicref href="topics/view_account_details_and_balances_0.dita"/>
+                        <topicref href="topics/change_account_parameters_for_savings_account.dita"/>
+                        <topicref
+                            href="topics/create_open_saving_account_request_with_promocode.dita"/>
+                    </topicref>
+                    <topicref href="topics/statements.dita">
+                        <topicref href="topics/edit_account_statement_setting_for_retail.dita"/>
+                        <topicref href="topics/view_current_account_statement_list.dita"/>
+                        <topicref href="topics/download_more_account_statements_at_once.dita"/>
+                        <topicref href="topics/request_paper_statement.dita"/>
+                        <topicref href="topics/download_savings_account_statement.dita"/>
+                        <topicref href="topics/view_savings_account_statement_list.dita"/>
+                        <topicref href="topics/download_account_statement.dita"/>
+                        <topicref href="topics/view_statement_setting_list.dita"/>
+                        <topicref href="topics/view_statement_setting_detail.dita"/>
+                        <topicref href="topics/create_account_statement_setting_for_corporate.dita"/>
+                        <topicref href="topics/cancel_account_statement_setting_for_corporate.dita"/>
+                        <topicref
+                            href="topics/create_account_statement_request_based_on_selected_dates.dita"/>
+                        <topicref href="topics/view_account_statement_setting_requests.dita"/>
+                    </topicref>
+                    <topicref href="topics/transactions_0.dita">
+                        <topicref href="topics/view_account_history.dita"/>
+                        <topicref href="topics/view_account_movement_detail.dita"/>
+                        <topicref href="topics/view_unrealized_movements.dita"/>
+                        <topicref href="topics/export_movements_to_csv_pdf_abo.dita"/>
+                        <topicref href="topics/simple_filtering_of_account_movements.dita"/>
+                        <topicref href="topics/advanced_filtering_of_account_movements.dita"/>
+                        <topicref href="topics/fulltext_search_of_account_movements.dita"/>
+                        <topicref href="topics/create_movement_confirmation_to_pdf.dita"/>
+                        <topicref
+                            href="topics/transactions_enrichment_integration_and_showing_data.dita"
+                        />
+                    </topicref>
                 </topicref>
                 <topicref href="topics/atm_payments.dita"/>
                 <topicref href="topics/bill_payments.dita"/>
