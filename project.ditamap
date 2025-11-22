@@ -676,12 +676,38 @@
         </topicref>
         <topicref href="topics/functional_tasks.dita">
             <topicref href="topics/admin_tasks.dita">
-                <topicref href="topics/dashboard.dita"/>
+                <topicref href="topics/dashboard.dita">
+                    <topicref href="topics/accounts_common_0.dita">
+                        <topicref
+                            href="topics/view_account_list_with_balances_chart_on_the_dashboard.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/dashboard_common.dita">
+                        <topicref href="topics/transactions_overview_on_dashboard.dita"/>
+                        <topicref href="topics/private_banking_contact_information_for_client.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/money_stories.dita">
+                        <topicref href="topics/transaction_categorisation_graph_visualisation.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/dashboard_for_mass_retail.dita">
+                        <topicref href="topics/view_wallets_overview_on_dashboard.dita"/>
+                    </topicref>
+                </topicref>
                 <topicref href="topics/client_administration.dita"/>
             </topicref>
             <topicref href="topics/security_tasks.dita">
-                <topicref href="topics/authentication.dita"/>
-                <topicref href="topics/authorization.dita"/>
+                <topicref href="topics/authentication.dita">
+                    <topicref href="topics/login_with_login_name_password.dita"/>
+                    <topicref href="topics/login_with_login_name_password_sms_otp.dita"/>
+                    <topicref href="topics/perform_auto_logout.dita"/>
+                    <topicref href="topics/change_password.dita"/>
+                    <topicref href="topics/initial_password_change.dita"/>
+                </topicref>
+                <topicref href="topics/authorization.dita">
+                    <topicref href="topics/authorize_request_with_sms_otp.dita"/>
+                </topicref>
             </topicref>
             <topicref href="topics/business_tasks.dita">
                 <topicref href="topics/untitled19.dita">
@@ -784,25 +810,288 @@
                         />
                     </topicref>
                 </topicref>
-                <topicref href="topics/atm_payments.dita"/>
-                <topicref href="topics/bill_payments.dita"/>
-                <topicref href="topics/branch_payments.dita"/>
-                <topicref href="topics/consumer_financing.dita"/>
-                <topicref href="topics/endowment.dita"/>
-                <topicref href="topics/ewallet.dita"/>
-                <topicref href="topics/general.dita"/>
-                <topicref href="topics/housing_financing.dita"/>
-                <topicref href="topics/insurance.dita"/>
-                <topicref href="topics/investments.dita"/>
-                <topicref href="topics/local_payments.dita"/>
-                <topicref href="topics/payment_cards.dita"/>
-                <topicref href="topics/payments_common.dita"/>
-                <topicref href="topics/swift_payments.dita"/>
-                <topicref href="topics/transfer_between_own_accounts.dita"/>
+                <topicref href="topics/atm_payments.dita">
+                    <topicref href="topics/single_payment.dita">
+                        <topicref href="topics/create_atm_payment_order.dita"/>
+                        <topicref href="topics/edit_atm_payment_order.dita"/>
+                        <topicref href="topics/view_atm_payment_order_detail.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/bill_payments.dita">
+                    <topicref href="topics/single_payment_0.dita">
+                        <topicref href="topics/view_list_of_registered_utility_services.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/branch_payments.dita">
+                    <topicref href="topics/single_payment_1.dita">
+                        <topicref href="topics/create_branch_payment_order.dita"/>
+                        <topicref href="topics/edit_branch_payment_order.dita"/>
+                        <topicref href="topics/view_branch_payment_order_detail.dita"/>
+                    </topicref>
+                    <topicref href="topics/payment_templates.dita">
+                        <topicref href="topics/edit_branch_payment_template.dita"/>
+                    </topicref>
+                    <topicref href="topics/standing_orders.dita">
+                        <topicref href="topics/create_branch_payment_standing_order.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/consumer_financing.dita">
+                    <topicref href="topics/loan_origination_0.dita">
+                        <topicref href="topics/view_loan_application_request_list.dita"/>
+                        <topicref href="topics/view_loan_application_request_detail.dita"/>
+                        <topicref href="topics/view_customers_credit_report.dita"/>
+                        <topicref href="topics/view_customers_credit_report_from_credit_bureau.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/statements_0.dita">
+                        <topicref href="topics/view_list_of_loan_statements.dita"/>
+                    </topicref>
+                    <topicref href="topics/loan_origination.dita">
+                        <topicref href="topics/create_request_for_overdraft_product_openning.dita"/>
+                        <topicref href="topics/create_loan_repayment_request.dita"/>
+                        <topicref href="topics/view_loan_product_list.dita"/>
+                        <topicref href="topics/view_repayment_schedule.dita"/>
+                        <topicref href="topics/view_loan_account_detail.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/endowment.dita">
+                    <topicref href="topics/reserve_an_allocation.dita"/>
+                    <topicref href="topics/view_transaction_list_counted_in_endowment.dita"/>
+                    <topicref href="topics/increase_endowment.dita"/>
+                    <topicref href="topics/endowment_beneficiaries_list.dita"/>
+                    <topicref href="topics/add_remove_endowment_beneficiary.dita"/>
+                </topicref>
+                <topicref href="topics/ewallet.dita">
+                    <topicref href="topics/register_new_ewallet_servise.dita"/>
+                    <topicref href="topics/view_list_of_registered_ewallets.dita"/>
+                    <topicref href="topics/view_ewallets_detail.dita"/>
+                    <topicref href="topics/feed_my_wallet.dita"/>
+                    <topicref href="topics/send_money_to_mobile.dita"/>
+                    <topicref href="topics/send_money_to_account.dita"/>
+                    <topicref href="topics/make_ewallet_default.dita"/>
+                    <topicref href="topics/delete_ewallet.dita"/>
+                    <topicref href="topics/temporarily_block_ewallet.dita"/>
+                </topicref>
+                <topicref href="topics/general.dita">
+                    <topicref href="topics/navigation.dita">
+                        <topicref href="topics/information_architecture.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/housing_financing.dita">
+                    <topicref href="topics/loan_origination_1.dita">
+                        <topicref
+                            href="topics/create_request_for_mortgage_loan_product_openning.dita"/>
+                        <topicref
+                            href="topics/create_request_for_mortgage_loan_refinancing_product_openning.dita"/>
+                        <topicref href="topics/view_loan_application_request_detail_0.dita"/>
+                    </topicref>
+                    <topicref href="topics/loans_management.dita">
+                        <topicref href="topics/create_loan_repayment_request_0.dita"/>
+                        <topicref
+                            href="topics/create_request_for_mortgage_loan_repayment_suspension.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/loans_overview.dita">
+                        <topicref href="topics/view_loan_product_list_0.dita"/>
+                        <topicref href="topics/request_repayment_schedule_on_email.dita"/>
+                        <topicref href="topics/view_loan_account_detail_0.dita"/>
+                        <topicref href="topics/view_list_of_loan_contracts.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/insurance.dita">
+                    <topicref href="topics/servicing.dita">
+                        <topicref href="topics/view_insurance_products.dita"/>
+                        <topicref
+                            href="topics/subscription_to_insurance_savings_contract_educatis_futuris_individuel_and_optimis_distributing.dita"/>
+                        <topicref href="topics/additional_payments.dita"/>
+                        <topicref href="topics/download_situation_reports.dita"/>
+                        <topicref
+                            href="topics/changes_to_terms_and_conditions_amount_date_etc_including_suspension_of_periodic_bonuses.dita"/>
+                        <topicref href="topics/request_for_partial_or_total_redemption.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/investments.dita">
+                    <topicref href="topics/portfolio_overview.dita">
+                        <topicref href="topics/view_list_of_investment_products_in_portfolio.dita"/>
+                        <topicref href="topics/view_detail_of_investment_portfolio.dita"/>
+                        <topicref href="topics/display_detail_of_order.dita"/>
+                        <topicref href="topics/switching_between_open_portfolios.dita"/>
+                        <topicref
+                            href="topics/display_value_development_of_portfolio_using_graph.dita"/>
+                        <topicref href="topics/create_new_portfolio.dita"/>
+                        <topicref href="topics/display_detail_of_the_investment_instrument.dita"/>
+                        <topicref href="topics/display_list_of_orders.dita"/>
+                        <topicref href="topics/display_list_of_executed_trades.dita"/>
+                        <topicref href="topics/display_list_of_confirmations.dita"/>
+                        <topicref href="topics/analysis_and_advice.dita"/>
+                        <topicref href="topics/analysis_and_advice_0.dita"/>
+                    </topicref>
+                    <topicref href="topics/stocks.dita">
+                        <topicref
+                            href="topics/display_value_development_of_the_stock_using_graph.dita"/>
+                        <topicref href="topics/submit_stock_purchase_request.dita"/>
+                        <topicref href="topics/submit_stock_sell_request.dita"/>
+                        <topicref href="topics/display_market_stocks_overview.dita"/>
+                        <topicref href="topics/display_stock_detail.dita"/>
+                    </topicref>
+                    <topicref href="topics/mutual_funds.dita">
+                        <topicref href="topics/view_standing_order_list_for_fund_purchase.dita"/>
+                        <topicref
+                            href="topics/display_detail_of_selected_standing_order_for_fund_purchase.dita"/>
+                        <topicref href="topics/create_fund_sell_request.dita"/>
+                        <topicref
+                            href="topics/create_standing_order_for_selected_fund_purchase.dita"/>
+                        <topicref href="topics/filter_funds_list.dita"/>
+                        <topicref
+                            href="topics/display_value_development_of_the_fund_using_graph.dita"/>
+                        <topicref href="topics/create_fund_purchase_request.dita"/>
+                        <topicref
+                            href="topics/edit_parameters_of_standing_order_for_fund_purchase.dita"/>
+                        <topicref
+                            href="topics/delete_selected_standing_order_for_fund_purchase.dita"/>
+                        <topicref href="topics/view_fund_list_available_for_purchase.dita"/>
+                        <topicref href="topics/view_selected_fund_detail.dita"/>
+                    </topicref>
+                    <topicref href="topics/questionnaire.dita">
+                        <topicref href="topics/fill_in_investment_questionnaire.dita"/>
+                        <topicref href="topics/see_my_investment_profile.dita"/>
+                    </topicref>
+                    <topicref href="topics/corporate_actions.dita">
+                        <topicref href="topics/view_list_of_future_actions.dita"/>
+                        <topicref href="topics/view_list_of_history_corporate_actions.dita"/>
+                    </topicref>
+                    <topicref href="topics/ipo.dita">
+                        <topicref href="topics/create_ipo_subscription.dita"/>
+                        <topicref href="topics/view_ipo_subscription_requests.dita"/>
+                        <topicref href="topics/cancel_ipo_subscription.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/local_payments.dita">
+                    <topicref href="topics/payment_templates_0.dita">
+                        <topicref href="topics/create_local_payment_template.dita"/>
+                    </topicref>
+                    <topicref href="topics/standing_orders_0.dita">
+                        <topicref href="topics/view_local_payment_order_detail.dita"/>
+                        <topicref href="topics/create_local_payment_order.dita"/>
+                        <topicref href="topics/edit_local_payment_order.dita"/>
+                    </topicref>
+                    <topicref href="topics/stadning_orders.dita">
+                        <topicref href="topics/view_local_payment_standing_order_detail.dita"/>
+                        <topicref href="topics/create_local_payment_standing_order.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/payment_cards.dita">
+                    <topicref href="topics/cards_common.dita">
+                        <topicref href="topics/view_payment_card_list.dita"/>
+                        <topicref href="topics/view_apple_pay_and_google_pay_status.dita"/>
+                        <topicref href="topics/view_card_account_history.dita"/>
+                        <topicref href="topics/view_card_account_movement_detail.dita"/>
+                    </topicref>
+                    <topicref href="topics/debit_cards.dita">
+                        <topicref href="topics/view_debit_card_detail.dita"/>
+                    </topicref>
+                    <topicref href="topics/card_servicing.dita">
+                        <topicref href="topics/block_payment_card.dita"/>
+                        <topicref href="topics/set_geolocation_payment_card_validity.dita"/>
+                        <topicref href="topics/set_up_new_pin_request.dita"/>
+                        <topicref href="topics/unblock_unfreeze_payment_card.dita"/>
+                        <topicref
+                            href="topics/suspend_resume_e_commerce_or_mo_to_transactions_on_payment_card.dita"/>
+                        <topicref href="topics/edit_card_withdrawal_payment_limits.dita"/>
+                        <topicref href="topics/activate_payment_card.dita"/>
+                        <topicref href="topics/freeze_card.dita"/>
+                    </topicref>
+                    <topicref href="topics/ecard_service.dita">
+                        <topicref href="topics/create_ecard_additional_service.dita"/>
+                        <topicref href="topics/activate_payment_card_additional_service.dita"/>
+                        <topicref href="topics/block_unblock_ecard_active_additional_services.dita"
+                        />
+                    </topicref>
+                </topicref>
+                <topicref href="topics/payments_common.dita">
+                    <topicref href="topics/waiting_room.dita">
+                        <topicref href="topics/repeat_payment.dita"/>
+                        <topicref href="topics/view_list_of_payment_orders_payment_history.dita"/>
+                        <topicref href="topics/cancel_pending_payment_order.dita"/>
+                    </topicref>
+                    <topicref href="topics/payments_dashboard.dita">
+                        <topicref href="topics/payments_dashboard_0.dita"/>
+                    </topicref>
+                    <topicref href="topics/payments_templates.dita">
+                        <topicref href="topics/view_payment_template_list.dita"/>
+                        <topicref href="topics/delete_payment_template.dita"/>
+                        <topicref href="topics/create_payment_template_from_payment.dita"/>
+                    </topicref>
+                    <topicref href="topics/beneficiary.dita">
+                        <topicref href="topics/view_beneficiary_list.dita"/>
+                        <topicref href="topics/view_beneficiary_detail.dita"/>
+                        <topicref href="topics/create_new_beneficiary.dita"/>
+                        <topicref href="topics/delete_beneficiary.dita"/>
+                        <topicref href="topics/search_beneficiary.dita"/>
+                    </topicref>
+                    <topicref href="topics/bulk_payments.dita">
+                        <topicref href="topics/create_bulk_payment.dita"/>
+                    </topicref>
+                    <topicref href="topics/payment_check.dita">
+                        <topicref href="topics/create_request_for_checkbook_issue.dita"/>
+                        <topicref href="topics/create_request_to_stop_payment_check.dita"/>
+                        <topicref href="topics/simple_filtering_of_used_payment_checks.dita"/>
+                        <topicref href="topics/create_request_for_check_deposit.dita"/>
+                        <topicref href="topics/view_list_of_used_payment_checks.dita"/>
+                        <topicref href="topics/view_all_payment_check_requests.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/swift_payments.dita">
+                    <topicref href="topics/single_payment_2.dita">
+                        <topicref href="topics/view_swift_payment_order_detail.dita"/>
+                        <topicref href="topics/create_swift_payment_order.dita"/>
+                        <topicref href="topics/edit_swift_payment_order.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/transfer_between_own_accounts.dita">
+                    <topicref href="topics/payment_templates_1.dita">
+                        <topicref
+                            href="topics/create_transfer_between_my_account_payment_template.dita"/>
+                    </topicref>
+                    <topicref href="topics/single_payment_3.dita">
+                        <topicref href="topics/view_transfer_between_own_accounts_order_detail.dita"/>
+                        <topicref href="topics/create_order_transfer_money_between_my_accounts.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/standing_orders_1.dita">
+                        <topicref
+                            href="topics/view_transfer_between_my_accounts_standing_order_detail.dita"/>
+                        <topicref href="topics/create_standing_order_between_my_accounts.dita"/>
+                    </topicref>
+                </topicref>
             </topicref>
             <topicref href="topics/comunication_tasks.dita">
                 <topicref href="topics/notifications.dita"/>
-                <topicref href="topics/communication.dita"/>
+                <topicref href="topics/communication.dita">
+                    <topicref href="topics/common.dita">
+                        <topicref href="topics/start_instant_chat_with_banker.dita"/>
+                    </topicref>
+                    <topicref href="topics/bank_messages.dita">
+                        <topicref href="topics/view_list_of_incoming_internal_messages.dita"/>
+                        <topicref href="topics/view_list_of_outgoing_internal_messages.dita"/>
+                        <topicref href="topics/view_message_details.dita"/>
+                        <topicref href="topics/create_and_send_internal_message.dita"/>
+                        <topicref href="topics/reply_to_incoming_internal_messages.dita"/>
+                        <topicref href="topics/remove_message.dita"/>
+                    </topicref>
+                    <topicref href="topics/assistance_and_complaints.dita">
+                        <topicref
+                            href="topics/entering_requests_for_assistance_information_or_complaints.dita"/>
+                        <topicref href="topics/search_filter_a_complaint.dita"/>
+                        <topicref href="topics/monitoring_of_support.dita"/>
+                        <topicref href="topics/confirmation_resolution_rating.dita"/>
+                    </topicref>
+                    <topicref href="topics/document_management.dita">
+                        <topicref href="topics/view_list_of_documents.dita"/>
+                        <topicref href="topics/view_document_detail.dita"/>
+                        <topicref href="topics/download_document.dita"/>
+                    </topicref>
+                </topicref>
             </topicref>
             <topicref href="topics/report_and_analysys_tasks.dita"/>
             <topicref href="topics/management_tasks.dita"/>
