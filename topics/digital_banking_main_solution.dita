@@ -2,11 +2,11 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="digital_banking_main_solution">
     <title>Products</title>
-    <shortdesc>This section is divided into two subsections and outlines all products that make up
-        Finshape’s value proposition. A value proposition describes the goods and services a company
-        offers and explains why they are valuable to customers. Alongside the product descriptions,
-        the section also includes a technical subsection Product building blocks that details
-        elements and components Finshape’s products consist of.</shortdesc>
+    <shortdesc>This section is divided into two subsections. Products subsection describes all
+        products that make up Finshape’s value proposition from the business or user point of view.
+        A value proposition describes the goods and services a company offers and explains why they
+        are valuable to customers. Product's building blocks section details elements and components
+        Finshape’s products consist of from the technical point of view.</shortdesc>
     <body>
         <p>We offer to our clients three standalone products (solutions), some add-ons components
             that provide advanced features in addition to the Core Digital Banking solution, and
@@ -17,7 +17,8 @@
                 Digital Banking solution only. </note></p>
         <p>To become a standalone product, add-on must have external service and reference API
             connectors and be independent from other DBOS components, which means being capable of
-            providing services alone.<dl id="dl_utk_2bs_jhc">
+            providing services alone. Finshape can turn into standalone product any add-on component
+            but it may take time and is not always cost effective.<dl id="dl_utk_2bs_jhc">
                 <dlentry>
                     <dt>DBOS component</dt>
                     <dd>A component comprises an application program that implements the business

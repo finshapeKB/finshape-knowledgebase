@@ -259,18 +259,17 @@
                 </topicref>
             </topicref>
             <topicref href="topics/start_digital_banking_solution.dita">
-                <topicref href="topics/introduction_to_this_user_guide_0.dita">
-                    <topicref href="topics/understanding_user_guide_concept_0.dita"/>
-                    <topicref href="topics/how_to_use_user_guide_0.dita"/>
-                    <topicref href="topics/content_life_cycle_0.dita"/>
-                    <topicref href="topics/party_0.dita"/>
-                    <topicref href="topics/resources_0.dita"/>
+                <topicref href="topics/introduction_to_the_product.dita">
+                    <topicref href="topics/what_is_the_product.dita"/>
+                    <topicref href="topics/business_tasks_you_accomlish_using_this_product.dita"/>
                 </topicref>
                 <topicref href="topics/product_user_guide_0.dita">
-                    <topicref href="topics/introduction_to_the_product.dita">
-                        <topicref href="topics/what_is_the_product.dita"/>
-                        <topicref href="topics/business_tasks_you_accomlish_using_this_product.dita"
-                        />
+                    <topicref href="topics/introduction_to_this_user_guide_0.dita">
+                        <topicref href="topics/understanding_user_guide_concept_0.dita"/>
+                        <topicref href="topics/how_to_use_user_guide_0.dita"/>
+                        <topicref href="topics/content_life_cycle_0.dita"/>
+                        <topicref href="topics/party_0.dita"/>
+                        <topicref href="topics/resources_0.dita"/>
                     </topicref>
                     <topicref href="topics/installation.dita"/>
                     <topicref href="topics/getting_started_0.dita">
