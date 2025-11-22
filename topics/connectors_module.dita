@@ -3,7 +3,7 @@
 <topic id="connectors_module">
     <title>Connectors (API)</title>
     <shortdesc>Connectors are elements for connecting composite application with other third party
-        applications and  internal composite application components  between each other.</shortdesc>
+        applications and internal application components between each other.</shortdesc>
     <body>
         <p>
             <dl id="dl_tvr_mhh_jhc">

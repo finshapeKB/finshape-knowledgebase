@@ -3,6 +3,7 @@
 <map>
     <title>Finshape Knowledge Base</title>
     <topicref href="topics/how_to_use_knowledge_base.dita"/>
+    <topicref href="topics/glossary.dita"/>
     <topicref href="topics/digital_banking_main_solution.dita">
         <topicref href="topics/db_modules.dita">
             <topicref href="topics/infrastructure_module.dita"/>
@@ -451,6 +452,52 @@
             <topicref href="topics/maintenance_service.dita"/>
         </topicref>
     </topicref>
+    <topicref href="topics/rights_to_do_tasks.dita">
+        <topicref href="topics/operation_rigths.dita">
+            <topicref href="topics/right_1.dita"/>
+            <topicref href="topics/right_2.dita"/>
+            <topicref href="topics/right_3.dita"/>
+        </topicref>
+        <topicref href="topics/data_and_dto_access_levels.dita">
+            <topicref href="topics/low_access_level.dita"/>
+            <topicref href="topics/middle_access_level.dita"/>
+            <topicref href="topics/high_access_level.dita"/>
+            <topicref href="topics/create_right.dita"/>
+        </topicref>
+        <topicref href="topics/channels_rights.dita">
+            <topicref href="topics/internet_banking_right.dita"/>
+            <topicref href="topics/mobile_banking_right.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/roles.dita">
+        <topicref href="topics/finshape_roles.dita">
+            <topicref href="topics/marketing.dita"/>
+            <topicref href="topics/sales.dita"/>
+            <topicref href="topics/salesperson.dita"/>
+            <topicref href="topics/business_analyst.dita"/>
+            <topicref href="topics/technical_analyst.dita"/>
+            <topicref href="topics/solution_architect.dita"/>
+            <topicref href="topics/infrastructure_delivery.dita"/>
+            <topicref href="topics/software_delivery.dita"/>
+            <topicref href="topics/api_developer.dita"/>
+            <topicref href="topics/backend_developer.dita"/>
+            <topicref href="topics/frontend_developer.dita"/>
+            <topicref href="topics/tester.dita"/>
+            <topicref href="topics/partner_implementator.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_employee_roles.dita">
+            <topicref href="topics/administrator.dita"/>
+            <topicref href="topics/operator.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_corporate_client_roles.dita">
+            <topicref href="topics/bcc_list.dita"/>
+            <topicref href="topics/bcc_1.dita"/>
+            <topicref href="topics/bcc2.dita"/>
+            <topicref href="topics/chief_accountant_officer.dita"/>
+            <topicref href="topics/bcc3.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_privat_client.dita"/>
+    </topicref>
     <topicref href="topics/work_spaces_to_handle_tasks.dita">
         <topicref href="topics/bank_s_employee_app_ui.dita">
             <topicref href="topics/admin_console_wac_0.dita"/>
@@ -602,52 +649,6 @@
                 </topicref>
             </topicref>
             <topicref href="topics/mobile_workspace_for_private_client.dita"/>
-        </topicref>
-    </topicref>
-    <topicref href="topics/roles.dita">
-        <topicref href="topics/finshape_roles.dita">
-            <topicref href="topics/marketing.dita"/>
-            <topicref href="topics/sales.dita"/>
-            <topicref href="topics/salesperson.dita"/>
-            <topicref href="topics/business_analyst.dita"/>
-            <topicref href="topics/technical_analyst.dita"/>
-            <topicref href="topics/solution_architect.dita"/>
-            <topicref href="topics/infrastructure_delivery.dita"/>
-            <topicref href="topics/software_delivery.dita"/>
-            <topicref href="topics/api_developer.dita"/>
-            <topicref href="topics/backend_developer.dita"/>
-            <topicref href="topics/frontend_developer.dita"/>
-            <topicref href="topics/tester.dita"/>
-            <topicref href="topics/partner_implementator.dita"/>
-        </topicref>
-        <topicref href="topics/bank_s_employee_roles.dita">
-            <topicref href="topics/administrator.dita"/>
-            <topicref href="topics/operator.dita"/>
-        </topicref>
-        <topicref href="topics/bank_s_corporate_client_roles.dita">
-            <topicref href="topics/bcc_list.dita"/>
-            <topicref href="topics/bcc_1.dita"/>
-            <topicref href="topics/bcc2.dita"/>
-            <topicref href="topics/chief_accountant_officer.dita"/>
-            <topicref href="topics/bcc3.dita"/>
-        </topicref>
-        <topicref href="topics/bank_s_privat_client.dita"/>
-    </topicref>
-    <topicref href="topics/rights_to_do_tasks.dita">
-        <topicref href="topics/operation_rigths.dita">
-            <topicref href="topics/right_1.dita"/>
-            <topicref href="topics/right_2.dita"/>
-            <topicref href="topics/right_3.dita"/>
-        </topicref>
-        <topicref href="topics/data_and_dto_access_levels.dita">
-            <topicref href="topics/low_access_level.dita"/>
-            <topicref href="topics/middle_access_level.dita"/>
-            <topicref href="topics/high_access_level.dita"/>
-            <topicref href="topics/create_right.dita"/>
-        </topicref>
-        <topicref href="topics/channels_rights.dita">
-            <topicref href="topics/internet_banking_right.dita"/>
-            <topicref href="topics/mobile_banking_right.dita"/>
         </topicref>
     </topicref>
     <topicref href="topics/tasks.dita">
@@ -989,5 +990,4 @@
             </topicref>
         </topicref>
     </topicref>
-    <topicref href="topics/glossary.dita"/>
 </map>

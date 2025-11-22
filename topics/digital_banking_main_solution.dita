@@ -5,8 +5,8 @@
     <shortdesc>This section is divided into two subsections and outlines all products that make up
         Finshape’s value proposition. A value proposition describes the goods and services a company
         offers and explains why they are valuable to customers. Alongside the product descriptions,
-        the section also includes a technical subsection that details the elements and components
-        underlying Finshape’s products.</shortdesc>
+        the section also includes a technical subsection Product building blocks that details
+        elements and components Finshape’s products consist of.</shortdesc>
     <body>
         <p>We offer to our clients three standalone products (solutions), some add-ons components
             that provide advanced features in addition to the Core Digital Banking solution, and
@@ -14,7 +14,20 @@
             level and doesn't depend on other DBOS components.</p>
         <p>To become a standalone product, component must have external service and reference API
             connectors and be independent from other components, which means being capable of
-            providing services alone.<fig id="fig_dfn_yfq_jhc">
+            providing services alone.<dl id="dl_utk_2bs_jhc">
+                <dlentry>
+                    <dt>DBOS component</dt>
+                    <dd>A component comprises an application program that implements the business
+                        logic and configuration information. A component offers a service to other
+                        components and in turn consumes functions offered by other services using
+                        service-oriented interfaces.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>DBOS composite application</dt>
+                    <dd>A composite application is created by combining one or more components that
+                        together implement the business logic of the new application.</dd>
+                </dlentry>
+            </dl><fig id="fig_dfn_yfq_jhc">
                 <p>
                     <fig id="fig_fsd_1gq_jhc">
                         <title>General connectors</title>
@@ -60,17 +73,14 @@
                 </dlentry>
                 <dlentry>
                     <dt><xref href="start_digital_banking_solution.dita"/></dt>
-                    <dd>The Core Digital Banking is a product provides the essential capabilities
-                        required to deliver core digital banking services, including secure customer
-                        operations, integration with existing bank systems, and support for
-                        additional banking functionalities. These functionalities include storing
-                        and providing data, executing transactions, and performing product-related
-                        actions, all supported through a unified integration layer. This product is
-                        delivered through Authentication and Authorization solution along with other
-                        key components: Instant Data (GDS), Payments and Instructions (TPM),
-                        Integration Hub (IHUB), Service Proxy (SPX), Admin Console (WAC), Login
-                        application and Workspace GUI applications for bank clients and bank
-                        employees. </dd>
+                    <dd>The Core Digital Banking solution provides the basic digital banking
+                        services, including integration with existing bank systems, storing and
+                        providing data, secure customer operations, executing transactions, and
+                        support for additional banking functionalities. The product includes the
+                        Authentication and Authorization solution along with other key components:
+                        Instant Data (GDS), Payments and Instructions (TPM), Integration Hub (IHUB),
+                        Service Proxy (SPX), Admin Console (WAC), Login and Workspace GUI
+                        applications for bank clients and bank employees. </dd>
                 </dlentry>
                 <dlentry>
                     <dt><xref href="psd2_support_service.dita"/></dt>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="db_modules">
-    <title>Digital banking building blocks </title>
+    <title>Product's building blocks </title>
     <shortdesc>Finshape’s main product is a custom Digital Banking solution. Custom in this context
         refers to a specific configuration of the provided building blocks (functional capabilities)
         combined with developing front-end applications and component extensions. These building
