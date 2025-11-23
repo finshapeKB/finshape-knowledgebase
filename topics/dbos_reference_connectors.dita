@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="dbos_reference_connectors">
-    <title>DBOS reference connectors</title>
+    <title>DBOS composite app reference connectors</title>
     <shortdesc>DBOS reference connector is the access mechanism that is used to call another
         service.</shortdesc>
     <body>
