@@ -3,6 +3,7 @@
 <topic id="admin_operation_functions">
     <title>Admin task's Steps: FTS01</title>
     <body>
-        <p></p>
+        <p>For now, structure is created based on the assumption, that 1 task = 1 step. To fulfill
+            this section, it's necessary to review all tasks' steps. </p>
     </body>
 </topic>
