@@ -2,16 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="dbos_maintenance_tasks">
     <title>Maintenance Tasks: FT07</title>
+    <shortdesc>Maintenance Tasks are all tasks related to Digital Banking solution software
+        maintenance and may refers to bank employee Software Operator or Admin Role or delegated to
+        Finshape maintenance service.</shortdesc>
     <body>
         <p>Today, mature tooling, such as package management or provisioning tools, covers the
-            installation and deployment of applications. But is there tooling available for managing
-            an application? How are operational tasks covered? Software operators are the
-            answer.</p>
-        <p>The software operator is a design pattern, a proven approach to implement real-world
-            operation tasks with source code. Software operators cover configuration, updating,
-            scaling, running backups or performing health checks.</p>
-        <p>Because they are the beating heart of organisations’ IT, they have more sophisticated
-            transparency, reliability and data security requirements. How do you go about developing
-            them? Join our webinar for best practices.</p>
+            installation and deployment of applications. Software operators cover configuration,
+            updating, scaling, running backups or performing health checks.</p>
     </body>
 </topic>

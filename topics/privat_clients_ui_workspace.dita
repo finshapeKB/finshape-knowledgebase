@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="privat_clients_ui_workspace">
-    <title>Desktop workspace UI page for Private Client</title>
-    <shortdesc>Desktop workspace for Private Client is a user interface starting page that is
-        designed for Private Client role and runs on  all desktop platforms. The workspace is opened
-        as Private Clients login to the internet banking application. Private Clients manage their
-        banking operations within workspace.</shortdesc>
+    <title>Desktop workspace UI page for Retail Client</title>
+    <shortdesc>Desktop workspace for Retail Client is a desktop GUI page that is opened as Retail
+        Clients login to the internet banking application. </shortdesc>
     <body>
-        <p>The Desktop workspace is opened as Private Clients login to the internet banking
-            application and consist of Menu bar and a placeholder for your desired UI page. Usually,
-            as you login to an internet banking, Introduction or Overview UI page is opened. </p>
+        <p>Retail Clients manage their banking operations within workspace. The workspace is opened
+            as Retail Clients login to the internet banking application and consist of Menu bar and
+            a placeholder for starting UI page. Usually, as you login to an internet banking,
+            Introduction or Overview UI page is opened. </p>
         <p>
             <fig id="fig_fnv_rwp_hhc">
                 <p>
                     <fig id="fig_gzx_xwp_hhc">
-                        <title>Workspace for Private client</title>
+                        <title>Workspace for Retail client</title>
                         <image placement="break" href="../images/privat_client_workspace_menu.jpg"
                             align="left" id="image_hzx_xwp_hhc"/>
                     </fig>

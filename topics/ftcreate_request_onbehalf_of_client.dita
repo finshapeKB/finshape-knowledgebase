@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ftcreate_request_onbehalf_of_client">
+    <title>Create Request OnBehalf of Client</title>
+    <shortdesc>Operator can create request on behalf of the client if both operator and the client
+        have appropriate rights </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

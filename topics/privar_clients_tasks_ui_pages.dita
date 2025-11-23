@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="privar_clients_tasks_ui_pages">
-    <title>Desktop tasks UI pages for Private Clients</title>
+    <title>Desktop tasks UI pages for Retail Clients</title>
     <shortdesc>Clients handle internet banking operations within specially designed UI pages. Those
         banking operations we considered for Tasks. Changing card pin code, making new payment,
         setting payment orders etc. are banking Tasks. Usually to gain a result you need to pass

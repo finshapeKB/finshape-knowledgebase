@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ftsigning_rule_blocking_automatic_ft01_03_02_07">
+    <title>Signing Rule Blocking (automatic): FT01.03.02.07</title>
+    <shortdesc>If there is a change of other entities (having impact on this signing rule), the
+        signing rule is automatically blocked due to non-functionality. Its status changes to
+        Blocked </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

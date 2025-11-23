@@ -11,7 +11,7 @@
         <p>Data coming from what source (enumeration of sources): </p>
         <p>Data is a part of  DTO (enumeration of DTO): <ul id="ul_dnd_hx5_zgc">
                 <li>
-                    <p><xref href="dbo_maint_2.dita"/></p>
+                    <p/>
                 </li>
                 <li>
                     <p/>
@@ -25,15 +25,6 @@
             </ul>
         </p>
         <p>Data may be access through what connector (enumeration of): </p>
-        <p>Data may be accessed using what API method (reference pages): <ul id="ul_ob1_nx5_zgc">
-                <li>
-                    <p><xref href="https://finshape.com/resources/" format="html" scope="external"
-                        /></p>
-                </li>
-                <li>
-                    <p><xref href="https://finshape.com/resources/" format="html" scope="external"
-                        /></p>
-                </li>
-            </ul></p>
+        <p>Data may be accessed using what API method (reference pages): </p>
     </body>
 </topic>

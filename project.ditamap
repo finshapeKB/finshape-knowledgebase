@@ -5,205 +5,6 @@
     <topicref href="topics/how_to_use_knowledge_base.dita"/>
     <topicref href="topics/glossary.dita"/>
     <topicref href="topics/digital_banking_main_solution.dita">
-        <topicref href="topics/db_modules.dita">
-            <topicref href="topics/infrastructure_module.dita"/>
-            <topicref href="topics/connectors_module.dita">
-                <topicref href="topics/connectors_list.dita"/>
-                <topicref href="topics/dbos_component_s_service_connectors.dita"/>
-                <topicref href="topics/dbos_component_s_reference_connectors.dita"/>
-                <topicref href="topics/dbos_service_connectors.dita"/>
-                <topicref href="topics/dbos_reference_connectors.dita">
-                    <topicref href="topics/dbos_internal_connectors.dita"/>
-                    <topicref href="topics/dbos_component_connectors.dita"/>
-                    <topicref href="topics/dbos_input_connectors.dita"/>
-                    <topicref href="topics/dbos_output_connectors.dita"/>
-                </topicref>
-            </topicref>
-            <topicref href="topics/dbos_modul.dita">
-                <topicref href="topics/digital_identity.dita">
-                    <topicref href="topics/overview.dita"/>
-                    <topicref href="topics/about_this_document.dita"/>
-                    <topicref href="topics/what_s_new_in_2_4.dita"/>
-                    <topicref href="topics/features.dita"/>
-                    <topicref href="topics/core_features.dita">
-                        <topicref href="topics/gps_in_a_nutshell.dita"/>
-                    </topicref>
-                    <topicref href="topics/optional_features.dita">
-                        <topicref href="topics/export_templates.dita"/>
-                    </topicref>
-                    <topicref href="topics/database_setup.dita">
-                        <topicref href="topics/preparing_database.dita"/>
-                        <topicref href="topics/oracle_setup.dita"/>
-                        <topicref href="topics/postgres_setup.dita"/>
-                        <topicref href="topics/database_patcher.dita"/>
-                    </topicref>
-                    <topicref href="topics/configuration.dita">
-                        <topicref href="topics/configuration_files.dita"/>
-                        <topicref href="topics/core_configuration.dita">
-                            <topicref href="topics/logging.dita"/>
-                            <topicref href="topics/datasource.dita"/>
-                            <topicref href="topics/caching.dita"/>
-                            <topicref href="topics/cors.dita"/>
-                            <topicref href="topics/transactions.dita"/>
-                            <topicref href="topics/asynchronous_task_execution_and_scheduling.dita"/>
-                            <topicref href="topics/liquibase_validation.dita"/>
-                            <topicref href="topics/monitoring.dita"/>
-                            <topicref href="topics/application.dita"/>
-                            <topicref href="topics/rest_api.dita"/>
-                            <topicref href="topics/jobs.dita"/>
-                            <topicref href="topics/journal.dita"/>
-                            <topicref href="topics/api_catalog_service.dita"/>
-                            <topicref href="topics/tls_secured_apis.dita"/>
-                            <topicref href="topics/miscellaneous.dita"/>
-                        </topicref>
-                        <topicref href="topics/integration_configuration.dita">
-                            <topicref
-                                href="topics/direct_dbos_components_integration_configuration.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/features_configuration.dita">
-                            <topicref href="topics/export_templates_configuration.dita"/>
-                        </topicref>
-                        <topicref href="topics/monitoring_0.dita">
-                            <topicref href="topics/overview_0.dita"/>
-                            <topicref href="topics/info_endpoint.dita"/>
-                            <topicref href="topics/liveness_and_readiness_probes.dita"/>
-                            <topicref href="topics/metrics.dita"/>
-                        </topicref>
-                        <topicref href="topics/extending.dita">
-                            <topicref href="topics/overview_of_extending.dita"/>
-                            <topicref href="topics/building_extensions.dita"/>
-                            <topicref href="topics/custom_database_patcher.dita"/>
-                            <topicref href="topics/offline_token_provider.dita"/>
-                            <topicref href="topics/export_template_extensions.dita"/>
-                        </topicref>
-                        <topicref href="topics/pluggable_extension_points.dita">
-                            <topicref href="topics/extension_points_overview.dita"/>
-                            <topicref href="topics/authentication_extension_points.dita"/>
-                        </topicref>
-                    </topicref>
-                    <topicref href="topics/implementation.dita">
-                        <topicref href="topics/build.dita">
-                            <topicref href="topics/maven_plugins.dita"/>
-                        </topicref>
-                        <topicref href="topics/core_and_common_functionalities.dita">
-                            <topicref href="topics/multiple_database_support_in_gps.dita"/>
-                        </topicref>
-                    </topicref>
-                    <topicref href="topics/appendixes.dita">
-                        <topicref href="topics/caches.dita"/>
-                        <topicref href="topics/list_of_apis.dita"/>
-                        <topicref href="topics/migration_guides.dita">
-                            <topicref href="topics/migrating_from_gps_2_2_x_to_2_3_x.dita"/>
-                            <topicref href="topics/migrating_from_gps_2_3_x_to_2_4_x.dita"/>
-                            <topicref href="topics/migrating_from_gps_2_1_x_to_2_2_x.dita"/>
-                            <topicref href="topics/migrating_from_gps_2_0_x_to_2_1_x.dita"/>
-                            <topicref href="topics/migrating_from_gps_1_1_x_to_2_0_x.dita"/>
-                            <topicref href="topics/migrating_from_gps_1_0_x_to_1_1_x.dita"/>
-                            <topicref
-                                href="topics/migrating_from_original_project_bsc_gps_to_core_gps_1_0.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/archived_news.dita">
-                            <topicref href="topics/what_s_new_in_2_4_0.dita"/>
-                            <topicref href="topics/what_s_new_in_2_3.dita"/>
-                            <topicref href="topics/what_s_new_in_2_2.dita"/>
-                            <topicref href="topics/what_s_new_in_2_1.dita"/>
-                            <topicref href="topics/what_s_new_in_2_0.dita"/>
-                            <topicref href="topics/what_s_new_in_1_1.dita"/>
-                            <topicref href="topics/what_s_new_in_1_0.dita"/>
-                        </topicref>
-                        <topicref href="topics/compatibility_matrix.dita"/>
-                    </topicref>
-                    <topicref href="topics/architectural_decisions.dita">
-                        <topicref href="topics/technical_architectural_decisions.dita"/>
-                    </topicref>
-                    <topicref href="topics/business_features_architectural_decisions.dita">
-                        <topicref href="topics/tbd.dita"/>
-                    </topicref>
-                </topicref>
-                <topicref href="topics/experience_builder_xpb.dita"/>
-                <topicref href="topics/content_manager_cm.dita"/>
-                <topicref href="topics/four_eyes_fey.dita"/>
-                <topicref href="topics/distributions_gdc.dita"/>
-                <topicref href="topics/instant_data.dita"/>
-                <topicref href="topics/entitlements.dita"/>
-                <topicref href="topics/notifications_gnc.dita"/>
-                <topicref href="topics/print_server_gps.dita"/>
-                <topicref href="topics/integration_hub_gde.dita"/>
-                <topicref href="topics/service_identity_provide_sider.dita"/>
-                <topicref href="topics/payments_instructions_tpm.dita"/>
-                <topicref href="topics/exchange_rates_xcr.dita"/>
-                <topicref href="topics/api_provider_openbank.dita"/>
-                <topicref href="topics/consent_registry_consentreg.dita"/>
-                <topicref href="topics/third_party_registry_tpreg.dita"/>
-            </topicref>
-            <topicref href="topics/applications_module.dita">
-                <topicref href="topics/admin_console_wac.dita"/>
-                <topicref href="topics/desktop_internet_banking_application.dita">
-                    <topicref href="topics/introduction_to_this_user_guide_3.dita">
-                        <topicref href="topics/understanding_user_guide_concept_4.dita"/>
-                        <topicref href="topics/how_to_use_user_guide_4.dita"/>
-                        <topicref href="topics/content_life_cycle_4.dita"/>
-                        <topicref href="topics/party_4.dita"/>
-                        <topicref href="topics/resources_4.dita"/>
-                    </topicref>
-                    <topicref href="topics/introduction_to_the_product_3.dita">
-                        <topicref href="topics/what_is_the_product_3.dita"/>
-                        <topicref
-                            href="topics/business_tasks_you_accomlish_using_this_product_3.dita"/>
-                    </topicref>
-                    <topicref href="topics/installation_3.dita"/>
-                    <topicref href="topics/getting_started_4.dita">
-                        <topicref href="topics/frequently_used_shortcut_keys_4.dita"/>
-                        <topicref href="topics/your_first_steps_4.dita"/>
-                        <topicref href="topics/getting_help_4.dita"/>
-                        <topicref href="topics/resources_to_help_you_getting_started_4.dita"/>
-                    </topicref>
-                    <topicref href="topics/configuration_4.dita"/>
-                    <topicref href="topics/maintenance_4.dita"/>
-                    <topicref href="topics/working_with_the_product_3.dita"/>
-                    <topicref href="topics/troubleshooting_4.dita"/>
-                </topicref>
-                <topicref href="topics/ios_and_android_smartphone_banking.dita">
-                    <topicref href="topics/introduction_to_this_user_guide_4.dita">
-                        <topicref href="topics/understanding_user_guide_concept_5.dita"/>
-                        <topicref href="topics/how_to_use_user_guide_5.dita"/>
-                        <topicref href="topics/content_life_cycle_5.dita"/>
-                        <topicref href="topics/party_5.dita"/>
-                        <topicref href="topics/resources_5.dita"/>
-                    </topicref>
-                    <topicref href="topics/introduction_to_the_product_4.dita">
-                        <topicref href="topics/what_is_the_product_4.dita"/>
-                        <topicref
-                            href="topics/business_tasks_you_accomlish_using_this_product_4.dita"/>
-                    </topicref>
-                    <topicref href="topics/installation_4.dita"/>
-                    <topicref href="topics/getting_started_5.dita">
-                        <topicref href="topics/frequently_used_shortcut_keys_5.dita"/>
-                        <topicref href="topics/your_first_steps_5.dita"/>
-                        <topicref href="topics/getting_help_5.dita"/>
-                        <topicref href="topics/resources_to_help_you_getting_started_5.dita"/>
-                    </topicref>
-                    <topicref href="topics/configuration_5.dita"/>
-                    <topicref href="topics/maintenance_5.dita"/>
-                    <topicref href="topics/working_with_the_product_4.dita"/>
-                    <topicref href="topics/troubleshooting_5.dita"/>
-                </topicref>
-            </topicref>
-            <topicref href="topics/tools.dita">
-                <topicref href="topics/alfons.dita"/>
-                <topicref href="topics/starter_kit.dita"/>
-                <topicref href="topics/flow_designer.dita"/>
-                <topicref href="topics/camunda.dita"/>
-                <topicref href="topics/configurator.dita"/>
-                <topicref href="topics/sdk_for_ios_and_android.dita"/>
-                <topicref href="topics/figma.dita"/>
-                <topicref href="topics/service_proxy.dita"/>
-                <topicref href="topics/ci_cd.dita"/>
-                <topicref href="topics/config_player.dita"/>
-            </topicref>
-        </topicref>
         <topicref href="topics/finshape_products_clients_pay_for.dita">
             <topicref href="topics/digital_identity_0.dita">
                 <topicref href="topics/introduction_to_the_product_12.dita">
@@ -471,12 +272,214 @@
             <topicref href="topics/product_support.dita"/>
             <topicref href="topics/maintenance_service.dita"/>
         </topicref>
+        <topicref href="topics/db_modules.dita">
+            <topicref href="topics/infrastructure_module.dita"/>
+            <topicref href="topics/connectors_module.dita">
+                <topicref href="topics/connectors_list.dita"/>
+                <topicref href="topics/dbos_component_s_service_connectors.dita"/>
+                <topicref href="topics/dbos_component_s_reference_connectors.dita"/>
+                <topicref href="topics/dbos_service_connectors.dita"/>
+                <topicref href="topics/dbos_reference_connectors.dita">
+                    <topicref href="topics/dbos_internal_connectors.dita"/>
+                    <topicref href="topics/dbos_component_connectors.dita"/>
+                    <topicref href="topics/dbos_input_connectors.dita"/>
+                    <topicref href="topics/dbos_output_connectors.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/dbos_modul.dita">
+                <topicref href="topics/digital_identity.dita">
+                    <topicref href="topics/overview.dita"/>
+                    <topicref href="topics/about_this_document.dita"/>
+                    <topicref href="topics/what_s_new_in_2_4.dita"/>
+                    <topicref href="topics/features.dita"/>
+                    <topicref href="topics/core_features.dita">
+                        <topicref href="topics/gps_in_a_nutshell.dita"/>
+                    </topicref>
+                    <topicref href="topics/optional_features.dita">
+                        <topicref href="topics/export_templates.dita"/>
+                    </topicref>
+                    <topicref href="topics/database_setup.dita">
+                        <topicref href="topics/preparing_database.dita"/>
+                        <topicref href="topics/oracle_setup.dita"/>
+                        <topicref href="topics/postgres_setup.dita"/>
+                        <topicref href="topics/database_patcher.dita"/>
+                    </topicref>
+                    <topicref href="topics/configuration.dita">
+                        <topicref href="topics/configuration_files.dita"/>
+                        <topicref href="topics/core_configuration.dita">
+                            <topicref href="topics/logging.dita"/>
+                            <topicref href="topics/datasource.dita"/>
+                            <topicref href="topics/caching.dita"/>
+                            <topicref href="topics/cors.dita"/>
+                            <topicref href="topics/transactions.dita"/>
+                            <topicref href="topics/asynchronous_task_execution_and_scheduling.dita"/>
+                            <topicref href="topics/liquibase_validation.dita"/>
+                            <topicref href="topics/monitoring.dita"/>
+                            <topicref href="topics/application.dita"/>
+                            <topicref href="topics/rest_api.dita"/>
+                            <topicref href="topics/jobs.dita"/>
+                            <topicref href="topics/journal.dita"/>
+                            <topicref href="topics/api_catalog_service.dita"/>
+                            <topicref href="topics/tls_secured_apis.dita"/>
+                            <topicref href="topics/miscellaneous.dita"/>
+                        </topicref>
+                        <topicref href="topics/integration_configuration.dita">
+                            <topicref
+                                href="topics/direct_dbos_components_integration_configuration.dita"
+                            />
+                        </topicref>
+                        <topicref href="topics/features_configuration.dita">
+                            <topicref href="topics/export_templates_configuration.dita"/>
+                        </topicref>
+                        <topicref href="topics/monitoring_0.dita">
+                            <topicref href="topics/overview_0.dita"/>
+                            <topicref href="topics/info_endpoint.dita"/>
+                            <topicref href="topics/liveness_and_readiness_probes.dita"/>
+                            <topicref href="topics/metrics.dita"/>
+                        </topicref>
+                        <topicref href="topics/extending.dita">
+                            <topicref href="topics/overview_of_extending.dita"/>
+                            <topicref href="topics/building_extensions.dita"/>
+                            <topicref href="topics/custom_database_patcher.dita"/>
+                            <topicref href="topics/offline_token_provider.dita"/>
+                            <topicref href="topics/export_template_extensions.dita"/>
+                        </topicref>
+                        <topicref href="topics/pluggable_extension_points.dita">
+                            <topicref href="topics/extension_points_overview.dita"/>
+                            <topicref href="topics/authentication_extension_points.dita"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="topics/implementation.dita">
+                        <topicref href="topics/build.dita">
+                            <topicref href="topics/maven_plugins.dita"/>
+                        </topicref>
+                        <topicref href="topics/core_and_common_functionalities.dita">
+                            <topicref href="topics/multiple_database_support_in_gps.dita"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="topics/appendixes.dita">
+                        <topicref href="topics/caches.dita"/>
+                        <topicref href="topics/list_of_apis.dita"/>
+                        <topicref href="topics/migration_guides.dita">
+                            <topicref href="topics/migrating_from_gps_2_2_x_to_2_3_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_2_3_x_to_2_4_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_2_1_x_to_2_2_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_2_0_x_to_2_1_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_1_1_x_to_2_0_x.dita"/>
+                            <topicref href="topics/migrating_from_gps_1_0_x_to_1_1_x.dita"/>
+                            <topicref
+                                href="topics/migrating_from_original_project_bsc_gps_to_core_gps_1_0.dita"
+                            />
+                        </topicref>
+                        <topicref href="topics/archived_news.dita">
+                            <topicref href="topics/what_s_new_in_2_4_0.dita"/>
+                            <topicref href="topics/what_s_new_in_2_3.dita"/>
+                            <topicref href="topics/what_s_new_in_2_2.dita"/>
+                            <topicref href="topics/what_s_new_in_2_1.dita"/>
+                            <topicref href="topics/what_s_new_in_2_0.dita"/>
+                            <topicref href="topics/what_s_new_in_1_1.dita"/>
+                            <topicref href="topics/what_s_new_in_1_0.dita"/>
+                        </topicref>
+                        <topicref href="topics/compatibility_matrix.dita"/>
+                    </topicref>
+                    <topicref href="topics/architectural_decisions.dita">
+                        <topicref href="topics/technical_architectural_decisions.dita"/>
+                    </topicref>
+                    <topicref href="topics/business_features_architectural_decisions.dita">
+                        <topicref href="topics/tbd.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/experience_builder_xpb.dita"/>
+                <topicref href="topics/content_manager_cm.dita"/>
+                <topicref href="topics/four_eyes_fey.dita"/>
+                <topicref href="topics/distributions_gdc.dita"/>
+                <topicref href="topics/instant_data.dita"/>
+                <topicref href="topics/entitlements.dita"/>
+                <topicref href="topics/notifications_gnc.dita"/>
+                <topicref href="topics/print_server_gps.dita"/>
+                <topicref href="topics/integration_hub_gde.dita"/>
+                <topicref href="topics/service_identity_provide_sider.dita"/>
+                <topicref href="topics/payments_instructions_tpm.dita"/>
+                <topicref href="topics/exchange_rates_xcr.dita"/>
+                <topicref href="topics/api_provider_openbank.dita"/>
+                <topicref href="topics/consent_registry_consentreg.dita"/>
+                <topicref href="topics/third_party_registry_tpreg.dita"/>
+            </topicref>
+            <topicref href="topics/applications_module.dita">
+                <topicref href="topics/admin_console_wac.dita"/>
+                <topicref href="topics/desktop_internet_banking_application.dita">
+                    <topicref href="topics/introduction_to_this_user_guide_3.dita">
+                        <topicref href="topics/understanding_user_guide_concept_4.dita"/>
+                        <topicref href="topics/how_to_use_user_guide_4.dita"/>
+                        <topicref href="topics/content_life_cycle_4.dita"/>
+                        <topicref href="topics/party_4.dita"/>
+                        <topicref href="topics/resources_4.dita"/>
+                    </topicref>
+                    <topicref href="topics/introduction_to_the_product_3.dita">
+                        <topicref href="topics/what_is_the_product_3.dita"/>
+                        <topicref
+                            href="topics/business_tasks_you_accomlish_using_this_product_3.dita"/>
+                    </topicref>
+                    <topicref href="topics/installation_3.dita"/>
+                    <topicref href="topics/getting_started_4.dita">
+                        <topicref href="topics/frequently_used_shortcut_keys_4.dita"/>
+                        <topicref href="topics/your_first_steps_4.dita"/>
+                        <topicref href="topics/getting_help_4.dita"/>
+                        <topicref href="topics/resources_to_help_you_getting_started_4.dita"/>
+                    </topicref>
+                    <topicref href="topics/configuration_4.dita"/>
+                    <topicref href="topics/maintenance_4.dita"/>
+                    <topicref href="topics/working_with_the_product_3.dita"/>
+                    <topicref href="topics/troubleshooting_4.dita"/>
+                </topicref>
+                <topicref href="topics/ios_and_android_smartphone_banking.dita">
+                    <topicref href="topics/introduction_to_this_user_guide_4.dita">
+                        <topicref href="topics/understanding_user_guide_concept_5.dita"/>
+                        <topicref href="topics/how_to_use_user_guide_5.dita"/>
+                        <topicref href="topics/content_life_cycle_5.dita"/>
+                        <topicref href="topics/party_5.dita"/>
+                        <topicref href="topics/resources_5.dita"/>
+                    </topicref>
+                    <topicref href="topics/introduction_to_the_product_4.dita">
+                        <topicref href="topics/what_is_the_product_4.dita"/>
+                        <topicref
+                            href="topics/business_tasks_you_accomlish_using_this_product_4.dita"/>
+                    </topicref>
+                    <topicref href="topics/installation_4.dita"/>
+                    <topicref href="topics/getting_started_5.dita">
+                        <topicref href="topics/frequently_used_shortcut_keys_5.dita"/>
+                        <topicref href="topics/your_first_steps_5.dita"/>
+                        <topicref href="topics/getting_help_5.dita"/>
+                        <topicref href="topics/resources_to_help_you_getting_started_5.dita"/>
+                    </topicref>
+                    <topicref href="topics/configuration_5.dita"/>
+                    <topicref href="topics/maintenance_5.dita"/>
+                    <topicref href="topics/working_with_the_product_4.dita"/>
+                    <topicref href="topics/troubleshooting_5.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/tools.dita">
+                <topicref href="topics/alfons.dita"/>
+                <topicref href="topics/starter_kit.dita"/>
+                <topicref href="topics/flow_designer.dita"/>
+                <topicref href="topics/camunda.dita"/>
+                <topicref href="topics/configurator.dita"/>
+                <topicref href="topics/sdk_for_ios_and_android.dita"/>
+                <topicref href="topics/figma.dita"/>
+                <topicref href="topics/service_proxy.dita"/>
+                <topicref href="topics/ci_cd.dita"/>
+                <topicref href="topics/config_player.dita"/>
+            </topicref>
+        </topicref>
     </topicref>
     <topicref href="topics/rights_to_do_tasks.dita">
+        <topicref href="topics/rsigning_role_s_rights.dita"/>
+        <topicref href="topics/rsigning_rules.dita"/>
         <topicref href="topics/operation_rigths.dita">
             <topicref href="topics/right_1.dita"/>
-            <topicref href="topics/right_2.dita"/>
-            <topicref href="topics/right_3.dita"/>
+            <topicref href="topics/right_2.dita">
+                <topicref href="topics/right_3.dita"/>
+            </topicref>
         </topicref>
         <topicref href="topics/data_and_dto_access_levels.dita">
             <topicref href="topics/low_access_level.dita"/>
@@ -485,6 +488,7 @@
             <topicref href="topics/create_right.dita"/>
         </topicref>
         <topicref href="topics/channels_rights.dita">
+            <topicref href="topics/ftbranch_location.dita"/>
             <topicref href="topics/internet_banking_right.dita"/>
             <topicref href="topics/mobile_banking_right.dita"/>
         </topicref>
@@ -532,7 +536,6 @@
                 <topicref href="topics/privat_clients_ui_workspace.dita">
                     <topicref href="topics/introduction_page_overview.dita"/>
                     <topicref href="topics/privat_clients_accounts_ui_page.dita"/>
-                    <topicref href="topics/privat_clients_forein_accouts_ui_page.dita"/>
                     <topicref href="topics/privart_clients_oders.dita"/>
                     <topicref href="topics/privat_clients_cards_ui_page.dita"/>
                 </topicref>
@@ -696,6 +699,290 @@
         </topicref>
         <topicref href="topics/functional_tasks.dita">
             <topicref href="topics/admin_tasks.dita">
+                <topicref href="topics/ftsystem_administration_ft01_01.dita">
+                    <topicref href="topics/ftsystem_administration_ft01_01_0.dita">
+                        <topicref href="topics/ftview_list_of_system_parameters_ft01_01_01.dita"/>
+                        <topicref href="topics/ftedit_system_parameter_ft01_01_02.dita"/>
+                        <topicref href="topics/ftsystem_parameters_filtering_ft01_01_03.dita"/>
+                    </topicref>
+                    <topicref href="topics/ftcatalogs_administration_ft01_02.dita">
+                        <topicref href="topics/ftview_list_of_catalogs_ft01_02_01.dita"/>
+                        <topicref href="topics/ftview_catalog_structure_ft01_02_02.dita"/>
+                        <topicref href="topics/ftcatalog_list_filtering_ft01_02_03.dita"/>
+                        <topicref href="topics/ftedit_catalog_values_ft01_02_04.dita"/>
+                        <topicref href="topics/ftadd_catalog_value_ft01_02_05.dita"/>
+                        <topicref href="topics/ftremove_catalog_value_ft01_02_06.dita"/>
+                    </topicref>
+                    <topicref href="topics/ftjournal_administration_ft01_03.dita">
+                        <topicref href="topics/ftview_list_of_activities_ft01_03_01.dita"/>
+                        <topicref href="topics/ftview_detail_of_activities_ft01_03_02.dita"/>
+                        <topicref href="topics/ftactivities_filtering_ft01_03_03.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/ftsecurity_administration_ft01_02.dita">
+                    <topicref
+                        href="topics/ftset_up_limit_for_selected_authorization_method_ft01_02_01.dita"/>
+                    <topicref
+                        href="topics/ftedit_limit_for_selected_authorization_method_ft01_02_02.dita"/>
+                    <topicref
+                        href="topics/ftremove_limit_for_selected_authorization_method_ft01_02_03.dita"/>
+                    <topicref href="topics/ftview_list_of_security_elements_ft01_02_04.dita"/>
+                    <topicref href="topics/ftchange_username_ft01_02_05.dita"/>
+                    <topicref href="topics/ftreset_password_ft01_02_06.dita"/>
+                    <topicref href="topics/ftedit_phone_number_ft01_02_07.dita"/>
+                    <topicref href="topics/ftblock_unblock_security_element_ft01_02_08.dita"/>
+                    <topicref href="topics/ftassign_mtoken_ft01_02_09.dita"/>
+                    <topicref href="topics/ftremove_mtoken_ft01_02_10.dita"/>
+                    <topicref href="topics/ftsynchronize_mtoken_ft01_02_11.dita"/>
+                    <topicref href="topics/ftview_security_elements_history_ft01_02_12.dita"/>
+                    <topicref
+                        href="topics/ftblock_unblock_security_element_login_vasco_token_ft01_02_13.dita"/>
+                    <topicref href="topics/ftassign_vasco_token_ft01_02_14.dita"/>
+                    <topicref href="topics/ftremove_vasco_token_ft01_02_15.dita"/>
+                    <topicref href="topics/ftoperator_login_ft01_02_15.dita"/>
+                    <topicref href="topics/ftautomatic_logout_ft01_02_17.dita"/>
+                    <topicref href="topics/ftmanual_logout_by_operator_ft01_02_18.dita"/>
+                    <topicref href="topics/ftbulk_replication_of_operators_ft01_02_19.dita"/>
+                </topicref>
+                <topicref href="topics/ftrights_adminisrtations_ft01_03.dita">
+                    <topicref href="topics/ftsigning_rights_ft01_03_01.dita">
+                        <topicref href="topics/ftcreate_new_signing_role_ft01_03_01_01.dita"/>
+                        <topicref href="topics/ftremove_signing_role_ft01_03_01_02.dita"/>
+                        <topicref
+                            href="topics/ftview_list_of_signing_roles_assigned_to_client_ft01_03_01_03.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/ftchannel_rights_ft01_03_02.dita">
+                        <topicref
+                            href="topics/ftview_list_of_signing_rules_assigned_to_client_ft01_03_02_01.dita"/>
+                        <topicref href="topics/ftsigning_rules_filtering_ft01_03_02_02.dita"/>
+                        <topicref href="topics/ftcreate_new_signing_rule_ft01_03_02_03.dita"/>
+                        <topicref href="topics/ftedit_signing_rule_ft01_03_02_04.dita"/>
+                        <topicref href="topics/ftremove_signing_rule_ft01_03_02_05.dita"/>
+                        <topicref href="topics/ftsigning_rule_check_ft01_03_02_06.dita"/>
+                        <topicref href="topics/ftsigning_rule_blocking_automatic_ft01_03_02_07.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/ftproduct_rights_ft01_03_03.dita">
+                        <topicref
+                            href="topics/ftcreate_rights_profile_for_selected_product_ft01_03_03_01.dita"/>
+                        <topicref
+                            href="topics/ftedit_rights_profile_for_selected_product_ft01_03_03_02.dita"/>
+                        <topicref
+                            href="topics/ftremove_rights_profile_for_selected_product_ft01_03_03_03.dita"/>
+                        <topicref
+                            href="topics/ftswitch_to_alternative_right_profile_view_ft01_03_03_04.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/ftoperation_rights_ft01_03_04.dita">
+                        <topicref
+                            href="topics/ftcreate_rights_profile_for_selected_operation_ft01_03_04_01_0.dita"/>
+                        <topicref
+                            href="topics/ftedit_rights_profile_for_selected_operation_ft01_03_04_02.dita"/>
+                        <topicref
+                            href="topics/ftremove_rights_profile_for_selected_operation_ft01_03_04_03.dita"/>
+                        <topicref
+                            href="topics/ftswitch_to_alternative_right_profile_view_ft01_03_04_04.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/ftcannel_rights.dita">
+                        <topicref
+                            href="topics/ftcreate_rights_profile_for_selected_channel_ft01_03_05_01.dita"/>
+                        <topicref
+                            href="topics/ftedit_rights_profile_for_selected_channel_ft01_03_05_01.dita"/>
+                        <topicref
+                            href="topics/ftremove_rights_profile_for_selected_channel_ft01_03_05_01.dita"/>
+                        <topicref
+                            href="topics/ftswitch_to_alternative_right_profile_view_ft01_03_05_01.dita"
+                        />
+                    </topicref>
+                </topicref>
+                <topicref href="topics/ftoperator_administration_ft01_04.dita">
+                    <topicref href="topics/ftoperator_administration_ft01_04_02.dita">
+                        <topicref href="topics/ftadd_operator_ft01_04_02_07.dita"/>
+                        <topicref href="topics/ftview_list_of_operators_ft01_04_02_01.dita"/>
+                        <topicref href="topics/ftview_operator_detail_ft01_04_02_02.dita"/>
+                        <topicref href="topics/ftoperator_list_filtering_ft01_04_02_03.dita"/>
+                        <topicref href="topics/ftedit_operator_ft01_04_02_04.dita"/>
+                        <topicref href="topics/ftblock_operator_ft01_04_02_05.dita"/>
+                        <topicref href="topics/ftremove_operator_ft01_04_02_06.dita"/>
+                    </topicref>
+                    <topicref href="topics/ftoperator_roles_ft01_04_01.dita">
+                        <topicref href="topics/ftview_list_of_operator_roles_ft01_04_01_01_0.dita"/>
+                        <topicref href="topics/ftview_detail_of_operator_s_role_ft01_04_01_02.dita"/>
+                        <topicref href="topics/ftoperator_roles_list_filtering_ft01_04_01_03.dita"/>
+                        <topicref href="topics/ftcreate_operator_role_ft01_04_01_04.dita"/>
+                        <topicref href="topics/ftremove_operator_role_ft01_04_01_05.dita"/>
+                        <topicref
+                            href="topics/ftview_list_of_operators_within_selected_role_ft01_04_01_06.dita"/>
+                        <topicref href="topics/ftblock_operator_s_role_ft01_04_01_07.dita"/>
+                        <topicref href="topics/ftunblock_operator_s_role_ft01_04_01_08.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/ftproduct_administration_ft01_05.dita">
+                    <topicref href="topics/ftcreate_product_manually_ft01_05_01.dita"/>
+                    <topicref
+                        href="topics/ftassign_existing_product_of_other_client_ft01_05_02.dita"/>
+                    <topicref href="topics/ftactivate_product_for_client_channels_ft01_05_03.dita"/>
+                    <topicref href="topics/ftblock_product_for_client_channels_ft01_05_04.dita"/>
+                    <topicref href="topics/ftremove_product_ft01_05_05.dita"/>
+                    <topicref href="topics/ftedit_product_limit_ft01_05_06.dita"/>
+                    <topicref href="topics/ftcancel_product_limit_ft01_05_07.dita"/>
+                    <topicref
+                        href="topics/ftswitch_alternative_user_product_overview_ft01_05_08.dita"/>
+                    <topicref href="topics/ftcard_products_filtering_ft01_05_09.dita"/>
+                    <topicref href="topics/ftdisplay_client_print_preview_ft01_05_10.dita"/>
+                    <topicref href="topics/ftdisplay_internal_print_preview_ft01_05_11.dita"/>
+                </topicref>
+                <topicref href="topics/ftchannel_administration_ft01_06.dita">
+                    <topicref href="topics/ftinternet_banking_ft01_06_01.dita"/>
+                    <topicref href="topics/ftmobile_banking_ft01_06_02.dita"/>
+                    <topicref href="topics/ftbranch_ft01_06_03.dita"/>
+                </topicref>
+                <topicref href="topics/ft3rd_party_system_administration_psd2_ft01_07.dita">
+                    <topicref href="topics/ftview_list_of_3rd_party_consents_ft01_07_01.dita"/>
+                    <topicref href="topics/ftcancel_remove_3rd_party_consent_ft01_07_02.dita"/>
+                </topicref>
+                <topicref href="topics/ftclient_administration_ft01_08.dita">
+                    <topicref href="topics/ftclient_ft01_08_01.dita">
+                        <topicref href="topics/ftsearch_client.dita"/>
+                        <topicref href="topics/ftcreate_new_client_manually.dita"/>
+                        <topicref href="topics/ftcreate_new_client_by_import_from_crm.dita"/>
+                        <topicref href="topics/ftautomatic_client_access_setup.dita"/>
+                        <topicref href="topics/ftview_client_detail.dita"/>
+                        <topicref href="topics/ftupdate_client_data_from_crm.dita"/>
+                        <topicref href="topics/ftremove_client.dita"/>
+                        <topicref href="topics/ftview_client_contacts.dita"/>
+                        <topicref
+                            href="topics/ftsynchronize_client_contacts_with_external_system.dita"/>
+                        <topicref href="topics/ftview_list_of_client_behaviors.dita"/>
+                        <topicref href="topics/ftedit_client_behavior.dita"/>
+                        <topicref href="topics/ftswitch_alternative_client_rights_view.dita"/>
+                        <topicref href="topics/ftedit_client_rights.dita"/>
+                        <topicref href="topics/ftview_list_of_available_client_channels.dita"/>
+                        <topicref href="topics/ftadd_new_client_channel.dita"/>
+                        <topicref href="topics/ftremove_client_channel.dita"/>
+                        <topicref href="topics/ftactivate_client_channel.dita"/>
+                        <topicref href="topics/ftdeactivate_client_channel.dita"/>
+                        <topicref href="topics/ftset_rights_for_client_channel.dita"/>
+                        <topicref href="topics/ftedit_rights_for_client_channel.dita"/>
+                    </topicref>
+                    <topicref href="topics/ftuser_ft01_08_02.dita">
+                        <topicref href="topics/ftsearch_user_ft01_08_02_01.dita"/>
+                        <topicref href="topics/ftview_list_of_users_ft01_08_02_02.dita"/>
+                        <topicref
+                            href="topics/ftview_list_of_users_for_selected_client_ft01_08_02_03.dita"/>
+                        <topicref href="topics/ftcreate_user_manually_ft01_08_02_04.dita"/>
+                        <topicref
+                            href="topics/ftcreate_new_user_by_import_from_crm_ft01_08_02_05.dita"/>
+                        <topicref href="topics/ftview_user_detail_ft01_08_02_06.dita"/>
+                        <topicref href="topics/ftupdate_user_s_data_from_crm_ft01_08_02_07.dita"/>
+                        <topicref href="topics/ftblock_user_within_client_ft01_08_02_08.dita"/>
+                        <topicref href="topics/ftactivate_user_within_client_ft01_08_02_09.dita"/>
+                        <topicref href="topics/ftremove_user_ft01_08_02_10.dita"/>
+                        <topicref href="topics/ftadd_profile_to_user_ft01_08_02_11.dita"/>
+                        <topicref href="topics/ftadd_role_to_user_ft01_08_02_12.dita"/>
+                        <topicref
+                            href="topics/ftadd_security_authentication_method_ft01_08_02_13.dita"/>
+                        <topicref
+                            href="topics/ftadd_security_authorization_method_to_sign_requests_ft01_08_02_14.dita"/>
+                        <topicref href="topics/ftactivate_channel_access_ft01_08_02_15.dita"/>
+                        <topicref href="topics/ftblock_channel_access_ft01_08_02_16.dita"/>
+                    </topicref>
+                    <topicref href="topics/fton_behalf_client_ft01_08_03.dita">
+                        <topicref
+                            href="topics/ftswitching_from_admin_console_to_ibs_under_selected_user_passive_view.dita"/>
+                        <topicref
+                            href="topics/ftswitching_from_admin_console_to_ibs_under_selected_user_active_view.dita"/>
+                        <topicref
+                            href="topics/ftevaluation_of_operators_rights_within_client_s_ibs.dita"/>
+                        <topicref
+                            href="topics/ftdata_about_operator_s_loggin_in_user_s_ibs_stored_in_journal.dita"/>
+                        <topicref href="topics/ftview_info_about_access_type_in_ibs_screen.dita"/>
+                        <topicref href="topics/ftswitch_client_context.dita"/>
+                        <topicref href="topics/ftcreate_request_onbehalf_of_client.dita"/>
+                        <topicref href="topics/ftclient_onbehalf_request_authorization.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/ftcomunication_administration_ft01_09.dita">
+                    <topicref href="topics/ftview_list_of_incomming_messages_ft01_09_01.dita"/>
+                    <topicref
+                        href="topics/ftview_detail_of_messages_incomming_outgoing_ft01_09_02.dita"/>
+                    <topicref href="topics/ftview_list_of_outgoing_messages_ft01_09_03.dita"/>
+                    <topicref href="topics/ftincomming_messages_filtering_ft01_09_04.dita"/>
+                    <topicref href="topics/ftoutgoing_messages_filtering_ft01_09_05.dita"/>
+                    <topicref href="topics/ftreply_to_incomming_message_ft01_09_06.dita"/>
+                    <topicref href="topics/ftcreate_new_message_ft01_09_07.dita"/>
+                    <topicref href="topics/ftdelete_message_ft01_09_08.dita"/>
+                    <topicref href="topics/ftselect_message_recipient_ft01_09_09.dita"/>
+                </topicref>
+                <topicref href="topics/ftmarketing_administration_ft01_10.dita">
+                    <topicref href="topics/ftmarketing_offer_rules_ft01_10_01.dita">
+                        <topicref href="topics/ftview_list_of_decision_tables_ft01_10_01_01.dita"/>
+                        <topicref href="topics/ftdecision_tables_list_filtering_ft01_10_01_02.dita"/>
+                        <topicref href="topics/ftview_detail_of_decision_table_ft01_10_01_03.dita"/>
+                        <topicref href="topics/ftdownload_decision_table_file_ft01_10_01_04.dita"/>
+                        <topicref href="topics/ftdelete_decision_table_ft01_10_01_05.dita"/>
+                        <topicref href="topics/ftedit_decision_table_ft01_10_01_06.dita"/>
+                        <topicref href="topics/ftcreate_decision_table_ft01_10_01_07.dita"/>
+                        <topicref href="topics/ftview_list_of_created_tests_ft01_10_01_08.dita"/>
+                        <topicref href="topics/fttests_filtering_ft01_10_01_09.dita"/>
+                        <topicref
+                            href="topics/ftdownload_initial_test_configuration_ft01_10_01_10.dita"/>
+                        <topicref href="topics/ftcreate_new_test_ft01_10_01_11.dita"/>
+                    </topicref>
+                    <topicref href="topics/ftmarketing_offer_anouncement_ft01_10_02.dita">
+                        <topicref href="topics/ftview_list_of_banners_ft01_10_02_01.dita"/>
+                        <topicref href="topics/ftview_banner_detail_ft01_10_02_02.dita"/>
+                        <topicref href="topics/ftcreate_new_banner_ft01_10_02_03.dita"/>
+                        <topicref href="topics/ftedit_banner_ft01_10_02_04.dita"/>
+                        <topicref href="topics/ftview_list_of_images_and_videos_ft01_10_02_05.dita"/>
+                        <topicref href="topics/ftview_detail_of_image_or_video_ft01_10_02_06.dita"/>
+                        <topicref href="topics/ftupload_new_image_or_video_ft01_10_02_07.dita"/>
+                        <topicref href="topics/ftedit_image_or_video_ft01_10_02_08.dita"/>
+                        <topicref href="topics/ftdelete_editor_ft01_10_02_09.dita"/>
+                        <topicref href="topics/ftadd_editor_ft01_10_02_010.dita"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="topics/security_tasks.dita"/>
+            <topicref href="topics/business_tasks.dita">
+                <topicref href="topics/notifications.dita"/>
+                <topicref href="topics/communication.dita">
+                    <topicref href="topics/common.dita">
+                        <topicref href="topics/start_instant_chat_with_banker.dita"/>
+                    </topicref>
+                    <topicref href="topics/bank_messages.dita">
+                        <topicref href="topics/view_list_of_incoming_internal_messages.dita"/>
+                        <topicref href="topics/view_list_of_outgoing_internal_messages.dita"/>
+                        <topicref href="topics/view_message_details.dita"/>
+                        <topicref href="topics/create_and_send_internal_message.dita"/>
+                        <topicref href="topics/reply_to_incoming_internal_messages.dita"/>
+                        <topicref href="topics/remove_message.dita"/>
+                    </topicref>
+                    <topicref href="topics/assistance_and_complaints.dita">
+                        <topicref
+                            href="topics/entering_requests_for_assistance_information_or_complaints.dita"/>
+                        <topicref href="topics/search_filter_a_complaint.dita"/>
+                        <topicref href="topics/monitoring_of_support.dita"/>
+                        <topicref href="topics/confirmation_resolution_rating.dita"/>
+                    </topicref>
+                    <topicref href="topics/document_management.dita">
+                        <topicref href="topics/view_list_of_documents.dita"/>
+                        <topicref href="topics/view_document_detail.dita"/>
+                        <topicref href="topics/download_document.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/authentication.dita">
+                    <topicref href="topics/login_with_login_name_password.dita"/>
+                    <topicref href="topics/login_with_login_name_password_sms_otp.dita"/>
+                    <topicref href="topics/perform_auto_logout.dita"/>
+                    <topicref href="topics/change_password.dita"/>
+                    <topicref href="topics/initial_password_change.dita"/>
+                </topicref>
+                <topicref href="topics/authorization.dita">
+                    <topicref href="topics/authorize_request_with_sms_otp.dita"/>
+                </topicref>
                 <topicref href="topics/dashboard.dita">
                     <topicref href="topics/accounts_common_0.dita">
                         <topicref
@@ -716,20 +1003,6 @@
                     </topicref>
                 </topicref>
                 <topicref href="topics/client_administration.dita"/>
-            </topicref>
-            <topicref href="topics/security_tasks.dita">
-                <topicref href="topics/authentication.dita">
-                    <topicref href="topics/login_with_login_name_password.dita"/>
-                    <topicref href="topics/login_with_login_name_password_sms_otp.dita"/>
-                    <topicref href="topics/perform_auto_logout.dita"/>
-                    <topicref href="topics/change_password.dita"/>
-                    <topicref href="topics/initial_password_change.dita"/>
-                </topicref>
-                <topicref href="topics/authorization.dita">
-                    <topicref href="topics/authorize_request_with_sms_otp.dita"/>
-                </topicref>
-            </topicref>
-            <topicref href="topics/business_tasks.dita">
                 <topicref href="topics/untitled19.dita">
                     <topicref href="topics/functional_tasks_list.dita"/>
                     <topicref href="topics/business_tasks_1.dita">
@@ -1085,34 +1358,7 @@
                     </topicref>
                 </topicref>
             </topicref>
-            <topicref href="topics/comunication_tasks.dita">
-                <topicref href="topics/notifications.dita"/>
-                <topicref href="topics/communication.dita">
-                    <topicref href="topics/common.dita">
-                        <topicref href="topics/start_instant_chat_with_banker.dita"/>
-                    </topicref>
-                    <topicref href="topics/bank_messages.dita">
-                        <topicref href="topics/view_list_of_incoming_internal_messages.dita"/>
-                        <topicref href="topics/view_list_of_outgoing_internal_messages.dita"/>
-                        <topicref href="topics/view_message_details.dita"/>
-                        <topicref href="topics/create_and_send_internal_message.dita"/>
-                        <topicref href="topics/reply_to_incoming_internal_messages.dita"/>
-                        <topicref href="topics/remove_message.dita"/>
-                    </topicref>
-                    <topicref href="topics/assistance_and_complaints.dita">
-                        <topicref
-                            href="topics/entering_requests_for_assistance_information_or_complaints.dita"/>
-                        <topicref href="topics/search_filter_a_complaint.dita"/>
-                        <topicref href="topics/monitoring_of_support.dita"/>
-                        <topicref href="topics/confirmation_resolution_rating.dita"/>
-                    </topicref>
-                    <topicref href="topics/document_management.dita">
-                        <topicref href="topics/view_list_of_documents.dita"/>
-                        <topicref href="topics/view_document_detail.dita"/>
-                        <topicref href="topics/download_document.dita"/>
-                    </topicref>
-                </topicref>
-            </topicref>
+            <topicref href="topics/comunication_tasks.dita"/>
             <topicref href="topics/report_and_analysys_tasks.dita"/>
             <topicref href="topics/management_tasks.dita"/>
             <topicref href="topics/dbos_maintenance_tasks.dita"/>
@@ -1181,18 +1427,8 @@
     </topicref>
     <topicref href="topics/dto_sources.dita">
         <topicref href="topics/dto_types.dita"/>
-        <topicref href="topics/dto_for_admin_dbos_functions.dita">
-            <topicref href="topics/dto_admin_list.dita"/>
-            <topicref href="topics/dto_admin_1.dita"/>
-            <topicref href="topics/dto_admin_2.dita"/>
-            <topicref href="topics/dto_admin_3.dita"/>
-        </topicref>
-        <topicref href="topics/dto_for_security_functions.dita">
-            <topicref href="topics/dto_security_list.dita"/>
-            <topicref href="topics/dto_security_1.dita"/>
-            <topicref href="topics/dto_security_2.dita"/>
-            <topicref href="topics/dto_security_3.dita"/>
-        </topicref>
+        <topicref href="topics/dto_for_admin_dbos_functions.dita"/>
+        <topicref href="topics/dto_for_security_functions.dita"/>
         <topicref href="topics/dto_for_business_functions.dita">
             <topicref href="topics/dto_for_category_account_managing.dita">
                 <topicref href="topics/dto_for_task_new_payment.dita">
@@ -1222,15 +1458,7 @@
                     <topicref href="topics/dto_for_step_run_the_payment_order.dita"/>
                     <topicref href="topics/dto_for_step_open_chat_with_payment_ai_assistant.dita"/>
                 </topicref>
-                <topicref href="topics/dto_for_task_searching_for_transactions_history.dita">
-                    <topicref href="topics/dto_for_step_filtering_transactions_title.dita"/>
-                    <topicref href="topics/dto_for_step_filtering_amount.dita"/>
-                    <topicref href="topics/dto_for_step_filtering_date.dita"/>
-                    <topicref href="topics/dto_for_step_filtering_highlighted_transactions.dita"/>
-                    <topicref href="topics/dto_for_step_filtering_incoming_transactions.dita"/>
-                    <topicref href="topics/dto_for_step_filtering_outgoing_transactions.dita"/>
-                    <topicref href="topics/dto_for_step_search_running.dita"/>
-                </topicref>
+                <topicref href="topics/dto_for_task_searching_for_transactions_history.dita"/>
                 <topicref href="topics/dto_for_task_making_donations.dita"/>
                 <topicref href="topics/dto_for_task_making_transaction_statements.dita"/>
                 <topicref href="topics/dto_for_task_setting_standing_orders.dita"/>
@@ -1243,30 +1471,10 @@
                 <topicref href="topics/dto_for_task_contacting_help_desk.dita"/>
             </topicref>
         </topicref>
-        <topicref href="topics/dto_for_communication_functions.dita">
-            <topicref href="topics/dto_communication_list.dita"/>
-            <topicref href="topics/dto_communication_1.dita"/>
-            <topicref href="topics/dto_communication_2.dita"/>
-            <topicref href="topics/dto_communication_3.dita"/>
-        </topicref>
-        <topicref href="topics/dto_for_report_and_analysys_functions.dita">
-            <topicref href="topics/dto_report_list.dita"/>
-            <topicref href="topics/dto_report_1.dita"/>
-            <topicref href="topics/dto_report_2.dita"/>
-            <topicref href="topics/dto_report_3.dita"/>
-        </topicref>
-        <topicref href="topics/dto_for_management_functions.dita">
-            <topicref href="topics/dto_management_list.dita"/>
-            <topicref href="topics/dto_management_1.dita"/>
-            <topicref href="topics/dto_management_2.dita"/>
-            <topicref href="topics/dto_management_3.dita"/>
-        </topicref>
-        <topicref href="topics/dto_for_dbos_maintenance_functions.dita">
-            <topicref href="topics/dbo_maint_list.dita"/>
-            <topicref href="topics/dbo_maint_1.dita"/>
-            <topicref href="topics/dbo_maint_2.dita"/>
-            <topicref href="topics/dbo_maint_3.dita"/>
-        </topicref>
+        <topicref href="topics/dto_for_communication_functions.dita"/>
+        <topicref href="topics/dto_for_report_and_analysys_functions.dita"/>
+        <topicref href="topics/dto_for_management_functions.dita"/>
+        <topicref href="topics/dto_for_dbos_maintenance_functions.dita"/>
     </topicref>
     <topicref href="topics/data_sources.dita">
         <topicref href="topics/all_sources_data_list.dita"/>

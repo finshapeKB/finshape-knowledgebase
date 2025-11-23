@@ -2,10 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="product_tasks">
     <title>Product tasks</title>
-    <shortdesc>Product Tasks are tasks which Finshape handle to design, produce, sale, deliver and
-        putting its products to use. Product domain tasks are divided into types. Product task types
-        are associated with enterprise processes. Each task type may have subtypes. </shortdesc>
-    <body>
-        <p></p>
-    </body>
+    <shortdesc>Product Tasks is a domain that comprises all tasks which manufacturer employees
+        handle to design, produce, sale, deliver and putting its products to use. Product task types
+        are associated with enterprise processes and are divided into types. Each task type may have
+        subtypes. </shortdesc>
+    <body/>
 </topic>

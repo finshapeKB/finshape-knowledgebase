@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ftclient_onbehalf_request_authorization">
+    <title>Client OnBehalf Request Authorization</title>
+    <shortdesc>Operator ask client to certify request using his preset security element (mToken -
+        confirm using mobile app, SMS - dictate the code) </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

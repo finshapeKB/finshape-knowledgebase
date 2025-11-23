@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="dto_types">
-    <title>DTO types</title>
-    <shortdesc>DTO types are business categories that were made by dividing all business tasks to an
-        understandable logic groups. Business tasks and steps have the same types.</shortdesc>
+    <title>Data object types</title>
+    <shortdesc>Data object (DO) types are categories that were made by dividing all Functional tasks
+        to an understandable logic groups. Data objects are divided into types and subtypes the same
+        way as Functional tasks and Steps do to simplify their interconnection and relationship
+        understanding. </shortdesc>
     <body>
-        <p>We assume DTO types with the same way as Tasks and Steps to simplify their
-            interconnection and relationship understanding. Types in turns may be divided to the
-            subtypes.</p>
+        <p>Data objects (DO) types are:</p>
         <p>
             <dl id="dl_qmx_rx1_1hc">
                 <dlentry>
-                    <dt>DTO for admin DBOS functions</dt>
+                    <dt><xref href="dto_for_admin_dbos_functions.dita"/></dt>
                     <dd/>
                 </dlentry>
             </dl>
         </p>
         <dl id="dl_dxt_wx1_1hc">
             <dlentry>
-                <dt>DTO for security functions</dt>
+                <dt><xref href="dto_for_security_functions.dita"/></dt>
                 <dd/>
             </dlentry>
         </dl>
         <dl id="dl_wh1_xx1_1hc">
             <dlentry>
-                <dt>DTO for business functions</dt>
+                <dt><xref href="dto_for_business_functions.dita"/></dt>
                 <dd/>
             </dlentry>
         </dl>
         <dl id="dl_fz4_xx1_1hc">
             <dlentry>
-                <dt>DTO for communication functions</dt>
+                <dt><xref href="dto_for_communication_functions.dita"/></dt>
                 <dd/>
             </dlentry>
         </dl>
         <dl id="dl_pdf_dy1_1hc">
             <dlentry>
-                <dt>DTO for report and analysis functions</dt>
+                <dt><xref href="dto_for_report_and_analysys_functions.dita"/></dt>
                 <dd/>
             </dlentry>
         </dl>
         <dl id="dl_ytd_gy1_1hc">
             <dlentry>
-                <dt>DTO for management functions</dt>
+                <dt><xref href="dto_for_management_functions.dita"/></dt>
                 <dd/>
             </dlentry>
         </dl>
         <dl id="dl_v5r_hy1_1hc">
             <dlentry>
-                <dt>DTO for DBOS maintenance functions</dt>
+                <dt><xref href="dto_for_dbos_maintenance_functions.dita"/></dt>
                 <dd/>
             </dlentry>
         </dl>

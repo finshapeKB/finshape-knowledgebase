@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ftswitch_client_context">
+    <title>Switch Client Context</title>
+    <shortdesc>if user is allowed to switch among several clients AND OnBehalf mode is set for these
+        clients THEN system enable client context switch to operator </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

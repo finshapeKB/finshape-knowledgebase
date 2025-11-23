@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ftsigning_rule_check_ft01_03_02_06">
+    <title>Signing Rule Check: FT01.03.02.06</title>
+    <shortdesc>Evaluation of created signing rule - if it fits the DISPO model, if its functional,
+        partly functional, non-functional for given users within given client </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

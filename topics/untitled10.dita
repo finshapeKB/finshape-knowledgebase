@@ -2,19 +2,19 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="untitled10">
     <title>Task types</title>
-    <shortdesc>Task types were defined to ease understanding their business nature. From the
-        business point of view we may divide all possible tasks into separate domains: Functional
-        Tasks and Product tasks. Tasks are divided into types within each domain and may be divided
-        into subtypes.</shortdesc>
+    <shortdesc>Tasks domains, types and subtypes were defined to ease understanding software product
+        features, and what benefits they provide to a software user. From the business point of view
+        we may divide all possible tasks into separate domains: Functional Tasks and Product tasks.
+        Tasks are divided into types within each domain and may be divided into
+        subtypes.</shortdesc>
     <body>
-        <p>Functional Tasks domain comprises all banking tasks which bank employees and their
-            clients handle using DBOS. Moreover this domain comprises all tasks that are need to be
-            done to install and maintenance DBOS and front-end applications. Functional domain tasks
-            are divided into seven types, each task type may have subtypes. Example, Functional
-            tasks/Business tasks/Payment tasks/... </p>
-        <p>Product Tasks domain comprises all tasks which manufacturer handle to design, produce,
-            sale, deliver and putting its products to use. Product domain tasks are divided into
-            types. Product task types are associated with enterprise processes. Each task type may
-            have subtypes. </p>
+        <p>Functional Tasks domain comprises all tasks that are related to installing, maintenance
+            and using software products by bank employees and their clients. Functional tasks are
+            handled by bank employees and their clients. Functional domain tasks are divided into
+            seven types, each task type may have subtypes. </p>
+        <p>Product Tasks domain comprises all tasks which manufacturer employees handle to design,
+            produce, sale, deliver and putting its products to use. Product task types are
+            associated with enterprise processes and are divided into types. Each task type may have
+            subtypes. </p>
     </body>
 </topic>

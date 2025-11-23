@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="bank_s_privat_client_app_ui">
-    <title>Workspaces for Private Client (Retail)</title>
-    <shortdesc>Workspace for Private Client is a desktop or a mobile UI starting page that is
-        designed for Private Client role. The workspace is opened as Private Clients login to the
-        internet banking application. Private Clients manage their banking operations within
-        workspace.</shortdesc>
+    <title>Workspaces for Retail Client (Retail)</title>
+    <shortdesc>Workspace for Retail Client is a desktop or a mobile UI page that is opened as Retail
+        Clients login to the internet banking application. Retail Clients manage their banking
+        operations within workspace.</shortdesc>
     <body>
         <p>This section contains examples of existing Internet banking application - ČSOB. To make
-            examples relevant, screenshots and videos should be taken from Starter Kit and/or
-            Onboarding application (see Finshape's website). <fig id="fig_lhv_1lq_jhc">
+            examples relevant to Finshape products, screenshots and videos should be taken from
+            Starter Kit and/or Onboarding application (see Finshape's website). <fig
+                id="fig_lhv_1lq_jhc">
                 <image href="../images/demo.jpg" id="image_f4k_clq_jhc"/>
             </fig></p>
     </body>

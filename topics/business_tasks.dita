@@ -2,7 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="business_tasks">
     <title>Business Tasks: FT03</title>
+    <shortdesc>Business Functional tasks comprise tasks related to Operator, Corporate Clients, and
+        Retail Clients Roles and refer to bank Clients, bank Products, Channels etc.</shortdesc>
     <body>
-        <p></p>
+        <p>All tasks within this section are real Finshape Functional tasks that Business Analysts
+            working with. The tasks, if needed, may be reviewed from the point of their types to
+            ease their understanding for all Finshape employees. See also <xref
+                href="admin_tasks.dita"/></p>
     </body>
 </topic>

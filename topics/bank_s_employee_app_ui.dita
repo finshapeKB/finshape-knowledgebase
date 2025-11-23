@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="bank_s_employee_app_ui">
-    <title>Workspaces for Bank's Employee (WAC)</title>
+    <title>Workspaces for Bank's Employees</title>
     <shortdesc>Bank's Employee workspace is a desktop page that is opened as bank's employees log in
-        to their banking application. Bank's Employee manage their banking operations using Roles,
-        so each role may have it's own workspace.</shortdesc>
+        to their banking application. Bank's Employee manage their banking operations using role
+        rights, so each role may have it's own role specific workspace.</shortdesc>
 </topic>

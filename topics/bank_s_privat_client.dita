@@ -2,9 +2,8 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="bank_s_privat_client">
     <title>Bank's Retail Client </title>
-    <shortdesc>Bank's Private Client is the only role that may use internet banking application for
-        the bank's private clients. That means that private clients must handle their banking
-        operations themselves.</shortdesc>
+    <shortdesc>Bank's Retail Client role is a defined set of functional tasks, that a person is
+        expected to handle within the internet banking application. </shortdesc>
     <body>
         <p>
             <table frame="-dita-use-conref-target" id="table_wjg_nkm_3hc">

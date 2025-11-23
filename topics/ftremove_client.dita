@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ftremove_client">
+    <title>Remove Client</title>
+    <shortdesc>Only change of status, not physical removing. Client status changes to archived. In
+        case the same client is registered as new one, systém alerts that such a client had been
+        registered and ask if the client should be activated again. </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>

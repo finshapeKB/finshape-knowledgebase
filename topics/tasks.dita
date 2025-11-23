@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="tasks">
-    <title>Tasks</title>
-    <shortdesc>Task is a set of steps that have to be done to reach a specific result. </shortdesc>
+    <title>Use case vs Task</title>
+    <shortdesc>Use case from the user point of view is the specific result that the user want to
+        achieve by making some actions within software product.  As far as use case is a term mainly
+        used within software domain we may use more general term and establish Task entity. Task
+        entity is a set of steps that have to be done to reach a specific result. </shortdesc>
     <body>
-        <p>Each task is assigned to a specific Role and may be assigned to more than one Role. Each
-            Role handles its tasks using specific workspace. </p>
-        <p>Knowledge Base provides information and step by step guidance how to get information
-            within the table of content or using searching or AI wile handling the task. It doesn't
-            provide instructions of how to handle task as it is, just information you may need. </p>
+        <p>Task entity is provided to ease understanding software product features and what benefits
+            they provide to a software user. Task entity helps to understand relationships between
+            software feature, DBOS component, data, data sources from the one hand, and how software
+            features relates to GUI elements, such as UI workspace, UI pages, UI controls from the
+            other hand. Using mentioned above entities ontology relationships may be build. </p>
+        <p>Knowledge Base provides the information that may be needed to handle tasks and step by
+            step guidance how to get information within the table of content or using searching or
+            AI wile handling the task.  Knowledge Base doesn't provide instructions of how to handle
+            task as it is, just information you may need. </p>
     </body>
 </topic>

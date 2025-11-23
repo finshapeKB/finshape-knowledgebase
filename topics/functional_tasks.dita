@@ -2,12 +2,8 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="functional_tasks">
     <title>Functional tasks</title>
-    <shortdesc>Functional Tasks domain comprises all banking tasks which bank employees and their
-        clients handle using DBOS. Moreover this domain comprises all tasks that are need to be done
-        to install and maintenance DBOS and front-end applications. Functional domain tasks are
-        divided into seven types, each task type may have subtypes. Example, Functional
-        tasks/Business tasks/Payment tasks/...</shortdesc>
-    <body>
-        <p></p>
-    </body>
+    <shortdesc>Functional Tasks domain comprises all tasks that are related to installing,
+        maintenance and using software products by bank employees and their clients. Functional
+        tasks are handled by bank employees and their clients. Functional domain tasks are divided
+        into seven types, each task type may have subtypes. </shortdesc>
 </topic>
