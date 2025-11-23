@@ -1367,7 +1367,256 @@
     <topicref href="topics/functions_or_steps.dita">
         <topicref href="topics/function_types.dita"/>
         <topicref href="topics/functional_task_s_steps_tsf.dita">
-            <topicref href="topics/admin_operation_functions.dita"/>
+            <topicref href="topics/admin_operation_functions.dita">
+                <topicref href="topics/stepsystem_administration_ft01_01.dita">
+                    <topicref href="topics/stepsystem_administration_ft01_01_0.dita">
+                        <topicref href="topics/stepview_list_of_system_parameters_ft01_01_01.dita"/>
+                        <topicref href="topics/stepedit_system_parameter_ft01_01_02.dita"/>
+                        <topicref href="topics/stepsystem_parameters_filtering_ft01_01_03.dita"/>
+                    </topicref>
+                    <topicref href="topics/stepcatalogs_administration_ft01_02.dita">
+                        <topicref href="topics/stepview_list_of_catalogs_ft01_02_01.dita"/>
+                        <topicref href="topics/stepview_catalog_structure_ft01_02_02.dita"/>
+                        <topicref href="topics/stepcatalog_list_filtering_ft01_02_03.dita"/>
+                        <topicref href="topics/stepedit_catalog_values_ft01_02_04.dita"/>
+                        <topicref href="topics/stepadd_catalog_value_ft01_02_05.dita"/>
+                        <topicref href="topics/stepremove_catalog_value_ft01_02_06.dita"/>
+                    </topicref>
+                    <topicref href="topics/stepjournal_administration_ft01_03.dita">
+                        <topicref href="topics/stepview_list_of_activities_ft01_03_01.dita"/>
+                        <topicref href="topics/stepview_detail_of_activities_ft01_03_02.dita"/>
+                        <topicref href="topics/stepactivities_filtering_ft01_03_03.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/stepsecurity_method_administration_ft01_02.dita">
+                    <topicref
+                        href="topics/stepset_up_limit_for_selected_authorization_method_ft01_02_01.dita"/>
+                    <topicref
+                        href="topics/stepedit_limit_for_selected_authorization_method_ft01_02_02.dita"/>
+                    <topicref
+                        href="topics/stepremove_limit_for_selected_authorization_method_ft01_02_03.dita"/>
+                    <topicref href="topics/stepview_list_of_security_elements_ft01_02_04.dita"/>
+                    <topicref href="topics/stepchange_username_ft01_02_05.dita"/>
+                    <topicref href="topics/stepreset_password_ft01_02_06.dita"/>
+                    <topicref href="topics/stepedit_phone_number_ft01_02_07.dita"/>
+                    <topicref href="topics/stepblock_unblock_security_element_ft01_02_08.dita"/>
+                    <topicref href="topics/stepassign_mtoken_ft01_02_09.dita"/>
+                    <topicref href="topics/stepremove_mtoken_ft01_02_10.dita"/>
+                    <topicref href="topics/stepsynchronize_mtoken_ft01_02_11.dita"/>
+                    <topicref href="topics/stepview_security_elements_history_ft01_02_12.dita"/>
+                    <topicref
+                        href="topics/stepblock_unblock_security_element_login_vasco_token_ft01_02_13.dita"/>
+                    <topicref href="topics/stepassign_vasco_token_ft01_02_14.dita"/>
+                    <topicref href="topics/stepremove_vasco_token_ft01_02_15.dita"/>
+                    <topicref href="topics/stepoperator_login_ft01_02_15.dita"/>
+                    <topicref href="topics/stepautomatic_logout_ft01_02_17.dita"/>
+                    <topicref href="topics/stepmanual_logout_by_operator_ft01_02_18.dita"/>
+                    <topicref href="topics/stepbulk_replication_of_operators_ft01_02_19.dita"/>
+                </topicref>
+                <topicref href="topics/steprights_adminisrtations_ft01_03.dita">
+                    <topicref href="topics/stepsigning_roles_ft01_03_01.dita">
+                        <topicref href="topics/stepcreate_new_signing_role_ft01_03_01_01.dita"/>
+                        <topicref href="topics/stepremove_signing_role_ft01_03_01_02.dita"/>
+                        <topicref
+                            href="topics/stepview_list_of_signing_roles_assigned_to_client_ft01_03_01_03.dita"
+                        />
+                    </topicref>
+                    <topicref href="topics/stepsigning_rules_ft01_03_02.dita">
+                        <topicref
+                            href="topics/stepview_list_of_signing_rules_assigned_to_client_ft01_03_02_01.dita"/>
+                        <topicref href="topics/stepsigning_rules_filtering_ft01_03_02_02.dita"/>
+                        <topicref href="topics/stepcreate_new_signing_rule_ft01_03_02_03.dita"/>
+                        <topicref href="topics/stepedit_signing_rule_ft01_03_02_04.dita"/>
+                        <topicref href="topics/stepremove_signing_rule_ft01_03_02_05.dita"/>
+                        <topicref href="topics/stepsigning_rule_check_ft01_03_02_06.dita"/>
+                        <topicref
+                            href="topics/stepsigning_rule_blocking_automatic_ft01_03_02_07.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/stepproduct_rights_ft01_03_03.dita">
+                    <topicref
+                        href="topics/stepcreate_rights_profile_for_selected_product_ft01_03_03_01.dita"/>
+                    <topicref
+                        href="topics/stepedit_rights_profile_for_selected_product_ft01_03_03_02.dita"/>
+                    <topicref
+                        href="topics/stepremove_rights_profile_for_selected_product_ft01_03_03_03.dita"/>
+                    <topicref
+                        href="topics/stepswitch_to_alternative_right_profile_view_ft01_03_03_04.dita"
+                    />
+                </topicref>
+                <topicref href="topics/stepoperation_rights_ft01_03_04.dita">
+                    <topicref
+                        href="topics/stepcreate_rights_profile_for_selected_operation_ft01_03_04_01.dita"/>
+                    <topicref
+                        href="topics/stepedit_rights_profile_for_selected_operation_ft01_03_04_02.dita"/>
+                    <topicref
+                        href="topics/stepremove_rights_profile_for_selected_operation_ft01_03_04_03.dita"/>
+                    <topicref
+                        href="topics/stepswitch_to_alternative_right_profile_view_ft01_03_04_04.dita"
+                    />
+                </topicref>
+                <topicref href="topics/stepchannel_rights_ft01_03_05.dita">
+                    <topicref
+                        href="topics/stepcreate_rights_profile_for_selected_channel_ft01_03_05_01.dita"/>
+                    <topicref
+                        href="topics/stepedit_rights_profile_for_selected_channel_ft01_03_05_02.dita"/>
+                    <topicref
+                        href="topics/stepremove_rights_profile_for_selected_channel_ft01_03_05_03.dita"/>
+                    <topicref
+                        href="topics/stepswitch_to_alternative_right_profile_view_ft01_03_05_04.dita"
+                    />
+                </topicref>
+                <topicref href="topics/stepoperator_administration_ft01_04.dita">
+                    <topicref href="topics/stepoperator_administration_ft01_04_02.dita">
+                        <topicref href="topics/stepadd_operator_ft01_04_02_07.dita"/>
+                        <topicref href="topics/stepview_list_of_operators_ft01_04_02_01.dita"/>
+                        <topicref href="topics/stepview_operator_detail_ft01_04_02_02.dita"/>
+                        <topicref href="topics/stepoperator_list_filtering_ft01_04_02_03.dita"/>
+                        <topicref href="topics/stepedit_operator_ft01_04_02_04.dita"/>
+                        <topicref href="topics/stepblock_operator_ft01_04_02_05.dita"/>
+                        <topicref href="topics/stepremove_operator_ft01_04_02_06.dita"/>
+                    </topicref>
+                    <topicref href="topics/stepoperator_s_roles_administration_ft01_04_01.dita">
+                        <topicref href="topics/stepview_list_of_operator_roles_ft01_04_01_01.dita"/>
+                        <topicref
+                            href="topics/stepview_detail_of_operator_s_role_ft01_04_01_02.dita"/>
+                        <topicref href="topics/stepoperator_roles_list_filtering_ft01_04_01_03.dita"/>
+                        <topicref href="topics/stepcreate_operator_role_ft01_04_01_04.dita"/>
+                        <topicref href="topics/stepremove_operator_role_ft01_04_01_05.dita"/>
+                        <topicref
+                            href="topics/stepview_list_of_operators_within_selected_role_ft01_04_01_06.dita"/>
+                        <topicref href="topics/stepblock_operator_s_role_ft01_04_01_07.dita"/>
+                        <topicref href="topics/stepunblock_operator_s_role_ft01_04_01_08.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/stepproduct_administration_ft01_05.dita">
+                    <topicref href="topics/stepcreate_product_manually_ft01_05_01.dita"/>
+                    <topicref
+                        href="topics/stepassign_existing_product_of_other_client_ft01_05_02.dita"/>
+                    <topicref href="topics/stepactivate_product_for_client_channels_ft01_05_03.dita"/>
+                    <topicref href="topics/stepblock_product_for_client_channels_ft01_05_04.dita"/>
+                    <topicref href="topics/stepremove_product_ft01_05_05.dita"/>
+                    <topicref href="topics/stepedit_product_limit_ft01_05_06.dita"/>
+                    <topicref href="topics/stepcancel_product_limit_ft01_05_07.dita"/>
+                    <topicref
+                        href="topics/stepswitch_alternative_user_product_overview_ft01_05_08.dita"/>
+                    <topicref href="topics/stepcard_products_filtering_ft01_05_09.dita"/>
+                    <topicref href="topics/stepdisplay_client_print_preview_ft01_05_10.dita"/>
+                    <topicref href="topics/stepdisplay_internal_print_preview_ft01_05_11.dita"/>
+                </topicref>
+                <topicref href="topics/stepchannel_administration_ft01_06.dita">
+                    <topicref href="topics/stepinternet_banking_ft01_06_01.dita"/>
+                    <topicref href="topics/stepmobile_banking_ft01_06_02.dita"/>
+                    <topicref href="topics/stepbranch_ft01_06_03.dita"/>
+                </topicref>
+                <topicref href="topics/step3rd_party_system_administration_psd2_ft01_07.dita">
+                    <topicref href="topics/stepview_list_of_3rd_party_consents_ft01_07_01.dita"/>
+                    <topicref href="topics/stepcancel_remove_3rd_party_consent_ft01_07_02.dita"/>
+                </topicref>
+                <topicref href="topics/stepclient_administration_ft01_08.dita">
+                    <topicref href="topics/stepclient_ft01_08_01.dita">
+                        <topicref href="topics/stepsearch_client.dita"/>
+                        <topicref href="topics/stepcreate_new_client_manually.dita"/>
+                        <topicref href="topics/stepcreate_new_client_by_import_from_crm.dita"/>
+                        <topicref href="topics/stepautomatic_client_access_setup.dita"/>
+                        <topicref href="topics/stepview_client_detail.dita"/>
+                        <topicref href="topics/stepupdate_client_data_from_crm.dita"/>
+                        <topicref href="topics/stepremove_client.dita"/>
+                        <topicref href="topics/stepview_client_contacts.dita"/>
+                        <topicref
+                            href="topics/stepsynchronize_client_contacts_with_external_system.dita"/>
+                        <topicref href="topics/stepview_list_of_client_behaviors.dita"/>
+                        <topicref href="topics/stepedit_client_behavior.dita"/>
+                        <topicref href="topics/stepswitch_alternative_client_rights_view.dita"/>
+                        <topicref href="topics/stepedit_client_rights.dita"/>
+                        <topicref href="topics/stepview_list_of_available_client_channels.dita"/>
+                        <topicref href="topics/stepadd_new_client_channel.dita"/>
+                        <topicref href="topics/stepremove_client_channel.dita"/>
+                        <topicref href="topics/stepactivate_client_channel.dita"/>
+                        <topicref href="topics/stepdeactivate_client_channel.dita"/>
+                        <topicref href="topics/stepset_rights_for_client_channel.dita"/>
+                        <topicref href="topics/stepedit_rights_for_client_channel.dita"/>
+                    </topicref>
+                    <topicref href="topics/stepuser_ft01_08_02.dita">
+                        <topicref href="topics/stepsearch_user_ft01_08_02_01.dita"/>
+                        <topicref href="topics/stepview_list_of_users_ft01_08_02_02.dita"/>
+                        <topicref
+                            href="topics/stepview_list_of_users_for_selected_client_ft01_08_02_03.dita"/>
+                        <topicref href="topics/stepcreate_user_manually_ft01_08_02_04.dita"/>
+                        <topicref
+                            href="topics/stepcreate_new_user_by_import_from_crm_ft01_08_02_05.dita"/>
+                        <topicref href="topics/stepview_user_detail_ft01_08_02_06.dita"/>
+                        <topicref href="topics/stepupdate_user_s_data_from_crm_ft01_08_02_07.dita"/>
+                        <topicref href="topics/stepblock_user_within_client_ft01_08_02_08.dita"/>
+                        <topicref href="topics/stepactivate_user_within_client_ft01_08_02_09.dita"/>
+                        <topicref href="topics/stepremove_user_ft01_08_02_10.dita"/>
+                        <topicref href="topics/stepadd_profile_to_user_ft01_08_02_11.dita"/>
+                        <topicref href="topics/stepadd_role_to_user_ft01_08_02_12.dita"/>
+                        <topicref
+                            href="topics/stepadd_security_authentication_method_ft01_08_02_13.dita"/>
+                        <topicref
+                            href="topics/stepadd_security_authorization_method_to_sign_requests_ft01_08_02_14.dita"/>
+                        <topicref href="topics/stepactivate_channel_access_ft01_08_02_15.dita"/>
+                        <topicref href="topics/stepblock_channel_access_ft01_08_02_16.dita"/>
+                    </topicref>
+                </topicref>
+                <topicref href="topics/stepon_behalf_client_ft01_08_03.dita">
+                    <topicref
+                        href="topics/stepswitching_from_admin_console_to_ibs_under_selected_user_passive_view.dita"/>
+                    <topicref
+                        href="topics/stepswitching_from_admin_console_to_ibs_under_selected_user_active_view.dita"/>
+                    <topicref
+                        href="topics/stepevaluation_of_operators_rights_within_client_s_ibs.dita"/>
+                    <topicref
+                        href="topics/stepdata_about_operator_s_loggin_in_user_s_ibs_stored_in_journal.dita"/>
+                    <topicref href="topics/stepview_info_about_access_type_in_ibs_screen.dita"/>
+                    <topicref href="topics/stepswitch_client_context.dita"/>
+                    <topicref href="topics/stepcreate_request_onbehalf_of_client.dita"/>
+                    <topicref href="topics/stepclient_onbehalf_request_authorization.dita"/>
+                </topicref>
+                <topicref href="topics/stepcomunication_administration_ft01_09.dita">
+                    <topicref href="topics/stepview_list_of_incomming_messages_ft01_09_01.dita"/>
+                    <topicref
+                        href="topics/stepview_detail_of_messages_incomming_outgoing_ft01_09_02.dita"/>
+                    <topicref href="topics/stepview_list_of_outgoing_messages_ft01_09_03.dita"/>
+                    <topicref href="topics/stepincomming_messages_filtering_ft01_09_04.dita"/>
+                    <topicref href="topics/stepoutgoing_messages_filtering_ft01_09_05.dita"/>
+                    <topicref href="topics/stepreply_to_incomming_message_ft01_09_06.dita"/>
+                    <topicref href="topics/stepcreate_new_message_ft01_09_07.dita"/>
+                    <topicref href="topics/stepdelete_message_ft01_09_08.dita"/>
+                    <topicref href="topics/stepselect_message_recipient_ft01_09_09.dita"/>
+                </topicref>
+                <topicref href="topics/stepmarketing_administration_ft01_10.dita">
+                    <topicref href="topics/stepmarketing_offer_rules_ft01_10_01.dita">
+                        <topicref href="topics/stepview_list_of_decision_tables_ft01_10_01_01.dita"/>
+                        <topicref
+                            href="topics/stepdecision_tables_list_filtering_ft01_10_01_02.dita"/>
+                        <topicref href="topics/stepview_detail_of_decision_table_ft01_10_01_03.dita"/>
+                        <topicref href="topics/stepdownload_decision_table_file_ft01_10_01_04.dita"/>
+                        <topicref href="topics/stepdelete_decision_table_ft01_10_01_05.dita"/>
+                        <topicref href="topics/stepedit_decision_table_ft01_10_01_06.dita"/>
+                        <topicref href="topics/stepcreate_decision_table_ft01_10_01_07.dita"/>
+                        <topicref href="topics/stepview_list_of_created_tests_ft01_10_01_08.dita"/>
+                        <topicref href="topics/steptests_filtering_ft01_10_01_09.dita"/>
+                        <topicref
+                            href="topics/stepdownload_initial_test_configuration_ft01_10_01_10.dita"/>
+                        <topicref href="topics/stepcreate_new_test_ft01_10_01_11.dita"/>
+                    </topicref>
+                    <topicref href="topics/stepmarketing_offer_anouncement_ft01_10_02.dita">
+                        <topicref href="topics/stepview_list_of_banners_ft01_10_02_01.dita"/>
+                        <topicref href="topics/stepview_banner_detail_ft01_10_02_02.dita"/>
+                        <topicref href="topics/stepcreate_new_banner_ft01_10_02_03.dita"/>
+                        <topicref href="topics/stepedit_banner_ft01_10_02_04.dita"/>
+                        <topicref
+                            href="topics/stepview_list_of_images_and_videos_ft01_10_02_05.dita"/>
+                        <topicref href="topics/stepview_detail_of_image_or_video_ft01_10_02_06.dita"/>
+                        <topicref href="topics/stepupload_new_image_or_video_ft01_10_02_07.dita"/>
+                        <topicref href="topics/stepedit_image_or_video_ft01_10_02_08.dita"/>
+                        <topicref href="topics/stepdelete_editor_ft01_10_02_09.dita"/>
+                        <topicref href="topics/stepadd_editor_ft01_10_02_010.dita"/>
+                    </topicref>
+                </topicref>
+            </topicref>
             <topicref href="topics/security_operation_functions.dita"/>
             <topicref href="topics/business_operation_functions.dita">
                 <topicref href="topics/account_managing_task_s_steps_fts03_01.dita">
@@ -1427,7 +1676,241 @@
     </topicref>
     <topicref href="topics/dto_sources.dita">
         <topicref href="topics/dto_types.dita"/>
-        <topicref href="topics/dto_for_admin_dbos_functions.dita"/>
+        <topicref href="topics/dto_for_admin_dbos_functions.dita">
+            <topicref href="topics/dosystem_administration_ft01_01.dita">
+                <topicref href="topics/dosystem_administration_ft01_01_0.dita">
+                    <topicref href="topics/doview_list_of_system_parameters_ft01_01_01.dita"/>
+                    <topicref href="topics/doedit_system_parameter_ft01_01_02.dita"/>
+                    <topicref href="topics/dosystem_parameters_filtering_ft01_01_03.dita"/>
+                </topicref>
+                <topicref href="topics/docatalogs_administration_ft01_02.dita">
+                    <topicref href="topics/doview_list_of_catalogs_ft01_02_01.dita"/>
+                    <topicref href="topics/doview_catalog_structure_ft01_02_02.dita"/>
+                    <topicref href="topics/docatalog_list_filtering_ft01_02_03.dita"/>
+                    <topicref href="topics/doedit_catalog_values_ft01_02_04.dita"/>
+                    <topicref href="topics/doadd_catalog_value_ft01_02_05.dita"/>
+                    <topicref href="topics/doremove_catalog_value_ft01_02_06.dita"/>
+                </topicref>
+                <topicref href="topics/dojournal_administration_ft01_03.dita">
+                    <topicref href="topics/doview_list_of_activities_ft01_03_01.dita"/>
+                    <topicref href="topics/doview_detail_of_activities_ft01_03_02.dita"/>
+                    <topicref href="topics/doactivities_filtering_ft01_03_03.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/dosecurity_method_administration_ft01_02.dita">
+                <topicref
+                    href="topics/doset_up_limit_for_selected_authorization_method_ft01_02_01.dita"/>
+                <topicref
+                    href="topics/doedit_limit_for_selected_authorization_method_ft01_02_02.dita"/>
+                <topicref
+                    href="topics/doremove_limit_for_selected_authorization_method_ft01_02_03.dita"/>
+                <topicref href="topics/doview_list_of_security_elements_ft01_02_04.dita"/>
+                <topicref href="topics/dochange_username_ft01_02_05.dita"/>
+                <topicref href="topics/doreset_password_ft01_02_06.dita"/>
+                <topicref href="topics/doedit_phone_number_ft01_02_07.dita"/>
+                <topicref href="topics/doblock_unblock_security_element_ft01_02_08.dita"/>
+                <topicref href="topics/doassign_mtoken_ft01_02_09.dita"/>
+                <topicref href="topics/doremove_mtoken_ft01_02_10.dita"/>
+                <topicref href="topics/dosynchronize_mtoken_ft01_02_11.dita"/>
+                <topicref href="topics/doview_security_elements_history_ft01_02_12.dita"/>
+                <topicref
+                    href="topics/doblock_unblock_security_element_login_vasco_token_ft01_02_13.dita"/>
+                <topicref href="topics/doassign_vasco_token_ft01_02_14.dita"/>
+                <topicref href="topics/doremove_vasco_token_ft01_02_15.dita"/>
+                <topicref href="topics/dooperator_login_ft01_02_15.dita"/>
+                <topicref href="topics/doautomatic_logout_ft01_02_17.dita"/>
+                <topicref href="topics/domanual_logout_by_operator_ft01_02_18.dita"/>
+                <topicref href="topics/dobulk_replication_of_operators_ft01_02_19.dita"/>
+            </topicref>
+            <topicref href="topics/dorights_adminisrtations_ft01_03.dita">
+                <topicref href="topics/dosigning_roles_ft01_03_01.dita">
+                    <topicref href="topics/docreate_new_signing_role_ft01_03_01_01.dita"/>
+                    <topicref href="topics/doremove_signing_role_ft01_03_01_02.dita"/>
+                    <topicref
+                        href="topics/doview_list_of_signing_roles_assigned_to_client_ft01_03_01_03.dita"
+                    />
+                </topicref>
+                <topicref href="topics/dosigning_rules_ft01_03_02.dita">
+                    <topicref
+                        href="topics/doview_list_of_signing_rules_assigned_to_client_ft01_03_02_01.dita"/>
+                    <topicref href="topics/dosigning_rules_filtering_ft01_03_02_02.dita"/>
+                    <topicref href="topics/docreate_new_signing_rule_ft01_03_02_03.dita"/>
+                    <topicref href="topics/doedit_signing_rule_ft01_03_02_04.dita"/>
+                    <topicref href="topics/doremove_signing_rule_ft01_03_02_05.dita"/>
+                    <topicref href="topics/dosigning_rule_check_ft01_03_02_06.dita"/>
+                    <topicref href="topics/dosigning_rule_blocking_automatic_ft01_03_02_07.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/doproduct_rights_ft01_03_03.dita">
+                <topicref
+                    href="topics/docreate_rights_profile_for_selected_product_ft01_03_03_01.dita"/>
+                <topicref
+                    href="topics/doedit_rights_profile_for_selected_product_ft01_03_03_02.dita"/>
+                <topicref
+                    href="topics/doremove_rights_profile_for_selected_product_ft01_03_03_03.dita"/>
+                <topicref
+                    href="topics/doswitch_to_alternative_right_profile_view_ft01_03_03_04.dita"/>
+            </topicref>
+            <topicref href="topics/dooperation_rights_ft01_03_04.dita">
+                <topicref
+                    href="topics/docreate_rights_profile_for_selected_operation_ft01_03_04_01.dita"/>
+                <topicref
+                    href="topics/doedit_rights_profile_for_selected_operation_ft01_03_04_02.dita"/>
+                <topicref
+                    href="topics/doremove_rights_profile_for_selected_operation_ft01_03_04_03.dita"/>
+                <topicref
+                    href="topics/doswitch_to_alternative_right_profile_view_ft01_03_04_04.dita"/>
+            </topicref>
+            <topicref href="topics/dochannel_rights_ft01_03_05.dita">
+                <topicref
+                    href="topics/docreate_rights_profile_for_selected_channel_ft01_03_05_01.dita"/>
+                <topicref
+                    href="topics/doedit_rights_profile_for_selected_channel_ft01_03_05_02.dita"/>
+                <topicref
+                    href="topics/doremove_rights_profile_for_selected_channel_ft01_03_05_03.dita"/>
+                <topicref
+                    href="topics/doswitch_to_alternative_right_profile_view_ft01_03_05_04.dita"/>
+            </topicref>
+            <topicref href="topics/dooperator_administration_ft01_04.dita">
+                <topicref href="topics/dooperator_administration_ft01_04_02.dita">
+                    <topicref href="topics/doadd_operator_ft01_04_02_07.dita"/>
+                    <topicref href="topics/doview_list_of_operators_ft01_04_02_01.dita"/>
+                    <topicref href="topics/doview_operator_detail_ft01_04_02_02.dita"/>
+                    <topicref href="topics/dooperator_list_filtering_ft01_04_02_03.dita"/>
+                    <topicref href="topics/doedit_operator_ft01_04_02_04.dita"/>
+                    <topicref href="topics/doblock_operator_ft01_04_02_05.dita"/>
+                    <topicref href="topics/doremove_operator_ft01_04_02_06.dita"/>
+                </topicref>
+                <topicref href="topics/dooperator_s_roles_administration_ft01_04_01.dita">
+                    <topicref href="topics/doview_list_of_operator_roles_ft01_04_01_01.dita"/>
+                    <topicref href="topics/doview_detail_of_operator_s_role_ft01_04_01_02.dita"/>
+                    <topicref href="topics/dooperator_roles_list_filtering_ft01_04_01_03.dita"/>
+                    <topicref href="topics/docreate_operator_role_ft01_04_01_04.dita"/>
+                    <topicref href="topics/doremove_operator_role_ft01_04_01_05.dita"/>
+                    <topicref
+                        href="topics/doview_list_of_operators_within_selected_role_ft01_04_01_06.dita"/>
+                    <topicref href="topics/doblock_operator_s_role_ft01_04_01_07.dita"/>
+                    <topicref href="topics/dounblock_operator_s_role_ft01_04_01_08.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/doproduct_administration_ft01_05.dita">
+                <topicref href="topics/docreate_product_manually_ft01_05_01.dita"/>
+                <topicref href="topics/doassign_existing_product_of_other_client_ft01_05_02.dita"/>
+                <topicref href="topics/doactivate_product_for_client_channels_ft01_05_03.dita"/>
+                <topicref href="topics/doblock_product_for_client_channels_ft01_05_04.dita"/>
+                <topicref href="topics/doremove_product_ft01_05_05.dita"/>
+                <topicref href="topics/doedit_product_limit_ft01_05_06.dita"/>
+                <topicref href="topics/docancel_product_limit_ft01_05_07.dita"/>
+                <topicref href="topics/doswitch_alternative_user_product_overview_ft01_05_08.dita"/>
+                <topicref href="topics/docard_products_filtering_ft01_05_09.dita"/>
+                <topicref href="topics/dodisplay_client_print_preview_ft01_05_10.dita"/>
+                <topicref href="topics/dodisplay_internal_print_preview_ft01_05_11.dita"/>
+            </topicref>
+            <topicref href="topics/dochannel_administration_ft01_06.dita">
+                <topicref href="topics/dointernet_banking_ft01_06_01.dita"/>
+                <topicref href="topics/domobile_banking_ft01_06_02.dita"/>
+                <topicref href="topics/dobranch_ft01_06_03.dita"/>
+            </topicref>
+            <topicref href="topics/do3rd_party_system_administration_psd2_ft01_07.dita">
+                <topicref href="topics/doview_list_of_3rd_party_consents_ft01_07_01.dita"/>
+                <topicref href="topics/docancel_remove_3rd_party_consent_ft01_07_02.dita"/>
+            </topicref>
+            <topicref href="topics/doclient_administration_ft01_08.dita">
+                <topicref href="topics/doclient_ft01_08_01.dita">
+                    <topicref href="topics/dosearch_client.dita"/>
+                    <topicref href="topics/docreate_new_client_manually.dita"/>
+                    <topicref href="topics/docreate_new_client_by_import_from_crm.dita"/>
+                    <topicref href="topics/doautomatic_client_access_setup.dita"/>
+                    <topicref href="topics/doview_client_detail.dita"/>
+                    <topicref href="topics/doupdate_client_data_from_crm.dita"/>
+                    <topicref href="topics/doremove_client.dita"/>
+                    <topicref href="topics/doview_client_contacts.dita"/>
+                    <topicref href="topics/dosynchronize_client_contacts_with_external_system.dita"/>
+                    <topicref href="topics/doview_list_of_client_behaviors.dita"/>
+                    <topicref href="topics/doedit_client_behavior.dita"/>
+                    <topicref href="topics/doswitch_alternative_client_rights_view.dita"/>
+                    <topicref href="topics/doedit_client_rights.dita"/>
+                    <topicref href="topics/doview_list_of_available_client_channels.dita"/>
+                    <topicref href="topics/doadd_new_client_channel.dita"/>
+                    <topicref href="topics/doremove_client_channel.dita"/>
+                    <topicref href="topics/doactivate_client_channel.dita"/>
+                    <topicref href="topics/dodeactivate_client_channel.dita"/>
+                    <topicref href="topics/doset_rights_for_client_channel.dita"/>
+                    <topicref href="topics/doedit_rights_for_client_channel.dita"/>
+                </topicref>
+                <topicref href="topics/douser_ft01_08_02.dita">
+                    <topicref href="topics/dosearch_user_ft01_08_02_01.dita"/>
+                    <topicref href="topics/doview_list_of_users_ft01_08_02_02.dita"/>
+                    <topicref
+                        href="topics/doview_list_of_users_for_selected_client_ft01_08_02_03.dita"/>
+                    <topicref href="topics/docreate_user_manually_ft01_08_02_04.dita"/>
+                    <topicref href="topics/docreate_new_user_by_import_from_crm_ft01_08_02_05.dita"/>
+                    <topicref href="topics/doview_user_detail_ft01_08_02_06.dita"/>
+                    <topicref href="topics/doupdate_user_s_data_from_crm_ft01_08_02_07.dita"/>
+                    <topicref href="topics/doblock_user_within_client_ft01_08_02_08.dita"/>
+                    <topicref href="topics/doactivate_user_within_client_ft01_08_02_09.dita"/>
+                    <topicref href="topics/doremove_user_ft01_08_02_10.dita"/>
+                    <topicref href="topics/doadd_profile_to_user_ft01_08_02_11.dita"/>
+                    <topicref href="topics/doadd_role_to_user_ft01_08_02_12.dita"/>
+                    <topicref href="topics/doadd_security_authentication_method_ft01_08_02_13.dita"/>
+                    <topicref
+                        href="topics/doadd_security_authorization_method_to_sign_requests_ft01_08_02_14.dita"/>
+                    <topicref href="topics/doactivate_channel_access_ft01_08_02_15.dita"/>
+                    <topicref href="topics/doblock_channel_access_ft01_08_02_16.dita"/>
+                </topicref>
+            </topicref>
+            <topicref href="topics/doon_behalf_client_ft01_08_03.dita">
+                <topicref
+                    href="topics/doswitching_from_admin_console_to_ibs_under_selected_user_passive_view.dita"/>
+                <topicref
+                    href="topics/doswitching_from_admin_console_to_ibs_under_selected_user_active_view.dita"/>
+                <topicref href="topics/doevaluation_of_operators_rights_within_client_s_ibs.dita"/>
+                <topicref
+                    href="topics/dodata_about_operator_s_loggin_in_user_s_ibs_stored_in_journal.dita"/>
+                <topicref href="topics/doview_info_about_access_type_in_ibs_screen.dita"/>
+                <topicref href="topics/doswitch_client_context.dita"/>
+                <topicref href="topics/docreate_request_onbehalf_of_client.dita"/>
+                <topicref href="topics/doclient_onbehalf_request_authorization.dita"/>
+            </topicref>
+            <topicref href="topics/docomunication_administration_ft01_09.dita">
+                <topicref href="topics/doview_list_of_incomming_messages_ft01_09_01.dita"/>
+                <topicref href="topics/doview_detail_of_messages_incomming_outgoing_ft01_09_02.dita"/>
+                <topicref href="topics/doview_list_of_outgoing_messages_ft01_09_03.dita"/>
+                <topicref href="topics/doincomming_messages_filtering_ft01_09_04.dita"/>
+                <topicref href="topics/dooutgoing_messages_filtering_ft01_09_05.dita"/>
+                <topicref href="topics/doreply_to_incomming_message_ft01_09_06.dita"/>
+                <topicref href="topics/docreate_new_message_ft01_09_07.dita"/>
+                <topicref href="topics/dodelete_message_ft01_09_08.dita"/>
+                <topicref href="topics/doselect_message_recipient_ft01_09_09.dita"/>
+            </topicref>
+            <topicref href="topics/domarketing_administration_ft01_10.dita">
+                <topicref href="topics/domarketing_offer_rules_ft01_10_01.dita">
+                    <topicref href="topics/doview_list_of_decision_tables_ft01_10_01_01.dita"/>
+                    <topicref href="topics/dodecision_tables_list_filtering_ft01_10_01_02.dita"/>
+                    <topicref href="topics/doview_detail_of_decision_table_ft01_10_01_03.dita"/>
+                    <topicref href="topics/dodownload_decision_table_file_ft01_10_01_04.dita"/>
+                    <topicref href="topics/dodelete_decision_table_ft01_10_01_05.dita"/>
+                    <topicref href="topics/doedit_decision_table_ft01_10_01_06.dita"/>
+                    <topicref href="topics/docreate_decision_table_ft01_10_01_07.dita"/>
+                    <topicref href="topics/doview_list_of_created_tests_ft01_10_01_08.dita"/>
+                    <topicref href="topics/dotests_filtering_ft01_10_01_09.dita"/>
+                    <topicref href="topics/dodownload_initial_test_configuration_ft01_10_01_10.dita"/>
+                    <topicref href="topics/docreate_new_test_ft01_10_01_11.dita"/>
+                </topicref>
+                <topicref href="topics/domarketing_offer_anouncement_ft01_10_02.dita">
+                    <topicref href="topics/doview_list_of_banners_ft01_10_02_01.dita"/>
+                    <topicref href="topics/doview_banner_detail_ft01_10_02_02.dita"/>
+                    <topicref href="topics/docreate_new_banner_ft01_10_02_03.dita"/>
+                    <topicref href="topics/doedit_banner_ft01_10_02_04.dita"/>
+                    <topicref href="topics/doview_list_of_images_and_videos_ft01_10_02_05.dita"/>
+                    <topicref href="topics/doview_detail_of_image_or_video_ft01_10_02_06.dita"/>
+                    <topicref href="topics/doupload_new_image_or_video_ft01_10_02_07.dita"/>
+                    <topicref href="topics/doedit_image_or_video_ft01_10_02_08.dita"/>
+                    <topicref href="topics/dodelete_editor_ft01_10_02_09.dita"/>
+                    <topicref href="topics/doadd_editor_ft01_10_02_010.dita"/>
+                </topicref>
+            </topicref>
+        </topicref>
         <topicref href="topics/dto_for_security_functions.dita"/>
         <topicref href="topics/dto_for_business_functions.dita">
             <topicref href="topics/dto_for_category_account_managing.dita">
