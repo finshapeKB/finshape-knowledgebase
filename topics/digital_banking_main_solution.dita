@@ -8,7 +8,7 @@
         valuable to customers. Product's building blocks section, from the technical point of view,
         details  elements and components products consist of.</shortdesc>
     <body>
-        <p>We offer to our clients three standalone products (solutions), add-ons components that
+        <p>We offer to our clients four standalone products (solutions), add-ons components that
             provide advanced features in addition to the Core Digital Banking solution, and
             services. Standalone means that product may be delivered to a client on the Project
             level and doesn't depend on other DBOS components.<note id="note_jx5_zqv_jhc">Add-ons
@@ -152,6 +152,19 @@
                         document generation, and SIDER, a technical extension that allows large or
                         complex documents to finish processing in the background even after the user
                         logs out. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="all_in_one_digital_banking_solution.dita"/></dt>
+                    <dd>The All-in-One Digital Banking solution provides the advanced digital
+                        banking services, including integration with existing bank systems, storing
+                        and providing data, secure customer operations, executing transactions, and
+                        support for additional banking functionalities. The product includes the
+                        Authentication and Authorization solution along with other key components:
+                        Instant Data (GDS), Payments and Instructions (TPM), Integration Hub (IHUB),
+                        Service Proxy (SPX), Admin Console (WAC), PSD2 support service, Four Eyes,
+                        Notification Centre, Distribution, Exchange rates, Experience builder,
+                        Document generation service, Login application and Workspace GUI
+                        applications for bank clients and bank employees. </dd>
                 </dlentry>
             </dl>
         </p>

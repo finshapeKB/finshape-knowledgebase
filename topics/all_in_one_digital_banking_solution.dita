@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="all_in_one_digital_banking_solution">
+    <title>All-in-One Digital Banking Solution</title>
+    <shortdesc>The All-in-One Digital Banking solution provides the advanced digital banking
+        services, including integration with existing bank systems, storing and providing data,
+        secure customer operations, executing transactions, and support for additional banking
+        functionalities. The product includes the Authentication and Authorization solution along
+        with other key components: Instant Data (GDS), Payments and Instructions (TPM), Integration
+        Hub (IHUB), Service Proxy (SPX), Admin Console (WAC), PSD2 support service, Four Eyes,
+        Notification Centre, Distribution, Exchange rates, Experience builder, Document generation
+        service, Login application and Workspace GUI applications for bank clients and bank
+        employees. </shortdesc>
+    <body>
+        <p></p>
+    </body>
+</topic>
