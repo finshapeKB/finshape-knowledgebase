@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="functions_or_steps">
     <title>Action vs Step</title>
-    <shortdesc>Step is the kit of actions within Digital Banking system that together lead to the
+    <shortdesc>Step is the set of actions within Digital Banking system that together lead to the
         Task completion. </shortdesc>
     <body>
         <p>Step is more appropriate naming as far as it's neutral and understandable for both common
