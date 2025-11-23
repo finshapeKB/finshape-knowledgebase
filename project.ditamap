@@ -1477,16 +1477,23 @@
         <topicref href="topics/dto_for_dbos_maintenance_functions.dita"/>
     </topicref>
     <topicref href="topics/data_sources.dita">
-        <topicref href="topics/all_sources_data_list.dita"/>
-        <topicref href="topics/data_sources_list.dita"/>
         <topicref href="topics/dbos_components.dita">
-            <topicref href="topics/dbos_components_data_list.dita"/>
-            <topicref href="topics/component_1.dita">
-                <topicref href="topics/component_1_data_list.dita"/>
-                <topicref href="topics/component_1_data_1.dita"/>
-                <topicref href="topics/component_1_data_2.dita"/>
-                <topicref href="topics/component_1_data_3.dita"/>
-            </topicref>
+            <topicref href="topics/sordigital_identity_gaas.dita"/>
+            <topicref href="topics/sorexperience_builder_exb.dita"/>
+            <topicref href="topics/sorcontent_manager_cm.dita"/>
+            <topicref href="topics/sorfour_eyes_fey.dita"/>
+            <topicref href="topics/sordistributions_gdc.dita"/>
+            <topicref href="topics/sorinstant_data_gds.dita"/>
+            <topicref href="topics/sorentitlements_gen.dita"/>
+            <topicref href="topics/sornotifications_gnc.dita"/>
+            <topicref href="topics/sorprint_server_gps.dita"/>
+            <topicref href="topics/sorintegration_hub_gde.dita"/>
+            <topicref href="topics/sorservice_identity_provide_sider.dita"/>
+            <topicref href="topics/sorpayments_instructions_tpm.dita"/>
+            <topicref href="topics/sorexchange_rates_xcr.dita"/>
+            <topicref href="topics/sorapi_provider_openbank.dita"/>
+            <topicref href="topics/sorconsent_registry_consentreg.dita"/>
+            <topicref href="topics/sorthird_party_registry_tpreg.dita"/>
         </topicref>
         <topicref href="topics/core_banking_systems.dita">
             <topicref href="topics/cbs_data_list.dita"/>

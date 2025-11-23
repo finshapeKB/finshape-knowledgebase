@@ -2,6 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="rsigning_rules">
     <title>Signing Rules</title>
+    <shortdesc>The signing rule defines which users (and optionally in which order) must sign an
+        active request – typically a financial operation like withdrawal from an account or
+        payment.</shortdesc>
     <body>
         <p></p>
     </body>

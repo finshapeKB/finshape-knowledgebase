@@ -2,11 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="data_sources">
     <title>Data sources</title>
-    <shortdesc>This section may be useful for developers that are responsible for connecting DBOS to
-        Core Banking systems, Third party systems and internal DBOS component connections, as well
-        as DBOS configuration. To handle business tasks and run functions you may need data from
-        various sources. Data sources effects DBOS configuration. </shortdesc>
+    <shortdesc>Data sources are entities that provide needed data and services for other components
+        and systems. </shortdesc>
     <body>
+        <p>This section may be useful for developers that are responsible for connecting DBOS to
+            Core Banking systems, Third party systems and internal DBOS component connections, as
+            well as DBOS configuration. To handle business tasks and run functions you may need data
+            from various sources. Data sources effect DBOS configuration. </p>
         <p>To handle business tasks you need some functions (Steps) to do. Task and Function
             business logic (source code fragment) is placed to particular DBOS component. To handle
             functions you may need some data or other functions to derive (data or functions
@@ -22,9 +24,5 @@
             Component 11 and by Third party system. That means that you can't take to your custom
             DBOS configuration DBOS Component 1 and not to take DBOS Component 11 and that Third
             party system.</example>
-        <p>Each data (data type) has its own page that provides all possible information that may be
-            needed to operate with the data or data type.</p>
-        <example id="example_dmt_1kt_zgc">For example, <xref href="component_1_data_1.dita"
-            /></example>
     </body>
 </topic>

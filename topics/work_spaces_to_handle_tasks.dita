@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="work_spaces_to_handle_tasks">
-    <title>Workspace vs App </title>
-    <shortdesc>Workspace is a desktop or mobile GUI page that is opened as bank's employees or
-        clients login to their banking application. Workspace may be designed for all Roles at the
-        same time, or for a specific Role to provide handling only Role specific Tasks. Workspace
-        usually comprise Introduction or Overview GUI page. Application from the other hand is a
-        software package that performs a specific functions directly for an end user and comprises
-        all GUI elements: workspace, pages, controls etc.</shortdesc>
+    <title>Workspace vs App</title>
+    <shortdesc>Workspace is a desktop (Dashboard) or mobile GUI page that is opened as bank's
+        employees or clients login to their banking application. Workspace may be designed for all
+        Roles at the same time, or for a specific Role to provide handling only Role specific Tasks.
+        Workspace usually comprise Introduction or Overview GUI page. Application from the other
+        hand is a software package that performs a specific functions directly for an end user and
+        comprises all GUI elements: workspace, pages, controls etc.</shortdesc>
 </topic>

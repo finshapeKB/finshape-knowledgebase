@@ -2,9 +2,8 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="rights_to_do_tasks">
     <title>Rights </title>
-    <shortdesc>Right is a triplet of ids of OperationTypes, OperationAccessTypes and Channels
-        entities. It has an ID called rightId which is used in client rights, right profiles,
-        operator rights, operator roles, right init subsets, etc.</shortdesc>
+    <shortdesc>A right is a specific permission that defines what actions a user is allowed to
+        perform or what resources they can access.</shortdesc>
     <body>
         <p/>
     </body>

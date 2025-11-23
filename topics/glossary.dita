@@ -2,8 +2,225 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="glossary">
     <title>Glossary</title>
-    <shortdesc>this section comprises Finshape's internal terms and definitions </shortdesc>
+    <shortdesc>This section comprises Finshape's internal terms and definitions. </shortdesc>
     <body>
-        <p></p>
+        <section id="section_kdh_p1f_khc">
+            <title>A</title>
+        </section>
+        <dl id="dl_zlk_q1f_khc">
+            <dlentry>
+                <dt>Action </dt>
+                <dd>Action is a one simple physical act, that user performs within the software
+                    product.</dd>
+            </dlentry>
+        </dl>
+        <example id="example_amk_q1f_khc">Example: open; click; select; enter; close<p>
+                <dl>
+                    <dlentry>
+                        <dt>Add-on </dt>
+                        <dd>Add-ons are not standalone products that are capable to provide services
+                            independently from other components, so they may be offered to a client
+                            in combination with Core Digital Banking solution only.</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Authentication and Authorization solution</dt>
+                        <dd>
+                            <p>The authentication and authorization is a product (solution) that
+                                provides a comprehensive, secure, and scalable service: identity,
+                                access, and operational governance across the entire digital banking
+                                system. This service is delivered through the DBOS components
+                                Digital Identity (GAAS) and GEN (Entitlements), Admin Console (WAC)
+                                and Login applications for bank clients and bank employees.</p>
+                        </dd>
+                    </dlentry>
+                </dl>
+            </p></example>
+        <section id="section_skv_s1f_khc">
+            <title>C</title>
+            <p>
+                <dl>
+                    <dlentry>
+                        <dt>Core Digital Banking solution </dt>
+                        <dd>The Core Digital Banking solution provides the basic digital banking
+                            services, including integration with existing bank systems, storing and
+                            providing data, secure customer operations, executing transactions, and
+                            support for additional banking functionalities. The product includes the
+                            Authentication and Authorization solution along with other key
+                            components: Instant Data (GDS), Payments and Instructions (TPM),
+                            Integration Hub (IHUB), Service Proxy (SPX), Admin Console (WAC), Login
+                            and Workspace GUI applications for bank clients and bank employees.
+                        </dd>
+                    </dlentry>
+                </dl>
+            </p>
+        </section>
+        <dl id="dl_xrb_ws2_khc">
+            <dlentry>
+                <dt>DBOS component</dt>
+                <dd>A component comprises an application program that implements the business logic
+                    and configuration information. A component offers a service to other components
+                    and in turn consumes functions offered by other services using service-oriented
+                    interfaces.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Connector </dt>
+                <dd>Connectors are elements for connecting composite application with other third
+                    party applications and internal application components between each other.</dd>
+            </dlentry>
+        </dl>
+        <section id="section_lxc_w1f_khc">
+            <title>D</title>
+        </section>
+        <dl id="dl_hxc_w1f_khc">
+            <dlentry>
+                <dt>Data Object (DO)</dt>
+                <dd>Data object (DO) is an information entity that comprise details about all data
+                    and services that are needed to handle specific Step of a Functional task. Data
+                    object may be connected to more than one Step at the same time. Many Data
+                    objects may be connected to one Functional task as far as task may comprise
+                    several Steps.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Data Source</dt>
+                <dd>Data sources are entities that provide needed data and services for other
+                    components and systems.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>DBOS component service connector</dt>
+                <dd>Component service connector is the access mechanism that other internal
+                    components have to use to call the component.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>DBOS component reference connector</dt>
+                <dd>Component reference connector is the access mechanism that component uses to
+                    call other components.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>DBOS service connector</dt>
+                <dd>Composite service connector is the access mechanism that external clients must
+                    use to call the service.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>DBOS reference connector</dt>
+                <dd>Composite reference connector is the access mechanism that is used to call
+                    another service.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>DBOS composite application</dt>
+                <dd>A composite application is created by combining one or more components that
+                    together implement the business logic of the new application.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Digital Identity </dt>
+                <dd>Digital Identity (GAAS) is a product that provides centralized authentication,
+                    session management, and OpenID Connect–based security for all connected banking
+                    systems. It ensures secure user login, unified session handling, and consistent
+                    identity governance across channels. GAAS also supports certification flows and
+                    event handling, enabling reliable identity services for digital banking
+                    ecosystems. </dd>
+            </dlentry>
+        </dl>
+        <section id="section_jr4_kbf_khc">
+            <title>F</title>
+            <dl id="dl_dxy_kbf_khc">
+                <dlentry>
+                    <dt>Four Eyes</dt>
+                    <dd>The Four Eyes component is an optional add-on to the Core Digital Banking
+                        solution designed for corporate banking clients who require stronger
+                        internal control. It ensures that sensitive administrative actions are only
+                        executed after being reviewed and approved by a second authorized user,
+                        providing an extra layer of security and governance.</dd>
+                </dlentry>
+            </dl>
+        </section>
+        <section id="section_zv3_2bf_khc">
+            <title>P</title>
+            <p>
+                <dl>
+                    <dlentry>
+                        <dt>Product</dt>
+                        <dd>Finshape’s main product is a custom Digital Banking solution. We offer
+                            to our clients standalone products (solutions), add-on components,
+                            applications, and services. </dd>
+                    </dlentry>
+                </dl>
+            </p>
+        </section>
+        <section id="section_wxb_gbf_khc">
+            <title>S</title>
+        </section>
+        <dl id="dl_vv3_2bf_khc">
+            <dlentry>
+                <dt>Step </dt>
+                <dd>Step is the set of actions within software product that together lead to the
+                    Task completion. </dd>
+            </dlentry>
+        </dl>
+        <example id="example_fft_11f_khc">Example: Enter account detail</example>
+        <section id="section_d45_gbf_khc">
+            <title>T</title>
+        </section>
+        <dl id="dl_zq1_c1f_khc">
+            <dlentry>
+                <dt>Task </dt>
+                <dd>Task is the same as a use case. However, use case, from the user point of view
+                    is the specific result that the user wants to achieve by making some actions
+                    within software product. As far as use case is a term mainly used within
+                    software domain, we may use more general term and establish Task entity. Task
+                    entity is a set of steps that have to be done to reach a specific result.</dd>
+            </dlentry>
+        </dl>
+        <example id="example_fls_d1f_khc">Example: <xref
+                href="https://docs.finshape.com/wac2/current/client-management/client-details.html"
+                format="html" scope="external"/></example>
+        <section id="section_ad1_3bf_khc">
+            <title>R</title>
+            <p>
+                <dl>
+                    <dlentry>
+                        <dt>Role</dt>
+                        <dd>Enterprise role is a defined set of tasks, responsibilities, and
+                            activities that a person is expected to handle within the organization.
+                            It specifies what the individual does, how they contribute to business
+                            processes, and the scope of their responsibilities across the
+                            enterprise.</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Right</dt>
+                        <dd>A right is a specific permission that defines what actions a user is
+                            allowed to perform or what resources they can access.</dd>
+                    </dlentry>
+                </dl>
+            </p>
+        </section>
+        <section id="section_l2y_nbf_khc">
+            <title>U</title>
+        </section>
+        <dl id="dl_als_d1f_khc">
+            <dlentry>
+                <dt>Use case </dt>
+                <dd>Use case is the same thing as Task is. Use case from the user point of view is
+                    the specific result that the user wants to achieve by making some actions within
+                    software product. </dd>
+            </dlentry>
+        </dl>
+        <example id="example_eq2_l1f_khc">Example: <xref
+                href="https://docs.finshape.com/wac2/current/client-management/client-details.html"
+                format="html" scope="external"/></example>
+        <section id="section_yvp_4bf_khc">
+            <title>W</title>
+        </section>
+        <dl id="dl_xp2_l1f_khc">
+            <dlentry>
+                <dt>Workspace </dt>
+                <dd>Workspace is a desktop (Dashboard) or mobile GUI page that is opened as bank's
+                    employees or clients login to their banking application. Workspace may be
+                    designed for all Roles at the same time, or for a specific Role to provide
+                    handling only Role specific Tasks. Workspace usually comprise Introduction or
+                    Overview GUI page. Application from the other hand is a software package that
+                    performs a specific functions directly for an end user and comprises all GUI
+                    elements: workspace, pages, controls etc.</dd>
+            </dlentry>
+        </dl>
     </body>
 </topic>
