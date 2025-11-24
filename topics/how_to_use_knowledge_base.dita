@@ -5,12 +5,14 @@
     <shortdesc>This section serves to lead users through the key principles of Knowledge Base </shortdesc>
     <body>
         <p>This portal was developed based on the analysis on the content needs within the company.
-            Company requirements on the  portal organization principles are described in the PDF
-            report <wintitle>Current Content State</wintitle></p>
+            Company requirements on the portal organization principles are described in the PDF
+            report <wintitle>Current Content State</wintitle> ( to review report go downpage to
+            Related information section).</p>
         <p>
             <note id="note_lhv_3pj_khc" type="important">To understand each menu bar sections'
-                purpose, select the Finshape Knowledge Base at the top left corner, afterwards
-                scroll down, and explore each section's and subsection's short description</note>
+                purpose, select the <wintitle>Finshape Knowledge Base</wintitle> at the top left
+                corner, afterwards scroll down, and explore each section's and subsection's short
+                description</note>
             <note id="note_qlv_lpj_khc">Knowledge Base comprises of seven main Entities: Right,
                 Role, Workspace, Use case (Task), Step, Data object, Data source. To make Knowledge
                 Base content reusable, we should make changes within the Entity pages. </note>

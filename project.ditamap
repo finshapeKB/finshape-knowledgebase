@@ -7,206 +7,6 @@
     <topicref href="topics/digital_banking_main_solution.dita">
         <topicref href="topics/finshape_products_clients_pay_for.dita">
             <topicref href="topics/all_in_one_digital_banking_solution.dita">
-                <topicref href="topics/sorproduct_s_components.dita">
-                    <topicref href="topics/sordigital_identity.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_1.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_1.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_1.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_1.dita">
-                            <topicref href="topics/sorparty_1.dita"/>
-                            <topicref href="topics/sorresources_1.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_1.dita"/>
-                        <topicref href="topics/sorgetting_started_1.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_1.dita"/>
-                            <topicref href="topics/soryour_first_steps_1.dita"/>
-                            <topicref href="topics/sorgetting_help_1.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_1.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_1.dita"/>
-                        <topicref href="topics/sormaintenance_1.dita"/>
-                        <topicref href="topics/sorworking_with_the_product_1.dita"/>
-                        <topicref href="topics/sortroubleshooting_1.dita"/>
-                    </topicref>
-                    <topicref href="topics/entitlements_0.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_2.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_2.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_2.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_2.dita">
-                            <topicref href="topics/sorparty_2.dita"/>
-                            <topicref href="topics/sorresources_2.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_2.dita"/>
-                        <topicref href="topics/sorgetting_started_2.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_2.dita"/>
-                            <topicref href="topics/soryour_first_steps_2.dita"/>
-                            <topicref href="topics/sorgetting_help_2.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_2.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_2.dita"/>
-                        <topicref href="topics/sormaintenance_2.dita"/>
-                        <topicref href="topics/sorworking_with_component.dita"/>
-                        <topicref href="topics/sortroubleshooting_2.dita"/>
-                    </topicref>
-                    <topicref href="topics/instant_data_gds.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_3.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_3.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_3.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_3.dita">
-                            <topicref href="topics/sorparty_3.dita"/>
-                            <topicref href="topics/sorresources_3.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_3.dita"/>
-                        <topicref href="topics/sorgetting_started_3.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_3.dita"/>
-                            <topicref href="topics/soryour_first_steps_3.dita"/>
-                            <topicref href="topics/sorgetting_help_3.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_3.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_3.dita"/>
-                        <topicref href="topics/sormaintenance_3.dita"/>
-                        <topicref href="topics/sorworking_with_component_0.dita"/>
-                        <topicref href="topics/sortroubleshooting_3.dita"/>
-                    </topicref>
-                    <topicref href="topics/payments_and_instructions_tpm.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_4.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_4.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_4.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_4.dita">
-                            <topicref href="topics/sorparty_4.dita"/>
-                            <topicref href="topics/sorresources_4.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_4.dita"/>
-                        <topicref href="topics/sorgetting_started_4.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_4.dita"/>
-                            <topicref href="topics/soryour_first_steps_4.dita"/>
-                            <topicref href="topics/sorgetting_help_4.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_4.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_4.dita"/>
-                        <topicref href="topics/sormaintenance_4.dita"/>
-                        <topicref href="topics/sorworking_with_component_1.dita"/>
-                        <topicref href="topics/sortroubleshooting_4.dita"/>
-                    </topicref>
-                    <topicref href="topics/ihub.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_5.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_5.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_5.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_5.dita">
-                            <topicref href="topics/sorparty_5.dita"/>
-                            <topicref href="topics/sorresources_5.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_5.dita"/>
-                        <topicref href="topics/sorgetting_started_5.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_5.dita"/>
-                            <topicref href="topics/soryour_first_steps_5.dita"/>
-                            <topicref href="topics/sorgetting_help_5.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_5.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_5.dita"/>
-                        <topicref href="topics/sormaintenance_5.dita"/>
-                        <topicref href="topics/sorworking_with_component_2.dita"/>
-                        <topicref href="topics/sortroubleshooting_5.dita"/>
-                    </topicref>
-                    <topicref href="topics/admin_console_wac_1.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_6.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_6.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_6.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_6.dita">
-                            <topicref href="topics/sorparty_6.dita"/>
-                            <topicref href="topics/sorresources_6.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_6.dita"/>
-                        <topicref href="topics/sorgetting_started_6.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_6.dita"/>
-                            <topicref href="topics/soryour_first_steps_6.dita"/>
-                            <topicref href="topics/sorgetting_help_6.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_6.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_6.dita"/>
-                        <topicref href="topics/sormaintenance_6.dita"/>
-                        <topicref href="topics/sorworking_with_component_3.dita"/>
-                        <topicref href="topics/sortroubleshooting_6.dita"/>
-                    </topicref>
-                    <topicref href="topics/service_proxy_spx.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_7.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_7.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_7.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_7.dita">
-                            <topicref href="topics/sorparty_7.dita"/>
-                            <topicref href="topics/sorresources_7.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_7.dita"/>
-                        <topicref href="topics/sorgetting_started_7.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_7.dita"/>
-                            <topicref href="topics/soryour_first_steps_7.dita"/>
-                            <topicref href="topics/sorgetting_help_7.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_7.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_7.dita"/>
-                        <topicref href="topics/sormaintenance_7.dita"/>
-                        <topicref href="topics/sorworking_with_component_4.dita"/>
-                        <topicref href="topics/sortroubleshooting_7.dita"/>
-                    </topicref>
-                    <topicref href="topics/desktop_internet_banking_application_0.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_8.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_8.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_8.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_8.dita">
-                            <topicref href="topics/sorparty_8.dita"/>
-                            <topicref href="topics/sorresources_8.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_8.dita"/>
-                        <topicref href="topics/sorgetting_started_8.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_8.dita"/>
-                            <topicref href="topics/soryour_first_steps_8.dita"/>
-                            <topicref href="topics/sorgetting_help_8.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_8.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_8.dita"/>
-                        <topicref href="topics/sormaintenance_8.dita"/>
-                        <topicref href="topics/sorworking_with_component_5.dita"/>
-                        <topicref href="topics/sortroubleshooting_8.dita"/>
-                    </topicref>
-                    <topicref href="topics/mobile_internet_banking_application.dita">
-                        <topicref href="topics/sorintroduction_to_this_user_guide_9.dita">
-                            <topicref href="topics/sorunderstanding_user_guide_concept_9.dita"/>
-                            <topicref href="topics/sorhow_to_use_user_guide_9.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorcontent_life_cycle_9.dita">
-                            <topicref href="topics/sorparty_9.dita"/>
-                            <topicref href="topics/sorresources_9.dita"/>
-                        </topicref>
-                        <topicref href="topics/sorinstallation_9.dita"/>
-                        <topicref href="topics/sorgetting_started_9.dita">
-                            <topicref href="topics/sorfrequently_used_shortcut_keys_9.dita"/>
-                            <topicref href="topics/soryour_first_steps_9.dita"/>
-                            <topicref href="topics/sorgetting_help_9.dita"/>
-                            <topicref href="topics/sorresources_to_help_you_getting_started_9.dita"
-                            />
-                        </topicref>
-                        <topicref href="topics/sorconfiguration_9.dita"/>
-                        <topicref href="topics/sormaintenance_9.dita"/>
-                        <topicref href="topics/sorworking_with_component_6.dita"/>
-                        <topicref href="topics/sortroubleshooting_9.dita"/>
-                    </topicref>
-                </topicref>
                 <topicref href="topics/sorintroduction_to_the_product.dita">
                     <topicref href="topics/sorwhat_is_the_product.dita"/>
                     <topicref href="topics/sorbusiness_tasks_you_accomlish_using_this_product.dita"
@@ -216,22 +16,222 @@
                     <topicref href="topics/sorintroduction_to_this_user_guide.dita">
                         <topicref href="topics/sorunderstanding_user_guide_concept.dita"/>
                         <topicref href="topics/sorhow_to_use_user_guide.dita"/>
+                        <topicref href="topics/sorcontent_life_cycle.dita"/>
+                        <topicref href="topics/sorparty.dita"/>
+                        <topicref href="topics/sorresources.dita"/>
                     </topicref>
-                    <topicref href="topics/sorcontent_life_cycle.dita"/>
-                    <topicref href="topics/sorparty.dita"/>
-                    <topicref href="topics/sorresources.dita"/>
+                    <topicref href="topics/sorinstallation.dita"/>
+                    <topicref href="topics/sorgetting_started.dita">
+                        <topicref href="topics/sorfrequently_used_shortcut_keys.dita"/>
+                        <topicref href="topics/soryour_first_steps.dita"/>
+                        <topicref href="topics/sorgetting_help.dita"/>
+                        <topicref href="topics/sorresources_to_help_you_getting_started.dita"/>
+                    </topicref>
+                    <topicref href="topics/sorconfiguration.dita"/>
+                    <topicref href="topics/sormaintenance.dita"/>
+                    <topicref href="topics/sorworking_with_the_product.dita"/>
+                    <topicref href="topics/sortroubleshooting.dita"/>
+                    <topicref href="topics/sorproduct_s_components.dita">
+                        <topicref href="topics/sordigital_identity.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_1.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_1.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_1.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_1.dita">
+                                <topicref href="topics/sorparty_1.dita"/>
+                                <topicref href="topics/sorresources_1.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_1.dita"/>
+                            <topicref href="topics/sorgetting_started_1.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_1.dita"/>
+                                <topicref href="topics/soryour_first_steps_1.dita"/>
+                                <topicref href="topics/sorgetting_help_1.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_1.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_1.dita"/>
+                            <topicref href="topics/sormaintenance_1.dita"/>
+                            <topicref href="topics/sorworking_with_the_product_1.dita"/>
+                            <topicref href="topics/sortroubleshooting_1.dita"/>
+                        </topicref>
+                        <topicref href="topics/entitlements_0.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_2.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_2.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_2.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_2.dita">
+                                <topicref href="topics/sorparty_2.dita"/>
+                                <topicref href="topics/sorresources_2.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_2.dita"/>
+                            <topicref href="topics/sorgetting_started_2.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_2.dita"/>
+                                <topicref href="topics/soryour_first_steps_2.dita"/>
+                                <topicref href="topics/sorgetting_help_2.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_2.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_2.dita"/>
+                            <topicref href="topics/sormaintenance_2.dita"/>
+                            <topicref href="topics/sorworking_with_component.dita"/>
+                            <topicref href="topics/sortroubleshooting_2.dita"/>
+                        </topicref>
+                        <topicref href="topics/instant_data_gds.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_3.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_3.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_3.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_3.dita">
+                                <topicref href="topics/sorparty_3.dita"/>
+                                <topicref href="topics/sorresources_3.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_3.dita"/>
+                            <topicref href="topics/sorgetting_started_3.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_3.dita"/>
+                                <topicref href="topics/soryour_first_steps_3.dita"/>
+                                <topicref href="topics/sorgetting_help_3.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_3.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_3.dita"/>
+                            <topicref href="topics/sormaintenance_3.dita"/>
+                            <topicref href="topics/sorworking_with_component_0.dita"/>
+                            <topicref href="topics/sortroubleshooting_3.dita"/>
+                        </topicref>
+                        <topicref href="topics/payments_and_instructions_tpm.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_4.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_4.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_4.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_4.dita">
+                                <topicref href="topics/sorparty_4.dita"/>
+                                <topicref href="topics/sorresources_4.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_4.dita"/>
+                            <topicref href="topics/sorgetting_started_4.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_4.dita"/>
+                                <topicref href="topics/soryour_first_steps_4.dita"/>
+                                <topicref href="topics/sorgetting_help_4.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_4.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_4.dita"/>
+                            <topicref href="topics/sormaintenance_4.dita"/>
+                            <topicref href="topics/sorworking_with_component_1.dita"/>
+                            <topicref href="topics/sortroubleshooting_4.dita"/>
+                        </topicref>
+                        <topicref href="topics/ihub.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_5.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_5.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_5.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_5.dita">
+                                <topicref href="topics/sorparty_5.dita"/>
+                                <topicref href="topics/sorresources_5.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_5.dita"/>
+                            <topicref href="topics/sorgetting_started_5.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_5.dita"/>
+                                <topicref href="topics/soryour_first_steps_5.dita"/>
+                                <topicref href="topics/sorgetting_help_5.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_5.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_5.dita"/>
+                            <topicref href="topics/sormaintenance_5.dita"/>
+                            <topicref href="topics/sorworking_with_component_2.dita"/>
+                            <topicref href="topics/sortroubleshooting_5.dita"/>
+                        </topicref>
+                        <topicref href="topics/admin_console_wac_1.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_6.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_6.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_6.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_6.dita">
+                                <topicref href="topics/sorparty_6.dita"/>
+                                <topicref href="topics/sorresources_6.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_6.dita"/>
+                            <topicref href="topics/sorgetting_started_6.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_6.dita"/>
+                                <topicref href="topics/soryour_first_steps_6.dita"/>
+                                <topicref href="topics/sorgetting_help_6.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_6.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_6.dita"/>
+                            <topicref href="topics/sormaintenance_6.dita"/>
+                            <topicref href="topics/sorworking_with_component_3.dita"/>
+                            <topicref href="topics/sortroubleshooting_6.dita"/>
+                        </topicref>
+                        <topicref href="topics/service_proxy_spx.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_7.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_7.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_7.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_7.dita">
+                                <topicref href="topics/sorparty_7.dita"/>
+                                <topicref href="topics/sorresources_7.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_7.dita"/>
+                            <topicref href="topics/sorgetting_started_7.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_7.dita"/>
+                                <topicref href="topics/soryour_first_steps_7.dita"/>
+                                <topicref href="topics/sorgetting_help_7.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_7.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_7.dita"/>
+                            <topicref href="topics/sormaintenance_7.dita"/>
+                            <topicref href="topics/sorworking_with_component_4.dita"/>
+                            <topicref href="topics/sortroubleshooting_7.dita"/>
+                        </topicref>
+                        <topicref href="topics/desktop_internet_banking_application_0.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_8.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_8.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_8.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_8.dita">
+                                <topicref href="topics/sorparty_8.dita"/>
+                                <topicref href="topics/sorresources_8.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_8.dita"/>
+                            <topicref href="topics/sorgetting_started_8.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_8.dita"/>
+                                <topicref href="topics/soryour_first_steps_8.dita"/>
+                                <topicref href="topics/sorgetting_help_8.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_8.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_8.dita"/>
+                            <topicref href="topics/sormaintenance_8.dita"/>
+                            <topicref href="topics/sorworking_with_component_5.dita"/>
+                            <topicref href="topics/sortroubleshooting_8.dita"/>
+                        </topicref>
+                        <topicref href="topics/mobile_internet_banking_application.dita">
+                            <topicref href="topics/sorintroduction_to_this_user_guide_9.dita">
+                                <topicref href="topics/sorunderstanding_user_guide_concept_9.dita"/>
+                                <topicref href="topics/sorhow_to_use_user_guide_9.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorcontent_life_cycle_9.dita">
+                                <topicref href="topics/sorparty_9.dita"/>
+                                <topicref href="topics/sorresources_9.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorinstallation_9.dita"/>
+                            <topicref href="topics/sorgetting_started_9.dita">
+                                <topicref href="topics/sorfrequently_used_shortcut_keys_9.dita"/>
+                                <topicref href="topics/soryour_first_steps_9.dita"/>
+                                <topicref href="topics/sorgetting_help_9.dita"/>
+                                <topicref
+                                    href="topics/sorresources_to_help_you_getting_started_9.dita"/>
+                            </topicref>
+                            <topicref href="topics/sorconfiguration_9.dita"/>
+                            <topicref href="topics/sormaintenance_9.dita"/>
+                            <topicref href="topics/sorworking_with_component_6.dita"/>
+                            <topicref href="topics/sortroubleshooting_9.dita"/>
+                        </topicref>
+                    </topicref>
                 </topicref>
-                <topicref href="topics/sorinstallation.dita"/>
-                <topicref href="topics/sorgetting_started.dita">
-                    <topicref href="topics/sorfrequently_used_shortcut_keys.dita"/>
-                    <topicref href="topics/soryour_first_steps.dita"/>
-                    <topicref href="topics/sorgetting_help.dita"/>
-                    <topicref href="topics/sorresources_to_help_you_getting_started.dita"/>
-                </topicref>
-                <topicref href="topics/sorconfiguration.dita"/>
-                <topicref href="topics/sormaintenance.dita"/>
-                <topicref href="topics/sorworking_with_the_product.dita"/>
-                <topicref href="topics/sortroubleshooting.dita"/>
             </topicref>
             <topicref href="topics/digital_identity_0.dita">
                 <topicref href="topics/introduction_to_the_product_12.dita">
