@@ -46,14 +46,16 @@
                         product's introduction and user guide, visit these sections: <ul
                             id="ul_emk_z4f_khc">
                             <li>
-                                <p><xref href="finshape_products_clients_pay_for.dita"/></p>
+                                <p><xref href="digital_banking_main_solution.dita"/></p>
                             </li>
                             <li>
                                 <p><xref href="all_in_one_digital_banking_solution.dita"/></p>
                             </li>
                         </ul><note id="note_gkz_rnf_khc">Use-cases step-by-step guidance will be
-                            located in the section that has a name, example: <xref
-                                href="sorworking_with_the_product.dita"/></note></dd>
+                            located in the Woking with the product or Working with the component
+                            section that is the part of Product user guide or Add-on user guide
+                            section corresponding. Example: <xref href="product_user_guide.dita"
+                                />/<xref href="working_with_the_product_12.dita"/>.</note></dd>
                 </dlentry>
             </dl>
         </p>
@@ -80,8 +82,8 @@
                             <p><xref href="experience_builder_exb.dita"/></p>
                         </li>
                     </ul><note id="note_fd2_l4f_khc">Use-cases related to components will be located
-                        in the section that has a name, example: <xref
-                            href="working_with_the_product_10.dita"/></note></dd>
+                        in the Working with the component section that is the part of Product user
+                        guide or Add-on user guide section corresponding. Example: /.</note></dd>
             </dlentry>
         </dl>
         <dl id="dl_jdh_gpf_khc">
