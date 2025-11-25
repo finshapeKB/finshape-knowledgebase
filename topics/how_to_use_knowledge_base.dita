@@ -5,9 +5,9 @@
     <shortdesc>This section serves to lead users through the key principles of Knowledge Base. </shortdesc>
     <body>
         <p>This portal was developed based on the analysis on the content needs within the company.
-            Company requirements on the portal organization principles are described in the PDF
-            report <wintitle>Current Content State</wintitle> ( go downpage to Related information
-            section and review  report <wintitle>Chapter 5. Conclusion</wintitle>). </p>
+            Company requirements on the portal and organization principles are described in the PDF
+            report <wintitle>Current Content State: Part 1</wintitle> (report may be provided on
+            demand). </p>
         <p>
             <note id="note_lhv_3pj_khc" type="important">To understand each menu bar sections'
                 purpose, select the <wintitle>Finshape Knowledge Base</wintitle> at the top left
@@ -132,7 +132,4 @@
             </dl>
         </p>
     </body>
-    <related-links>
-        <link href="../Current_Content_State_Part_1.pdf" format="pdf"/>
-    </related-links>
 </topic>
