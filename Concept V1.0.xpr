@@ -118,7 +118,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>WebHelp Responsive - Potential Client</String>
+                                        <String>Project to WebHelp Responsive - general output</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
