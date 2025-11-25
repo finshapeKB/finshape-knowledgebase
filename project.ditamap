@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Finshape Knowledge Base</title>
-    <topicref href="topics/how_to_use_knowledge_base.dita"/>
+    <topicref href="subject_scheme_enterprise_roles.ditamap" format="ditamap"/>
     <topicref href="topics/glossary.dita"/>
     <topicref href="topics/digital_banking_main_solution.dita">
         <topicref href="topics/finshape_products_clients_pay_for.dita">
