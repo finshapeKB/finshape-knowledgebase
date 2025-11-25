@@ -3,7 +3,7 @@
 <map>
     <title>Finshape Knowledge Base</title>
     <topicref href="subject_scheme_enterprise_roles.ditamap" format="ditamap"/>
-    <topicref href="topics/glossary.dita"/>
+    <topicref href="topics/how_to_use_knowledge_base.dita" audience="API_Integrator"/>
     <topicref href="topics/digital_banking_main_solution.dita">
         <topicref href="topics/finshape_products_clients_pay_for.dita">
             <topicref href="topics/digital_identity_0.dita">
