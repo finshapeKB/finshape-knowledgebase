@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"business_features_architectural_decisions-d7520e675":{"topics":[{"title":"TBD","href":"topics\/tbd.html","attributes":{"data-id":"tbd"},"menu":{"hasChildren":false},"tocID":"tbd-d7520e683","topics":[]}]}};
