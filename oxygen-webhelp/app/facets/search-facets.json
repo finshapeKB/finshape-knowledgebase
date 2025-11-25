@@ -1,0 +1,26 @@
+
+ { "facets" : 
+  [ 
+   { "key" : "audienceKey",
+    "navtitle" : "",
+    "categories" : 
+    [ 
+     { "key" : "Potential_Client",
+      "navtitle" : "",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "API_Integrator",
+      "navtitle" : "",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "CSOB",
+      "navtitle" : "",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "Tirana_Bank",
+      "navtitle" : "",
+      "categories" : 
+      [  ] } ] } ] }

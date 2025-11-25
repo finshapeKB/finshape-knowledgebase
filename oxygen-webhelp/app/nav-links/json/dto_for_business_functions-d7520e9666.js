@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"dto_for_business_functions-d7520e9666":{"topics":[{"title":"DO for subtype: Account managing","href":"topics\/dto_for_category_account_managing.html","attributes":{"data-id":"dto_for_category_account_managing"},"menu":{"hasChildren":false},"tocID":"dto_for_category_account_managing-d7520e9674","next":"dto_for_category_account_managing-d7520e9674"}]}};

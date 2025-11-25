@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"atm_payments-d7520e4708":{"topics":[{"title":"Single Payment","href":"topics\/single_payment.html","attributes":{"data-id":"single_payment"},"menu":{"hasChildren":false},"tocID":"single_payment-d7520e4716","next":"single_payment-d7520e4716"}]}};

@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"core_and_common_functionalities-d7520e482":{"topics":[{"title":"Multiple Database Support in GPS","href":"topics\/multiple_database_support_in_gps.html","attributes":{"data-id":"multiple_database_support_in_gps"},"menu":{"hasChildren":false},"tocID":"multiple_database_support_in_gps-d7520e490","topics":[]}]}};

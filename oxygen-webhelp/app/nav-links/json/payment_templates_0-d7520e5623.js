@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"payment_templates_0-d7520e5623":{"topics":[{"title":"Create Local Payment Template","href":"topics\/create_local_payment_template.html","attributes":{"data-id":"create_local_payment_template"},"menu":{"hasChildren":false},"tocID":"create_local_payment_template-d7520e5631","topics":[]}]}};
