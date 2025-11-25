@@ -12,6 +12,8 @@
             <p><b>Task domain</b>: <xref href="functional_tasks.dita"/></p>
             <p><b>Task type </b>: <xref href="business_tasks.dita"/></p>
             <p><b>Task sub type </b>: <xref href="untitled19.dita"/></p>
+            <p><wintitle>Task step-by-step guidance</wintitle>: <xref
+                    href="step_by_step_guidance.dita"/></p>
         </section>
         <section id="section_ryf_pqm_3hc">
             <title>Making New Payment task relationships </title>
@@ -27,9 +29,6 @@
                 processes after it is performed. For example, if you delete a user, then it may
                 require an update elsewhere. This type of affection has to clarified in the
                 table</p>
-        </section>
-        <section id="section_v25_gcn_3hc">
-            <p/>
         </section>
     </body>
 </topic>

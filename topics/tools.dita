@@ -2,11 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="tools">
     <title>Tools</title>
-    <shortdesc>Tools это инструменты, которые использует компания для создания компоненотов,
-        аппликаций и т.д. То есть вспомагательные инструменты. Когда опен сорс апка внедряется в
-        состав компонента или другого элемента, туулс становится частью продукта финшейп и в этом
-        смысле не является тулсом а становится компонентом ДБОС, вне зависсимости от того встроен он
-        в код продукта финшейпа или просто колится компонентами или приложениями.</shortdesc>
+    <shortdesc>Tools are not the component of the DBOS composite application but are used to help
+        components or app creation. When tool is being integrated in DBOS composite application,
+        tool is becoming a DBOS component, and it doesn't matter, if a tool belongs to Finshape, 3rd
+        party or open source.</shortdesc>
     <body>
         <p></p>
     </body>

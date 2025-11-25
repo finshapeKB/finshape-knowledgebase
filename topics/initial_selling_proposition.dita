@@ -7,62 +7,106 @@
     <body>
         <p>There is huge misunderstanding between Salesperson and Project team. The problem is that
             our products are mainly custom and complicated. To shorten the misunderstanding gaps,
-            Business Analyst (consulting) Role exist. </p>
+            Salesperson and Business Analyst work together. </p>
         <p>It's crucial to lead potential client to the purchasing the products smoothly but
             Business Analyst starts communicate with salesperson and client lately, when some wrong
-            promises may be given to the potential client. Wrong promise leads to lost client.</p>
-        <p>If given to potential client information doesn't align to standard (despite of custom
-            approach) products and we want to have this client, Project team faced to wasting time
-            and money on creating custom components add-ons on the Project level. While there are
-            standard solutions that aligns with clients required tasks, though they handles those
-            tasks with a bit different way client suppose to.</p>
-        <p>Initial selling proposition is a starting point for future Project Implementation
-            process. Salesperson gives to potential client some information about products. But
-            products are not the same as possibilities. It's important to understand the difference
-            to offer products for a competitive price and deliver it for reasonable time schedule. </p>
-        <p>So, we must provide Salesperson with the correct information so that the Initial selling
-            proposition is created based on enterprise products that are described in the Knowledge
-            Base portal.</p>
-        <p>To get information you need to handle the task you may go to <xref
-                href="finshape_products_clients_pay_for.dita"/> section and review product tasks
-            (feature) list. You may use portal full text searching possibilities or AI agent. </p>
-        <p>Instead, you may go through following Step by step guidance to find information about
-            banking specific task.</p>
-        <p>
-            <ol id="ol_lpn_cv5_ghc">
-                <li>
-                    <p>Find out with your client what banking Role handles the task and what
-                        Category the task is.</p>
-                </li>
-                <li>
-                    <p>Go to Knowledge Base section Roles <xref href="roles.dita"/> and select the
-                        Role client mentioned to review tasks that are assigned to this Role<note
-                            id="note_qj2_vyn_3hc">We recommend you to open the Role's task list in a
-                            new tab to comfortably switch between this guide and needed
-                            sections</note></p>
-                </li>
-                <li>
-                    <p>Find within the task list the task (task title) client is talking about</p>
-                </li>
-                <li>
-                    <p>Select task title within the list and main Task page will be opened </p>
-                </li>
-                <li>
-                    <p>Select <parmname>Task handle UI page</parmname> parameter to review the UI
-                        page for the Task handling and its video demo</p>
-                </li>
-                <li>
-                    <p>Select Step-by-step guidance section to review how to handle the task</p>
-                </li>
-                <li>
-                    <p>Use Task's PID to include it to the initial selling proposition <note
-                            id="note_wsz_gx5_ghc">If we have such tool, the Initial selling
-                            proposition document will be generated automatically.</note></p>
-                </li>
-                <li>
-                    <p>Go to the next client's need.</p>
-                </li>
-            </ol>
+            promises may be given to the potential client. Wrong promise leads to lost client and if
+            given to potential client information doesn't align to standard products and we want to
+            have this client, Project team faced to rising Project costs due to wasting time and
+            money on creating custom components add-ons and applications on the Project level. While
+            in the product line there are standard solutions that aligns with clients required
+            tasks, though they handles those tasks with a bit different way client suppose to.</p>
+        <p>Initial selling proposition is a <wintitle>First bottleneck</wintitle> within Project
+            Implementation process. Salesperson gives to potential client some information about
+            products. But products are not the same as possibilities and it's important to
+            understand the difference to offer products instead of possibilities. So, to go through
+                <wintitle>First bottleneck</wintitle> we must provide Salesperson with the correct
+            information.</p>
+        <p>Assume that your client ask you about <wintitle>New payment </wintitle> task within
+                <wintitle>Desktop Internet banking application</wintitle>. There are four main
+            searching possibilities for information to answer client's question.<dl
+                id="dl_i3d_kjs_khc">
+                <dlentry>
+                    <dt>I am the Absolute truth</dt>
+                    <dd>It's up to you, you are the best, know everything, and don't need any
+                        information.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Full text search or AI agent help</dt>
+                    <dd>Enter searching detail that you know about task (task ID: PT04.01.01, task
+                        title, Role that handles the task, etc.), depending on details searching
+                        results are provided.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Step-by-step guidance</dt>
+                    <dd>
+                        <p>Step-by-step guidance is the most fast and precise way of getting
+                            information from client to understand what real client's question is
+                            about. Client may use task term (internal bank or competitive product's)
+                            that is different to ours and it is hard to understand context. </p>
+                        <p>Go through following Step by step guidance to find information about
+                            banking specific task.</p>
+                        <p>
+                            <ol id="ol_syh_4ls_khc">
+                                <li>
+                                    <p>Find out with your client what banking Role handles the task
+                                        and what Category the task is.</p>
+                                </li>
+                                <li>
+                                    <p>Go to Knowledge Base section Roles <xref href="roles.dita"/>
+                                        and select the role <xref href="bank_s_privat_client.dita"/>
+                                        client mentioned to review tasks that are assigned to this
+                                        Role. <note id="note_tyh_4ls_khc">We recommend you to open
+                                            the Role's task list in a new tab to comfortably switch
+                                            between this guide and needed sections</note></p>
+                                </li>
+                                <li>
+                                    <p>Find within the task list the <wintitle>Task title</wintitle>
+                                        client is talking about. </p>
+                                </li>
+                                <li>
+                                    <p>Select needed task within the list <xref
+                                            href="business_tasks_1.dita"/> and main Task page will
+                                        be opened.</p>
+                                </li>
+                                <li>
+                                    <p>Select  parameter <parmname>Task handle UI page</parmname>
+                                        <xref href="new_payment_page.dita"/> to review the UI page
+                                        for the Task handling and its video demo (if provided).</p>
+                                </li>
+                                <li>
+                                    <p>Select Step-by-step guidance section <xref
+                                            href="step_by_step_guidance.dita"/> to review how to
+                                        handle the task</p>
+                                </li>
+                                <li>
+                                    <p>Use Task's PID to include it to the initial selling
+                                            proposition.<note id="note_uyh_4ls_khc">If we have such
+                                            tool (AI agent script), the Initial selling proposition
+                                            document will be generated automatically and all needed
+                                            related to the Project implementation process
+                                            information (DBOS component, Workspace,  Task UI page,
+                                            UX logic, Data object etc.) will be there.</note></p>
+                                </li>
+                                <li>
+                                    <p>Go to the next client's need.</p>
+                                </li>
+                            </ol>
+                        </p>
+                    </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Table of content search</dt>
+                    <dd>To get information you need to answer the client question you may go to
+                            <xref href="finshape_products_clients_pay_for.dita"/> section, scroll
+                        down the page, select needed product <xref
+                            href="desktop_internet_banking_application.dita"/>, select <xref
+                            href="introduction_to_the_product_3.dita"/>section, review Use case
+                        (Task) list within <xref
+                            href="business_tasks_you_accomlish_using_this_product_3.dita"/> page and
+                        select needed Task to get all needed information.</dd>
+                </dlentry>
+            </dl>
         </p>
     </body>
 </topic>

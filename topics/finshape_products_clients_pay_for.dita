@@ -2,6 +2,196 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="finshape_products_clients_pay_for">
     <title>Products</title>
-    <shortdesc>Finshape’s main product is a custom Digital Banking solution. We offer to our clients
-        standalone products (solutions), add-on components, applications, and services. </shortdesc>
+    <shortdesc>Finshape’s main product is a custom  <wintitle>All-in-One Digital Banking
+            solution</wintitle> that comprise <wintitle>Core Digital Banking solution</wintitle>,
+        add-on components, applications, and services. </shortdesc>
+    <body>
+        <p>We offer to our clients <wintitle>Digital Identity </wintitle>, <wintitle>Authentication
+                and authorization solution</wintitle> and <wintitle>Core Digital Banking
+                solution</wintitle> as standalone products (solutions), add-ons components that
+            provide advanced features in addition to the <wintitle>Core Digital Banking
+                solution</wintitle>, client support and maintenance services. Standalone means that
+            product may be delivered to a client on the Project level and doesn't depend on other
+            DBOS components and data sources.<note id="note_jx5_zqv_jhc">Add-ons are not standalone
+                products that are capable to provide services independently from other DBOS
+                components and data sources, so they may be offered to a client in combination with
+                    <wintitle>Core Digital Banking solution</wintitle> only. </note></p>
+        <p>To become a standalone product, add-on must have external service and reference API
+            connectors (see <xref href="connectors_module.dita"/> section) and be independent from
+            other DBOS components and data sources, which means being capable of providing services
+            alone. Finshape can turn into standalone product any add-on component but it may take
+            time and is not always cost effective for our clients.<dl id="dl_utk_2bs_jhc">
+                <dlentry>
+                    <dt>DBOS component</dt>
+                    <dd>A component comprises an application program that implements the business
+                        logic and configuration information. A component offers a service to other
+                        components and in turn consumes functions offered by other services using
+                        service-oriented interfaces.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>DBOS composite application</dt>
+                    <dd>A composite application is created by combining one or more components that
+                        together implement the business logic of the new application. </dd>
+                </dlentry>
+            </dl><fig id="fig_dfn_yfq_jhc">
+                <p>
+                    <fig id="fig_fsd_1gq_jhc">
+                        <title>General connectors</title>
+                        <image placement="break" href="../images/general_connectors_diagram.png"
+                            id="image_gsd_1gq_jhc"/>
+                    </fig>
+                </p>
+            </fig></p>
+        <p>
+            <note id="note_iqc_t5p_jhc">Short Product description consists of three parts: <ol
+                    id="ol_bz1_v5p_jhc">
+                    <li>Is it a standalone product, add-on or service? </li>
+                    <li>
+                        <p>What benefits it brings to the client? </p>
+                    </li>
+                    <li>
+                        <p>Which elements and components it consists of from the technical point of
+                            view </p>
+                    </li>
+                </ol></note>
+            <dl id="dl_dht_4mb_jhc">
+                <dlentry>
+                    <dt><xref href="digital_identity_0.dita"/></dt>
+                    <dd><wintitle>Digital Identity </wintitle> is a standalone product (solution)
+                        that provides centralized authentication, session management, and OpenID
+                        Connect–based security for all connected banking systems. It ensures secure
+                        user login, unified session handling, and consistent identity governance
+                        across channels. This product is delivered through the DBOS component called
+                        Digital Identity (GAAS).</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="authentication_and_authorization_solution.dita"/></dt>
+                    <dd><wintitle>Authentication and authorization solution</wintitle> is a
+                        standalone product (solution) that provides a comprehensive, secure, and
+                        scalable service: identity, access, and operational governance across the
+                        entire digital banking system. This product is delivered through the DBOS
+                        components Digital Identity (GAAS) and GEN (Entitlements), Admin Console
+                        (WAC) and Login applications for bank clients and bank employees. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="start_digital_banking_solution.dita"/></dt>
+                    <dd><wintitle>Core Digital Banking solution</wintitle> is a standalone product
+                        (solution) that provides the basic digital banking services, including
+                        integration with existing bank systems, storing and providing data, secure
+                        customer operations, executing transactions, and support for additional
+                        banking functionalities. The product includes the Authentication and
+                        Authorization solution along with other key components: Instant Data (GDS),
+                        Payments and Instructions (TPM), Integration Hub (IHUB), Service Proxy
+                        (SPX), Admin Console (WAC), Login and Workspace GUI applications for bank
+                        clients and bank employees. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="psd2_support_service.dita"/></dt>
+                    <dd><wintitle>PSD2 Support Service</wintitle> is an optional add-on to the
+                            <wintitle>Core Digital Banking solution</wintitle> that delivers the
+                        mandatory functionality required for PSD2 compliance within the EU. It
+                        enables secure access for licensed third-party providers, manages customer
+                        consents, and ensures proper registration and handling of third-party
+                        entities. The service consists of three core components: OpenBank for
+                        exposing PSD2-compliant APIs, ConsentReg for managing and storing customer
+                        consent, and TpReg for registering and maintaining third-party provider
+                        information.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="desktop_internet_banking_application.dita"/>
+                    </dt>
+                    <dd><wintitle>Desktop Internet banking application</wintitle> is an optional
+                        add-on to the <wintitle>Core Digital Banking solution</wintitle>. It's a web
+                        application implementing the internet banking GUI where a bank employee
+                        operates the solution on behalf of a selected user.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>
+                        <xref href="ios_and_android_smartphone_banking.dita"/></dt>
+                    <dd><wintitle>Mobile Internet Banking application</wintitle> is an optional
+                        add-on to the <wintitle>Core Digital Banking solution</wintitle>. Mobile
+                        applications for iOS (iPhone) and Android smartphones implement a GUI for
+                        smartphone banking. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="four_eyes.dita"/></dt>
+                    <dd><wintitle>Four Eyes</wintitle> is an optional add-on to the <wintitle>Core
+                            Digital Banking solution</wintitle> designed for corporate banking
+                        clients who require stronger internal control. It ensures that sensitive
+                        administrative actions are only executed after being reviewed and approved
+                        by a second authorized user, providing an extra layer of security and
+                        governance.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="notification_centre_gnc.dita"/></dt>
+                    <dd><wintitle>Notification Center (GNC)</wintitle> is an optional add-on to the
+                            <wintitle>Core Digital Banking solution</wintitle> that manages and
+                        generates notifications for selected events, such as balance changes or
+                        specific account movements.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="distribution_gdc.dita"/></dt>
+                    <dd><wintitle>Distribution (GDC)</wintitle> is an optional add-on to the
+                            <wintitle>Core Digital Banking solution</wintitle> that handles the
+                        delivery of notifications to clients, ensuring that alerts and messages
+                        generated by the bank’s systems are reliably sent through the configured
+                        communication channels.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="exchange_rates_xcr_0.dita"/></dt>
+                    <dd><wintitle>Exchange rates (XCR)</wintitle> is an optional add-on to the
+                            <wintitle>Core Digital Banking solution</wintitle> that provides
+                        exchange rate information for foreign currency operations and supports
+                        currency-dependent business rules, such as currency limits or
+                        thresholds.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="experience_builder_exb.dita"/></dt>
+                    <dd><wintitle>Experience builder (EXB)</wintitle> is an optional add-on to the
+                            <wintitle>Core Digital Banking solution</wintitle> that stores
+                        user-specific data for web or mobile applications, such as personalized
+                        dashboard settings or other custom user preferences.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="document_generation_service.dita"/></dt>
+                    <dd><wintitle>Document Generation Service</wintitle> is an optional add-on to
+                        the <wintitle>Core Digital Banking solution</wintitle> that enables the
+                        automated creation of various banking documents, such as contracts,
+                        statements, and confirmations. It ensures that documents are produced
+                        accurately, consistently, and in a fully digital form, supporting both
+                        customer-facing and internal processes. The service consists of two
+                        components: Print Server (GPS), which handles the actual document
+                        generation, and SIDER, a technical extension that allows large or complex
+                        documents to finish processing in the background even after the user logs
+                        out. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt><xref href="all_in_one_digital_banking_solution.dita"/></dt>
+                    <dd><wintitle>All-in-One Digital Banking solution</wintitle> is a standalone
+                        product (solution) that provides the advanced digital banking services,
+                        including integration with existing bank systems, storing and providing
+                        data, secure customer operations, executing transactions, and support for
+                        additional banking functionalities. The product includes the Authentication
+                        and Authorization solution along with other key components: Instant Data
+                        (GDS), Payments and Instructions (TPM), Integration Hub (IHUB), Service
+                        Proxy (SPX), Admin Console (WAC), PSD2 support service, Four Eyes,
+                        Notification Centre, Distribution, Exchange rates, Experience builder,
+                        Document generation service, Login application and Workspace GUI
+                        applications for bank clients and bank employees. </dd>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_zpx_5wb_jhc">
+            <dlentry>
+                <dt><xref href="product_support.dita"/></dt>
+                <dd><wintitle>Client Support</wintitle> is a service that consists of: onboarding
+                    for banking employees etc. </dd>
+            </dlentry>
+            <dlentry>
+                <dt><xref href="maintenance_service.dita"/></dt>
+                <dd><wintitle>Maintenance service</wintitle> is a service that consists of services
+                    related to products' updates, health checkups etc. </dd>
+            </dlentry>
+        </dl>
+    </body>
 </topic>

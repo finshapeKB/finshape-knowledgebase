@@ -4,21 +4,22 @@
     <title>Introduction </title>
     <shortdesc>This section serves to lead users through the key principles of Knowledge Base. </shortdesc>
     <body>
-        <p>This portal was developed based on the analysis on the content needs within the company.
-            Company requirements on the portal and organization principles are described in the PDF
-            report <wintitle>Current Content State: Part 1</wintitle> (report may be provided on
-            demand). </p>
+        <p>This portal was developed based on the analysis on the content needs within the company
+            and designed to align company stated goals. Company goals, content requirements and the
+            portal organization principles are described in the PDF report <wintitle>Current Content
+                State: Part 1</wintitle> (report may be provided on demand). </p>
         <p>
             <note id="note_lhv_3pj_khc" type="important">To understand each menu bar sections'
                 purpose, select the <wintitle>Finshape Knowledge Base</wintitle> at the top left
                 corner, afterwards scroll down, and explore each section's and subsection's short
                 description.</note>
-            <note id="note_qlv_lpj_khc">Knowledge Base comprises of seven main Entities: Right,
-                Role, Workspace, Use case (Task), Step, Data object, Data source. To make Knowledge
-                Base content reusable, we should make changes within the Entity pages. </note>
+            <note id="note_qlv_lpj_khc">Knowledge Base comprises of following main Entities: Role,
+                Right, Workspace, Use case (Task), Step, Data object, Connector, Data source. To
+                make Knowledge Base content reusable, we should make changes within the Entity
+                pages. </note>
         </p>
         <section id="section_vdr_3kf_khc">
-            <title>Knowledge Base purpose </title>
+            <title>Knowledge Base priorities </title>
             <p>Priorities for Knowledge Base were defined: <ul>
                     <li>
                         <p>DBOS Platform business overview </p>
@@ -35,101 +36,144 @@
                     </li>
                     <li>
                         <p>Guidance on how to accomplish use-cases (tasks)</p>
+                        <p>
+                            <dl id="dl_bnb_bwr_khc">
+                                <dlentry>
+                                    <dt>DBOS Platform business overview</dt>
+                                    <dd>Platform business overview is the description of all
+                                        platform capabilities from its user point of view (client's
+                                        point of view). User's product description is being commonly
+                                        presented in a form of the user guide. To see product's
+                                        introduction and user guide, visit these sections: <ul
+                                            id="ul_h4c_4vr_khc">
+                                            <li>
+                                                <p><xref
+                                                  href="finshape_products_clients_pay_for.dita"
+                                                  /></p>
+                                            </li>
+                                            <li>
+                                                <p><xref
+                                                  href="all_in_one_digital_banking_solution.dita"
+                                                  /></p>
+                                            </li>
+                                        </ul><note id="note_i4c_4vr_khc">Guidance on how to
+                                            accomplish use-cases is to be found inside
+                                                <wintitle>Woking with the product</wintitle> or
+                                                <wintitle>Working with the component</wintitle>
+                                            section that is the part of <wintitle>Product user
+                                                guide</wintitle> or <wintitle>Add-on user
+                                                guide</wintitle> section corresponding.</note></dd>
+                                </dlentry>
+                            </dl>
+                            <dl id="dl_lwv_dwr_khc">
+                                <dlentry>
+                                    <dt>Business description of DBOS Components </dt>
+                                    <dd>DBOS components business description is about describing
+                                        component's capabilities from the user point of view
+                                        (clients point of view). Components participating in
+                                        standalone products are described in the related products
+                                        docs. Components that are add-ons are described separately.
+                                            <ul id="ul_xkf_mwr_khc">
+                                            <li>
+                                                <p><xref href="four_eyes.dita"/></p>
+                                            </li>
+                                            <li>
+                                                <p><xref href="notification_centre_gnc.dita"/></p>
+                                            </li>
+                                            <li>
+                                                <p><xref href="distribution_gdc.dita"/></p>
+                                            </li>
+                                            <li>
+                                                <p><xref href="exchange_rates_xcr_0.dita"/></p>
+                                            </li>
+                                            <li>
+                                                <p><xref href="experience_builder_exb.dita"/></p>
+                                            </li>
+                                        </ul><note id="note_ykf_mwr_khc">Guidance on how to
+                                            accomplish use-cases is to be found inside
+                                                <wintitle>Woking with the product</wintitle> or
+                                                <wintitle>Working with the component</wintitle>
+                                            section that is the part of <wintitle>Product user
+                                                guide</wintitle> or <wintitle>Add-on user
+                                                guide</wintitle> section corresponding.</note></dd>
+                                </dlentry>
+                            </dl>
+                            <dl id="dl_s2f_dwr_khc">
+                                <dlentry>
+                                    <dt>Business description of DBOS Tools </dt>
+                                    <dd>Tools are not the component of DBOS composite application.
+                                        Therefore they are not described from the business point of
+                                        view, but technically, in the section: <xref
+                                            href="tools.dita"/>. In case when Tool is being
+                                        integrated in DBOS composite application, tool is becoming a
+                                        DBOS component. And it's not important, if a Tool belongs to
+                                        Finshape or a 3rd party. And in this case, it will be
+                                        described from the business point of view (see above). </dd>
+                                </dlentry>
+                            </dl>
+                            <dl id="dl_gjs_cwr_khc">
+                                <dlentry>
+                                    <dt>Business description of DBOS Applications</dt>
+                                    <dd>Applications are the part of DBOS composite application, and
+                                        described here: <ul id="ul_gty_5dt_khc">
+                                            <li>
+                                                <p><xref href="admin_console_wac.dita"/></p>
+                                            </li>
+                                            <li>
+                                                <p><xref
+                                                  href="desktop_internet_banking_application.dita"
+                                                  /></p>
+                                            </li>
+                                            <li>
+                                                <p><xref
+                                                  href="ios_and_android_smartphone_banking.dita"
+                                                  /></p>
+                                            </li>
+                                        </ul><note id="note_hty_5dt_khc">Guidance on how to
+                                            accomplish use-cases is to be found inside
+                                                <wintitle>Woking with the product</wintitle> or
+                                                <wintitle>Working with the component</wintitle>
+                                            section that is the part of <wintitle>Product user
+                                                guide</wintitle> or <wintitle>Add-on user
+                                                guide</wintitle> section corresponding.</note></dd>
+                                </dlentry>
+                            </dl>
+                            <dl id="dl_xnb_bwr_khc">
+                                <dlentry>
+                                    <dt>Guidance on how to accomplish use-cases (tasks)</dt>
+                                    <dd>Guidance on how to accomplish use-cases is to be found
+                                        inside <wintitle>Woking with the product</wintitle> or
+                                            <wintitle>Working with the component</wintitle> section
+                                        that is the part of <wintitle>Product user guide</wintitle>
+                                        or <wintitle>Add-on user guide</wintitle> section
+                                        corresponding.</dd>
+                                </dlentry>
+                            </dl>
+                        </p>
                     </li>
                 </ul></p>
         </section>
-        <p>
-            <dl id="dl_x4p_jlf_khc">
-                <dlentry>
-                    <dt>DBOS Platform business overview</dt>
-                    <dd>Platform business overview is the description of all platform capabilities
-                        from its user point of view (client's point of view). User's product
-                        description is being commonly presented in a form of the user guide. To see
-                        product's introduction and user guide, visit these sections: <ul
-                            id="ul_emk_z4f_khc">
-                            <li>
-                                <p><xref href="digital_banking_main_solution.dita"/></p>
-                            </li>
-                            <li>
-                                <p><xref href="all_in_one_digital_banking_solution.dita"/></p>
-                            </li>
-                        </ul><note id="note_gkz_rnf_khc">Use-cases step-by-step guidance will be
-                            located in the <wintitle>Woking with the product</wintitle> or
-                                <wintitle>Working with the component</wintitle> section that is the
-                            part of Product user guide or Add-on user guide section corresponding.
-                            Example: <xref href="product_user_guide.dita"/>/<xref
-                                href="working_with_the_product_12.dita"/>.</note></dd>
-                </dlentry>
-            </dl>
-        </p>
-        <dl id="dl_mmr_14f_khc">
-            <dlentry>
-                <dt>Business description of DBOS Components </dt>
-                <dd>DBOS components business description is about describing component's
-                    capabilities from the user point of view (clients point of view). Components
-                    participating in standalone products are described in the related products docs.
-                    Components that are add-ons are described separately. <ul id="ul_o5g_y4f_khc">
-                        <li>
-                            <p><xref href="four_eyes.dita"/></p>
-                        </li>
-                        <li>
-                            <p><xref href="notification_centre_gnc.dita"/></p>
-                        </li>
-                        <li>
-                            <p><xref href="distribution_gdc.dita"/></p>
-                        </li>
-                        <li>
-                            <p><xref href="exchange_rates_xcr_0.dita"/></p>
-                        </li>
-                        <li>
-                            <p><xref href="experience_builder_exb.dita"/></p>
-                        </li>
-                    </ul><note id="note_fd2_l4f_khc">Use-cases related to components will be located
-                        in the <wintitle>Working with the component</wintitle> section that is the
-                        part of <wintitle>Product user guide</wintitle> or <wintitle>Add-on user
-                            guide</wintitle> section corresponding. Example: <xref
-                            href="sorworking_with_the_product_1.dita"/>.</note></dd>
-            </dlentry>
-        </dl>
-        <dl id="dl_jdh_gpf_khc">
-            <dlentry>
-                <dt>Business description of DBOS Tools </dt>
-                <dd>Tools are not the component of DBOS composite application. Therefore they are
-                    not described from the business point of view, but technically, in the section:
-                        <xref href="tools.dita"/>. In case when Tool is being integrated in DBOS
-                    composite application, tool is becoming a DBOS component. And it's not
-                    important, if a Tool belongs to Finshape or a 3rd party. And in this case, it
-                    will be described from the business point of view (see above). </dd>
-            </dlentry>
-        </dl>
-        <dl id="dl_vqv_vpf_khc">
-            <dlentry>
-                <dt>Business description of DBOS Applications</dt>
-                <dd>Applications are the part of DBOS composite application, and described here: <ul
-                        id="ul_kfn_zpf_khc">
-                        <li>
-                            <p><xref href="admin_console_wac.dita"/></p>
-                        </li>
-                        <li>
-                            <p><xref href="desktop_internet_banking_application.dita"/></p>
-                        </li>
-                        <li>
-                            <p><xref href="ios_and_android_smartphone_banking.dita"/></p>
-                        </li>
-                    </ul></dd>
-            </dlentry>
-        </dl>
-        <p>
-            <dl id="dl_x3x_hrf_khc">
-                <dlentry>
-                    <dt>Guidance on how to accomplish use-cases (tasks)</dt>
-                    <dd>Guidance on how to accomplish use-cases is to be found inside
-                            <wintitle>Woking with the product</wintitle> or <wintitle>Working with
-                            the component</wintitle> section that is the part of <wintitle>Product
-                            user guide</wintitle> or <wintitle>Add-on user guide</wintitle> section
-                        corresponding.</dd>
-                </dlentry>
-            </dl>
-        </p>
+        <section id="section_wnp_wwr_khc">
+            <title>Knowledge Base strategy </title>
+            <p>Finshape Knowledge Base is a tool for providing company employees, partners, and
+                clients with the information necessary to handle specific tasks. Portal technology
+                allows to generate, update and handle Role specific (Potential customers, bank
+                clients, bank employee Roles, Finshape Roles etc.) static UI pages.</p>
+            <p>Information may be provided in a convenient format (inside app, web, PDF, Word,
+                etc.), on all platforms (desk, tablet, mobile) and in a timely manner. That means
+                not in the form of a narrative book that no one intends or will read, but in the
+                form of a specific, step-by-step task completion guidance. </p>
+            <p>Usually, users are looking for instruction on how to, rather than general
+                information. A use case can be on any topic and depends on the role the portal user
+                currently plays. Potential customers, bank employees, and bank clients handle
+                Functional tasks, Finshape employees and partners Product tasks. </p>
+            <p> Example of Pre-sales Product task: <xref href="initial_selling_proposition.dita"
+                /></p>
+        </section>
+        <example id="example_qdw_tht_khc">Example of bank's Retail client Functional task: <xref
+                href="business_tasks_1.dita"/> / <xref href="step_by_step_guidance.dita"/></example>
+        <example id="example_sv2_gqt_khc">Example of other Functional task on DBOS portal: <xref
+                href="https://docs.finshape.com/wac2/current/client-management/client-details.html"
+                format="html" scope="external"/></example>
     </body>
 </topic>
