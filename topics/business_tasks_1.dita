@@ -4,31 +4,6 @@
     <title>Making New Payment: FT03.01.01</title>
     <shortdesc>Making New payment is a task that may be handled within ….….….….</shortdesc>
     <body>
-        <p>Broader Context: New Payment refers the category Payment Tasks. It is a simple money
-            transaction.</p>
-        <section id="section_it2_fpm_3hc">
-            <title>Introduction</title>
-            <p><b>Task PID</b>: 001</p>
-            <p><b>Task domain</b>: <xref href="functional_tasks.dita"/></p>
-            <p><b>Task type </b>: <xref href="business_tasks.dita"/></p>
-            <p><b>Task sub type </b>: <xref href="untitled19.dita"/></p>
-            <p><wintitle>Task step-by-step guidance</wintitle>: <xref
-                    href="step_by_step_guidance.dita"/></p>
-        </section>
-        <section id="section_ryf_pqm_3hc">
-            <title>Making New Payment task relationships </title>
-            <p><b>Is a part of Roles </b>(relationship type): <xref href="bank_s_privat_client.dita"
-                /></p>
-            <p><b>Is handled within workspace</b> : <xref href="privat_clients_ui_workspace.dita"
-                /></p>
-            <p><b>Is handled within workspace page</b>: <xref
-                    href="privat_clients_accounts_ui_page.dita"/></p>
-            <p><b>Task handling UI pages</b> : <xref href="new_payment_page.dita"/></p>
-            <p><b>Consists of steps</b>: <xref href="new_payment_task_s_steps_list.dita"/></p>
-            <p><b>Is affecting what</b> (relation type): Task may affect some other tasks, steps, or
-                processes after it is performed. For example, if you delete a user, then it may
-                require an update elsewhere. This type of affection has to clarified in the
-                table</p>
-        </section>
+        <p>Broader Context: New Payment Tasks is a simple money transaction.…..</p>
     </body>
 </topic>

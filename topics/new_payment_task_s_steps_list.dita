@@ -68,7 +68,7 @@
                         <entry/>
                         <entry><xref href="to_foreign_country_0.dita"/></entry>
                         <entry><xref href="to_foreign_country.dita"/></entry>
-                        <entry><xref href="ai_financial_assistant.dita"/></entry>
+                        <entry/>
                         <entry><xref href="dto_for_step_switch_to_domestic_payment_page.dita"
                             /></entry>
                         <entry><xref href="dbos_component_connectors.dita"/></entry>
@@ -77,7 +77,7 @@
                         <entry/>
                         <entry><xref href="recipient_s_name_0.dita"/></entry>
                         <entry><xref href="recipient_s_name.dita"/></entry>
-                        <entry><xref href="ai_financial_assistant.dita"/></entry>
+                        <entry/>
                         <entry><xref href="dto_for_step_input_recipient_s_name.dita"/></entry>
                         <entry><xref href="dbos_internal_connectors.dita"/></entry>
                     </row>

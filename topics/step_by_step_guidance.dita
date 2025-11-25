@@ -8,7 +8,7 @@
         <steps>
             <step>
                 <cmd>Go to your Private client's Workspace</cmd>
-                <info>See Login section: …...</info>
+                <info>See Login task: …...</info>
             </step>
             <step>
                 <cmd>Select <menucascade>
@@ -19,10 +19,7 @@
                     <fig id="fig_svf_kfv_3hc">
                         <p>
                             <fig id="fig_c2k_lfv_3hc">
-                                <title>Domestic account managing page</title>
-                                <image placement="break"
-                                    href="../images/domestic_accounts_ui_page.jpg"
-                                    id="image_d2k_lfv_3hc"/>
+                                <p>Starter kit image...</p>
                             </fig>
                         </p>
                     </fig>
@@ -35,9 +32,7 @@
                     <fig id="fig_ulq_mfv_3hc">
                         <p>
                             <fig id="fig_fst_sfv_3hc">
-                                <title>New payment</title>
-                                <image placement="break" href="../images/new_payment_ui_control.png"
-                                    id="image_gst_sfv_3hc"/>
+                                <p>Starter kit image</p>
                             </fig>
                         </p>
                     </fig>
@@ -50,9 +45,7 @@
                     <fig id="fig_n42_tfv_3hc">
                         <p>
                             <fig id="fig_svr_2gv_3hc">
-                                <title>Recipient's name</title>
-                                <image placement="break" href="../images/enter_recipient.jpeg"
-                                    id="image_tvr_2gv_3hc"/>
+                                <p>Starter kit image</p>
                             </fig>
                         </p>
                     </fig>
@@ -64,9 +57,7 @@
                     <fig id="fig_acz_2gv_3hc">
                         <p>
                             <fig id="fig_g4w_fgv_3hc">
-                                <title>Account number</title>
-                                <image placement="break" href="../images/account_number.jpeg"
-                                    id="image_h4w_fgv_3hc"/>
+                                <p>Starter kit image</p>
                             </fig>
                         </p>
                     </fig>
@@ -80,9 +71,7 @@
                             <fig id="fig_yyk_hgv_3hc">
                                 <p>
                                     <fig id="fig_m5d_kgv_3hc">
-                                        <title>Bank code</title>
-                                        <image placement="break" href="../images/bank_code.jpeg"
-                                            id="image_n5d_kgv_3hc"/>
+                                        <p>Starter kit image</p>
                                     </fig>
                                 </p>
                             </fig>
@@ -96,9 +85,7 @@
                     <fig id="fig_g1b_3gv_3hc">
                         <p>
                             <fig id="fig_zzd_jgv_3hc">
-                                <title>Amount</title>
-                                <image placement="break" href="../images/amount.jpeg"
-                                    id="image_a12_jgv_3hc"/>
+                                <p>Starter kit image</p>
                             </fig>
                         </p>
                     </fig>
@@ -106,34 +93,65 @@
             </step>
             <step>
                 <cmd>Select <uicontrol>Currency</uicontrol> in which you'd like to pay</cmd>
-                <info>Your future account balance will be shown</info>
+                <info>Your future account balance will be shown<fig id="fig_qjb_3lv_khc">
+                        <p>Starter kit image</p>
+                    </fig></info>
             </step>
             <step>
                 <cmd>Enter <uicontrol>Variable symbol</uicontrol></cmd>
+                <info>
+                    <fig id="fig_v22_jlv_khc">
+                        <p>Starter kit image</p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter <uicontrol>Constant symbol</uicontrol></cmd>
+                <info>
+                    <fig id="fig_xt5_jlv_khc">
+                        <p>Starter kit image</p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter <uicontrol>Note to sender</uicontrol></cmd>
+                <info>
+                    <fig id="fig_jzg_klv_khc">
+                        <p>Starter kit image</p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Email confirmation</uicontrol> to send a transfer
                     notification</cmd>
+                <info>
+                    <fig id="fig_nty_klv_khc">
+                        <p>Starter kit image</p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Transfer date</uicontrol></cmd>
+                <info>
+                    <fig id="fig_xyh_llv_khc">
+                        <p>Starter kit image</p>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Continue</uicontrol> to proceed the payment</cmd>
                 <info><wintitle>Sign</wintitle> page will be opened to inform you about the
                     transaction details. You will receive a <wintitle>New request to
-                        confirm</wintitle> SMS</info>
+                        confirm</wintitle> SMS<fig id="fig_z4y_mlv_khc">
+                        <p>Starter kit image</p>
+                    </fig></info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Confirm payment</uicontrol> on your mobile phone</cmd>
                 <info><wintitle>OK payment request</wintitle> page is opened to inform you that your
-                    payment request is being processing </info>
+                    payment request is being processing <fig id="fig_irp_nlv_khc">
+                        <p>Starter kit image</p>
+                    </fig></info>
             </step>
             <step>
                 <cmd>Select <uicontrol>Done</uicontrol></cmd>
