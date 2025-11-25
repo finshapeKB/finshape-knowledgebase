@@ -574,7 +574,7 @@
             </topicref>
             <topicref href="topics/product_support.dita"/>
             <topicref href="topics/maintenance_service.dita"/>
-            <topicref href="topics/csob_solution.dita" audience="Potential_Client Tirana_Bank">
+            <topicref href="topics/csob_solution.dita" audience="Potential_Client">
                 <topicref href="topics/sorintroduction_to_the_product_1.dita">
                     <topicref href="topics/sorwhat_is_the_product_1.dita"/>
                     <topicref
@@ -849,7 +849,7 @@
                     </topicref>
                 </topicref>
             </topicref>
-            <topicref href="topics/tirana_bank.dita" audience="Potential_Client CSOB">
+            <topicref href="topics/tirana_bank.dita" audience="Potential_Client">
                 <topicref href="topics/introduction_to_the_product_13.dita">
                     <topicref href="topics/what_is_the_product_13.dita"/>
                     <topicref href="topics/business_tasks_you_accomlish_using_this_product_20.dita"
@@ -1106,7 +1106,7 @@
         </topicref>
     </topicref>
     <topicref href="topics/roles.dita" audience="API_Integrator">
-        <topicref href="topics/finshape_roles.dita" audience="Potential_Client CSOB Tirana_Bank">
+        <topicref href="topics/finshape_roles.dita" audience="Potential_Client">
             <topicref href="topics/marketing.dita"/>
             <topicref href="topics/sales.dita"/>
             <topicref href="topics/salesperson.dita"/>
@@ -2571,7 +2571,7 @@
         <topicref href="topics/dto_for_management_functions.dita"/>
         <topicref href="topics/dto_for_dbos_maintenance_functions.dita"/>
     </topicref>
-    <topicref href="topics/data_sources.dita">
+    <topicref href="topics/data_sources.dita" audience="Potential_Client">
         <topicref href="topics/dbos_components.dita">
             <topicref href="topics/sordigital_identity_gaas.dita"/>
             <topicref href="topics/sorexperience_builder_exb.dita"/>
