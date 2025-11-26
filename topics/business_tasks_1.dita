@@ -2,7 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="business_tasks_1">
     <title>Making New Payment: FT03.01.01</title>
-    <shortdesc>Making New payment is a task that may be handled within ….….….….</shortdesc>
+    <shortdesc>Making New payment task means a simple money transaction from client's account to a
+        receiver's account. Task that may be handled within Desktop or Mobile digital banking
+        application, by bank's retail or corporate clients. This task has it's own UI
+        page.</shortdesc>
     <body>
         <p>Broader Context: New Payment Tasks is a simple money transaction.…..</p>
     </body>

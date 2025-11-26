@@ -85,7 +85,18 @@
                     <topicref href="topics/maintenance_0.dita"/>
                     <topicref href="topics/working_with_the_product.dita"/>
                     <topicref href="topics/troubleshooting_0.dita"/>
-                    <topicref href="topics/prodproduct_components_0.dita"/>
+                    <topicref href="topics/prodproduct_components_0.dita">
+                        <topicref href="topics/proddigital_identity_gaas.dita"/>
+                        <topicref href="topics/prodentitlements_gen.dita"/>
+                        <topicref href="topics/prodadmin_console_wac.dita"/>
+                        <topicref href="topics/prodlogin_application.dita"/>
+                        <topicref href="topics/prodinstant_data_gds.dita"/>
+                        <topicref href="topics/prodpayments_and_instructions_tpm.dita"/>
+                        <topicref href="topics/prodintegration_hub_ihub.dita"/>
+                        <topicref href="topics/prodservice_proxy_spx.dita"/>
+                        <topicref href="topics/proddesktop_internet_banking_application.dita"/>
+                        <topicref href="topics/prodmobile_internet_banking_application.dita"/>
+                    </topicref>
                 </topicref>
             </topicref>
             <topicref href="topics/admin_console_wac.dita">
