@@ -40,21 +40,25 @@
                             <dl id="dl_bnb_bwr_khc">
                                 <dlentry>
                                     <dt>DBOS Platform business overview</dt>
-                                    <dd>Platform business overview is the description of all
-                                        platform capabilities from its user point of view (client's
-                                        point of view). User's product description is being commonly
-                                        presented in a form of the user guide. To see product's
-                                        introduction and user guide, visit these sections: <ul
-                                            id="ul_h4c_4vr_khc">
+                                    <dd>DBOS composite application (Platform) business overview is
+                                        the description of all platform capabilities from its user
+                                        point of view (client's point of view). User's product
+                                        description is being commonly presented in a form of the
+                                        user guide. To see product's introduction and user guide,
+                                        visit these sections: <ul id="ul_h4c_4vr_khc">
                                             <li>
                                                 <p><xref
-                                                  href="finshape_products_clients_pay_for.dita"
-                                                  /></p>
+                                                  href="finshape_products_clients_pay_for.dita"/>
+                                                  page may be Finshape products White Paper.</p>
                                             </li>
                                             <li>
                                                 <p><xref
-                                                  href="all_in_one_digital_banking_solution.dita"
-                                                  /></p>
+                                                  href="all_in_one_digital_banking_solution.dita"/>
+                                                  describes main Finshape product.</p>
+                                            </li>
+                                            <li>
+                                                <p>Other products pages describe specific
+                                                  products.</p>
                                             </li>
                                         </ul><note id="note_i4c_4vr_khc">Guidance on how to
                                             accomplish use-cases is to be found inside
@@ -68,12 +72,12 @@
                             <dl id="dl_lwv_dwr_khc">
                                 <dlentry>
                                     <dt>Business description of DBOS Components </dt>
-                                    <dd>DBOS components business description is about describing
+                                    <dd>DBOS components are business description is about describing
                                         component's capabilities from the user point of view
                                         (clients point of view). Components participating in
                                         standalone products are described in the related products
-                                        docs. Components that are add-ons are described separately.
-                                            <ul id="ul_xkf_mwr_khc">
+                                        docs. Components that are add-ons products are described
+                                        separately in the product pages. <ul id="ul_xkf_mwr_khc">
                                             <li>
                                                 <p><xref href="four_eyes.dita"/></p>
                                             </li>
@@ -103,19 +107,20 @@
                                     <dt>Business description of DBOS Tools </dt>
                                     <dd>Tools are not the component of DBOS composite application.
                                         Therefore they are not described from the business point of
-                                        view, but technically, in the section: <xref
-                                            href="tools.dita"/>. In case when Tool is being
+                                        view in the product pages, but technically, in the section:
+                                            <xref href="tools.dita"/>. In case when Tool is being
                                         integrated in DBOS composite application, tool is becoming a
                                         DBOS component. And it's not important, if a Tool belongs to
-                                        Finshape or a 3rd party. And in this case, it will be
-                                        described from the business point of view (see above). </dd>
+                                        Finshape or a 3rd party. In this case, it will be described
+                                        from the business point of view in the product pages (see
+                                        above). </dd>
                                 </dlentry>
                             </dl>
                             <dl id="dl_gjs_cwr_khc">
                                 <dlentry>
                                     <dt>Business description of DBOS Applications</dt>
                                     <dd>Applications are the part of DBOS composite application, and
-                                        described here: <ul id="ul_gty_5dt_khc">
+                                        described in the product pages here: <ul id="ul_gty_5dt_khc">
                                             <li>
                                                 <p><xref href="admin_console_wac.dita"/></p>
                                             </li>
@@ -146,7 +151,11 @@
                                             <wintitle>Working with the component</wintitle> section
                                         that is the part of <wintitle>Product user guide</wintitle>
                                         or <wintitle>Add-on user guide</wintitle> section
-                                        corresponding.</dd>
+                                        corresponding. Other way to reach step-by-step guidance is
+                                        to go to <xref href="tasks.dita"/> section or to <xref
+                                            href="roles.dita"/> section. See also <xref
+                                            href="initial_selling_proposition.dita"/> to understand
+                                        searching for information logic. </dd>
                                 </dlentry>
                             </dl>
                         </p>
@@ -155,11 +164,36 @@
         </section>
         <section id="section_wnp_wwr_khc">
             <title>Knowledge Base strategy </title>
-            <p>Finshape Knowledge Base is a tool for providing company's employees, partners, and
-                clients with the information necessary to handle specific tasks. Portal technology
-                allows to generate, update and handle Role specific (Potential customers, bank
-                clients, bank employee Roles, Finshape Roles etc.) static UI pages.</p>
-            <p>Information may be provided in a convenient format (inside app, web, PDF, Word,
+            <p>One of the company current goals is reducing Project implementation time and cost.
+                There are four main bottleneck in achieving this result: <ul id="ul_zhw_p2y_khc">
+                    <li>
+                        <p><wintitle>Initial proposition issue</wintitle>. Sometimes Salesperson
+                            offers to client company possibilities instead of its real products. See
+                            also <xref href="initial_selling_proposition.dita"/>. </p>
+                    </li>
+                    <li>
+                        <p><wintitle>Integration issue</wintitle>. API integrators face to variety
+                            of core banking systems.</p>
+                    </li>
+                    <li>
+                        <p><wintitle>Translation issue</wintitle>. Front-end developers get
+                            Technical assignment for developing apps and don't understand how to
+                            make it using tools they have.</p>
+                    </li>
+                    <li>
+                        <p><wintitle>Data matching issue</wintitle>. Front-end developers don't know
+                            what data should be connected to specific use-case UI controls.</p>
+                    </li>
+                </ul></p>
+            <p>Knowledge Base from the strategic point of view must twice reduce wasting time for
+                searching information by humans and provide structured information objects for AI
+                agent to give it possibilities to work with. That's why it must become a tool for
+                providing company's employees, partners, and clients with the information necessary
+                to handle specific use-cases tasks. </p>
+            <p>Portal technology must allow to generate, update and handle Role specific (Potential
+                customers, bank clients, bank employee Roles, Finshape Roles etc.) static UI
+                pages.</p>
+            <p>Information must be provided in a convenient format (inside app, web, PDF, Word,
                 etc.), on all platforms (desk, tablet, mobile) and in a timely manner. That means
                 not in the form of a narrative book that no one intends or will read, but in the
                 form of a specific, step-by-step task completion guidance. </p>
@@ -167,13 +201,13 @@
                 information. A use case can be on any topic and depends on the role the portal user
                 currently plays. Potential customers, bank employees, and bank clients handle
                 Functional tasks, Finshape employees and partners Product tasks. </p>
-            <p> Example of Pre-sales Product task: <xref href="initial_selling_proposition.dita"
+            <p>Example of Pre-sales Product task: <xref href="initial_selling_proposition.dita"
                 /></p>
+            <p>Example of bank's Retail client Functional task: <xref href="business_tasks_1.dita"/>
+                / <xref href="step_by_step_guidance.dita"/></p>
+            <p>Example of other Functional task on DBOS portal: <xref
+                    href="https://docs.finshape.com/wac2/current/client-management/client-details.html"
+                    format="html" scope="external"/></p>
         </section>
-        <example id="example_qdw_tht_khc">Example of bank's Retail client Functional task: <xref
-                href="business_tasks_1.dita"/> / <xref href="step_by_step_guidance.dita"/></example>
-        <example id="example_sv2_gqt_khc">Example of other Functional task on DBOS portal: <xref
-                href="https://docs.finshape.com/wac2/current/client-management/client-details.html"
-                format="html" scope="external"/></example>
     </body>
 </topic>

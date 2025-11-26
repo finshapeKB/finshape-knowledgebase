@@ -2,8 +2,8 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="initial_selling_proposition">
     <title>Initial selling proposition: PT04.01.01</title>
-    <shortdesc>Initial selling proposition is the information that salesperson gives to its
-        potential client.</shortdesc>
+    <shortdesc>Initial selling proposition is the information that Salesperson and Pre-sales gives
+        to its potential client.</shortdesc>
     <body>
         <p>There is huge misunderstanding between Salesperson and Project team. The problem is that
             our products are mainly custom and complicated. To shorten the misunderstanding gaps,
@@ -21,15 +21,15 @@
             products. But products are not the same as possibilities and it's important to
             understand the difference to offer products instead of possibilities. So, to go through
                 <wintitle>First bottleneck</wintitle> we must provide Salesperson with the correct
-            information.</p>
+            information about products and Functional tasks they perform.</p>
         <p>Assume that your client ask you about <wintitle>New payment </wintitle> task within
                 <wintitle>Desktop Internet banking application</wintitle>. There are four main
             searching possibilities for information to answer client's question.<dl
                 id="dl_i3d_kjs_khc">
                 <dlentry>
-                    <dt>I am the Absolute truth</dt>
-                    <dd>It's up to you, you are the best, know everything, and don't need any
-                        information.</dd>
+                    <dt>You are the Absolute truth</dt>
+                    <dd>It's up to you, you are the best, everything is in your head, and you don't
+                        need any information.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>Full text search or AI agent help</dt>
@@ -42,51 +42,55 @@
                     <dd>
                         <p>Step-by-step guidance is the most fast and precise way of getting
                             information from client to understand what real client's question is
-                            about. Client may use task term (internal bank or competitive product's)
-                            that is different to ours and it is hard to understand context. </p>
-                        <p>Go through following Step by step guidance to find information about
-                            banking specific task.</p>
+                            about. Client may use task's term (internal bank or competitive
+                            product's) that is different to ours and it is hard to understand
+                            context. </p>
+                        <p>Go through following Step by step guidance to understand client's need
+                            and find information to answer about banking specific, Functional
+                            task.</p>
                         <p>
                             <ol id="ol_syh_4ls_khc">
                                 <li>
-                                    <p>Find out with your client what banking Role handles the task
-                                        and what Category the task is.</p>
+                                    <p>Find out with your client what Role (bank employee, bank
+                                        client etc.) handles the task and what Type the task is.</p>
                                 </li>
                                 <li>
                                     <p>Go to Knowledge Base section <xref href="roles.dita"/> and
                                         select the role <xref href="bank_s_privat_client.dita"/>
-                                        client mentioned to review tasks that are assigned to this
-                                        Role. <note id="note_tyh_4ls_khc">We recommend you to open
-                                            the Role's task list in a new tab to comfortably switch
-                                            between this guide and needed sections</note></p>
+                                        client mentioned. <note id="note_tyh_4ls_khc">We recommend
+                                            you to open the Role's task list in a new tab to
+                                            comfortably switch between this guide and needed
+                                            sections</note></p>
                                 </li>
                                 <li>
-                                    <p>Find within the task list the <wintitle>Task title</wintitle>
-                                        client is talking about. </p>
+                                    <p>Review Role specific task list to match the task client is
+                                        talking about. Leave your feedback on this page if the
+                                        matching was difficult to do.</p>
                                 </li>
                                 <li>
-                                    <p>Select needed task within the list <xref
+                                    <p>Select within the list in the column <wintitle>Task
+                                            title</wintitle> needed task <xref
                                             href="business_tasks_1.dita"/> and main Task page will
                                         be opened.</p>
                                 </li>
                                 <li>
-                                    <p>Select parameter <parmname>Task handle UI page</parmname>
-                                        <xref href="new_payment_page.dita"/> and review the UI
-                                        page.</p>
+                                    <p>Review task parameters to ensure matching and select
+                                        parameter <parmname>Task handle UI page</parmname>
+                                        <xref href="new_payment_page.dita"/>.</p>
                                 </li>
                                 <li>
                                     <p>Select Step-by-step guidance section <xref
                                             href="step_by_step_guidance.dita"/> to review how to
-                                        handle the task</p>
+                                        handle the task.</p>
                                 </li>
                                 <li>
-                                    <p>Use Task's PID to include it to the initial selling
+                                    <p>Wright down task's PID to include it to the initial selling
                                             proposition.<note id="note_uyh_4ls_khc">If we have such
                                             tool (AI agent script), the Initial selling proposition
                                             document will be generated automatically and all needed
                                             related to the Project implementation process
-                                            information (DBOS component, Workspace,  Task UI page,
-                                            UX logic, Data object etc.) will be there.</note></p>
+                                            information (DBOS component, Workspace, Task UI page, UX
+                                            logic, Data object etc.) will be there.</note></p>
                                 </li>
                                 <li>
                                     <p>Go to the next client's need.</p>
